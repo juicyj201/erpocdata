@@ -1,512 +1,512 @@
 {
-    "uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=1&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
-    "version": "1.1",
-    "publishedDate": "2025-01-04T10:34:35Z",
-    "publisher": {
-        "name": "National Treasury (South Africa)",
-        "uri": "https://data.etenders.gov.za/"
-    },
-    "license": "https://opendatacommons.org/licenses/pddl/1-0/111",
-    "publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
-    "releases": [
-        {
-            "ocid": "ocds-9t57fa-111364",
-            "id": "ocds-9t57fa-111364-2024-12-31",
-            "date": "2024-12-31T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111364",
-                "title": "MWP2197GX Regret letter",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description":"Regret letter for the supply, delivery, including storage and handling, of diesel 50ppm (diesel)to Ankerlig power station (Ankerlig) and /or the supply and delivery of jet a1 /keresone / diesel to Acacia and Portrex power stations (Acacia and Portrex) for a period of five (5) years on an as and when required basis",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "65365f3c-349b-4f8a-99bb-ba5b944095e6",
-                        "documentType": "basic",
-                        "title": "Regret Letter for Unsuccessful Suppliers - Diesel supply (MWP2197GX).pdf",
-                        "description": "Regret Letter for Unsuccessful Suppliers - Diesel supply (MWP2197GX).pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=65365f3c-349b-4f8a-99bb-ba5b944095e6.pdf&downloadedFileName=Regret%20Letter%20for%20Unsuccessful%20Suppliers%20-%20Diesel%20supply%20%28MWP2197GX%29.pdf",
-                        "datePublished": "2024-12-31T10:39:05Z",
-                        "dateModified": "2024-12-31T10:39:05Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-31T00:00:00Z",
-                    "endDate": "2025-04-30T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111363",
-            "id": "ocds-9t57fa-111363-2024-12-31",
-            "date": "2024-12-31T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111363",
-                "title": "RFQ JW 207 MS 24 ",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS: BRIDGE 2 SITE SECURING WORKS",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "ae3bc0f4-ac6b-4a9c-9f1f-fa94aa014f36",
-                        "documentType": "basic",
-                        "title": "RFQ JW 207 MS 24 DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS BRIDGE 2 SITE SECURING WORKS.pdf",
-                        "description": "RFQ JW 207 MS 24 DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS BRIDGE 2 SITE SECURING WORKS.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ae3bc0f4-ac6b-4a9c-9f1f-fa94aa014f36.pdf&downloadedFileName=RFQ%20JW%20207%20MS%2024%20DIEPSLOOT%20SEWER%20PIPELINE%20AND%20BRIDGES%20REPAIRS%20BRIDGE%202%20SITE%20SECURING%20WORKS.pdf",
-                        "datePublished": "2024-12-31T09:06:53Z",
-                        "dateModified": "2024-12-31T09:06:53Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-31T00:00:00Z",
-                    "endDate": "2025-01-21T12:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "279",
-                    "name": "Johannesburg Water"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Quotation"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "279",
-                "name": "Johannesburg Water"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111362",
-            "id": "ocds-9t57fa-111362-2024-12-31",
-            "date": "2024-12-31T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111362",
-                "title": "Tender Validity Extension MWP2206DX-R",
-                "status": "",
-                "mainProcurementCategory": "services",
-                "additionalProcurementCategories": [
-                    "services"
-                ],
-                "description": "Tender Validity Extension- Tender Re-issue for the provision of MV and LV Electrification infrastructure and connections (households and LV Extensions/infills/LV extensions/Post connections) within Limlanga Cluster-\r\nMpumalanga for a period of 60 months.\r\n",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "0f2bfe1c-b672-49fd-bff8-4005c7eb1de1",
-                        "documentType": "basic",
-                        "title": "Letter to Extend validity period of Tender 30 December 2024 Signed.pdf",
-                        "description": "Letter to Extend validity period of Tender 30 December 2024 Signed.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0f2bfe1c-b672-49fd-bff8-4005c7eb1de1.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%2030%20December%202024%20Signed.pdf",
-                        "datePublished": "2024-12-31T06:09:46Z",
-                        "dateModified": "2024-12-31T06:09:46Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-31T00:00:00Z",
-                    "endDate": "2026-01-03T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111361",
-            "id": "ocds-9t57fa-111361-2024-12-30",
-            "date": "2024-12-30T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111361",
-                "title": "Letter to Extend Validity Period _MWP1662TX-R(3)",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "Letter to extend validity period of tender  -Provision for the framework agreement for Recovery of Transmission Lines and stabilisation of towers including adhoc urgent activities for Transmission lines",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "7186ff44-fb37-4ded-94a2-11dc27b17cbc",
-                        "documentType": "basic",
-                        "title": "Letter to extend validity period of Tender_MWP1662TX-R_Provision for the framework agreement for Recovery of Transmission Lines and stabilisation of towers.rev 3.signed.pdf",
-                        "description": "Letter to extend validity period of Tender_MWP1662TX-R_Provision for the framework agreement for Recovery of Transmission Lines and stabilisation of towers.rev 3.signed.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7186ff44-fb37-4ded-94a2-11dc27b17cbc.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP1662TX-R_Provision%20for%20the%20framework%20agreement%20for%20Recovery%20of%20Transmission%20Lines%20and%20stabilisation%20of%20towers.rev%203.signed.pdf",
-                        "datePublished": "2024-12-30T14:32:11Z",
-                        "dateModified": "2024-12-30T14:32:11Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-30T00:00:00Z",
-                    "endDate": "2025-03-31T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111360",
-            "id": "ocds-9t57fa-111360-2024-12-30",
-            "date": "2024-12-30T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111360",
-                "title": "MWP2945GX",
-                "status": "",
-                "mainProcurementCategory": "services",
-                "additionalProcurementCategories": [
-                    "services"
-                ],
-                "description":"MWP2945GX - SUPPLY, DELIVERY AND INSTALLATION OF FENCE AND SAFETY SIGNAGES AROUND DAMS AT KUSILE POWER STATION AT KUSILE POWER STATION\r\n\r\nThe Tender Office\r\nMegawatt Park Tender Office  Northside\r\nNo. 01 Maxwell Drive\r\nSunninghill\r\nGauteng \r\n\r\nPlease note that Tender box for this Tender Submission is not located at Kusile Power Station or any other Eskom premises except the one mentioned above.\r\n",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "bbdc287f-1205-455a-9afb-0998cb40747b",
-                        "documentType": "basic",
-                        "title": "Standard Bidding Document (SDB) 4_Annexure A.doc",
-                        "description": "Standard Bidding Document (SDB) 4_Annexure A.doc",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=bbdc287f-1205-455a-9afb-0998cb40747b.doc&downloadedFileName=Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A.doc",
-                        "datePublished": "2024-12-30T09:31:14Z",
-                        "dateModified": "2024-12-30T09:31:14Z",
-                        "format": "doc",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-30T00:00:00Z",
-                    "endDate": "2025-01-29T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111359",
-            "id": "ocds-9t57fa-111359-2024-12-30",
-            "date": "2024-12-30T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111359",
-                "title": "MWP2944GX",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description":"MWP2944GX - SUPPLY, DELIVERY AND INSTALLATION OF PARK HOMES FOR KUSILE POWER STATION TO ACCOMMODATE EMPLOYEES WITHOUT OFFICES\r\n\r\nThe Tender Office\r\nMegawatt Park Tender Office  Northside\r\nNo. 01 Maxwell Drive\r\nSunninghill\r\nGauteng \r\n\r\nPlease note that Tender box for this Tender Submission is not located at Kusile Power Station or any other Eskom premises except the one mentioned above.\r\n",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "2c7578e4-6f66-4a9e-a2a9-01e44b633274",
-                        "documentType": "basic",
-                        "title": "Standard Bidding Document (SDB) 4_Annexure A.doc",
-                        "description": "Standard Bidding Document (SDB) 4_Annexure A.doc",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2c7578e4-6f66-4a9e-a2a9-01e44b633274.doc&downloadedFileName=Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A.doc",
-                        "datePublished": "2024-12-30T09:13:35Z",
-                        "dateModified": "2024-12-30T09:13:35Z",
-                        "format": "doc",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-30T00:00:00Z",
-                    "endDate": "2025-01-27T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111358",
-            "id": "ocds-9t57fa-111358-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111358",
-                "title": "MPKUS11431GX",
-                "status": "",
-                "mainProcurementCategory": "services",
-                "additionalProcurementCategories": [
-                    "services"
-                ],
-                "description":"Boiler Flue Gas Ductings & Dampers Inspections and Repairs on an as and when required Basis for the period of Three (3) years at Kusile Power Station.",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "ca2c2ff3-fe80-4544-9e87-05082c11fefe",
-                        "documentType": "basic",
-                        "title": "ANNEXURE C LOCAL CONTENT.pdf",
-                        "description": "ANNEXURE C LOCAL CONTENT.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ca2c2ff3-fe80-4544-9e87-05082c11fefe.pdf&downloadedFileName=ANNEXURE%20C%20LOCAL%20CONTENT.pdf",
-                        "datePublished": "2024-12-24T23:57:47Z",
-                        "dateModified": "2024-12-24T23:57:47Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-22T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111357",
-            "id": "ocds-9t57fa-111357-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111357",
-                "title": "MPKUS11444GX",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description": "Supply and delivery of Heavy Assets Coal and Ash, Materials Management at Kusile Power Station",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "80f47da7-1d3c-4425-bc59-08ab1c7b89e1",
-                        "documentType": "basic",
-                        "title": "C3 1 SC3 Purchasers Goods Information.pdf",
-                        "description": "C3 1 SC3 Purchasers Goods Information.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=80f47da7-1d3c-4425-bc59-08ab1c7b89e1.pdf&downloadedFileName=C3%201%20SC3%20Purchasers%20Goods%20Information.pdf",
-                        "datePublished": "2024-12-24T23:40:36Z",
-                        "dateModified": "2024-12-24T23:40:36Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-22T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        }
-    ],
-    "links": {
-        "next": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=2&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
-    }
+	"uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=1&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+	"version": "1.1",
+	"publishedDate": "2025-01-04T10:34:28Z",
+	"publisher": {
+		"name": "National Treasury (South Africa)",
+		"uri": "https://data.etenders.gov.za/"
+	},
+	"license": "https://opendatacommons.org/licenses/pddl/1-0/111",
+	"publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
+	"releases": [
+		{
+			"ocid": "ocds-9t57fa-111364",
+			"id": "ocds-9t57fa-111364-2024-12-31",
+			"date": "2024-12-31T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111364",
+				"title": "MWP2197GX Regret letter",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Regret letter for the supply, delivery, including storage and handling, of diesel 50ppm (diesel)to Ankerlig power station (Ankerlig) and /or the supply and delivery of jet a1 /keresone / diesel to Acacia and Portrex power stations (Acacia and Portrex) for a period of five (5) years on an as and when required basis.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "65365f3c-349b-4f8a-99bb-ba5b944095e6",
+						"documentType": "basic",
+						"title": "Regret Letter for Unsuccessful Suppliers - Diesel supply (MWP2197GX).pdf",
+						"description": "Regret Letter for Unsuccessful Suppliers - Diesel supply (MWP2197GX).pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=65365f3c-349b-4f8a-99bb-ba5b944095e6.pdf&downloadedFileName=Regret%20Letter%20for%20Unsuccessful%20Suppliers%20-%20Diesel%20supply%20%28MWP2197GX%29.pdf",
+						"datePublished": "2024-12-31T10:39:05Z",
+						"dateModified": "2024-12-31T10:39:05Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-31T00:00:00Z",
+					"endDate": "2025-04-30T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111363",
+			"id": "ocds-9t57fa-111363-2024-12-31",
+			"date": "2024-12-31T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111363",
+				"title": "RFQ JW 207 MS 24 ",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS: BRIDGE 2 SITE SECURING WORKS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "ae3bc0f4-ac6b-4a9c-9f1f-fa94aa014f36",
+						"documentType": "basic",
+						"title": "RFQ JW 207 MS 24 DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS BRIDGE 2 SITE SECURING WORKS.pdf",
+						"description": "RFQ JW 207 MS 24 DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS BRIDGE 2 SITE SECURING WORKS.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ae3bc0f4-ac6b-4a9c-9f1f-fa94aa014f36.pdf&downloadedFileName=RFQ%20JW%20207%20MS%2024%20DIEPSLOOT%20SEWER%20PIPELINE%20AND%20BRIDGES%20REPAIRS%20BRIDGE%202%20SITE%20SECURING%20WORKS.pdf",
+						"datePublished": "2024-12-31T09:06:53Z",
+						"dateModified": "2024-12-31T09:06:53Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-31T00:00:00Z",
+					"endDate": "2025-01-21T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "279",
+					"name": "Johannesburg Water"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "279",
+				"name": "Johannesburg Water"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111362",
+			"id": "ocds-9t57fa-111362-2024-12-31",
+			"date": "2024-12-31T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111362",
+				"title": "Tender Validity Extension MWP2206DX-R",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Tender Validity Extension- Tender Re-issue for the provision of MV and LV Electrification infrastructure and connections (households and LV Extensions/infills/LV extensions/Post connections) within Limlanga Cluster-\r\nMpumalanga for a period of 60 months.\r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "0f2bfe1c-b672-49fd-bff8-4005c7eb1de1",
+						"documentType": "basic",
+						"title": "Letter to Extend validity period of Tender 30 December 2024 Signed.pdf",
+						"description": "Letter to Extend validity period of Tender 30 December 2024 Signed.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0f2bfe1c-b672-49fd-bff8-4005c7eb1de1.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%2030%20December%202024%20Signed.pdf",
+						"datePublished": "2024-12-31T06:09:46Z",
+						"dateModified": "2024-12-31T06:09:46Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-31T00:00:00Z",
+					"endDate": "2026-01-03T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111361",
+			"id": "ocds-9t57fa-111361-2024-12-30",
+			"date": "2024-12-30T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111361",
+				"title": "Letter to Extend Validity Period _MWP1662TX-R(3)",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "Letter to extend validity period of tender  -Provision for the framework agreement for Recovery of Transmission Lines and stabilisation of towers including adhoc urgent activities for Transmission lines",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "7186ff44-fb37-4ded-94a2-11dc27b17cbc",
+						"documentType": "basic",
+						"title": "Letter to extend validity period of Tender_MWP1662TX-R_Provision for the framework agreement for Recovery of Transmission Lines and stabilisation of towers.rev 3.signed.pdf",
+						"description": "Letter to extend validity period of Tender_MWP1662TX-R_Provision for the framework agreement for Recovery of Transmission Lines and stabilisation of towers.rev 3.signed.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7186ff44-fb37-4ded-94a2-11dc27b17cbc.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP1662TX-R_Provision%20for%20the%20framework%20agreement%20for%20Recovery%20of%20Transmission%20Lines%20and%20stabilisation%20of%20towers.rev%203.signed.pdf",
+						"datePublished": "2024-12-30T14:32:11Z",
+						"dateModified": "2024-12-30T14:32:11Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-30T00:00:00Z",
+					"endDate": "2025-03-31T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111360",
+			"id": "ocds-9t57fa-111360-2024-12-30",
+			"date": "2024-12-30T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111360",
+				"title": "MWP2945GX",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "MWP2945GX - SUPPLY, DELIVERY AND INSTALLATION OF FENCE AND SAFETY SIGNAGES AROUND DAMS AT KUSILE POWER STATION AT KUSILE POWER STATION\r\n\r\nThe Tender Office\r\nMegawatt Park Tender Office Northside\r\nNo. 01 Maxwell Drive\r\nSunninghill\r\nGauteng \r\n\r\nPlease note that Tender box for this Tender Submission is not located at Kusile Power Station or any other Eskom premises except the one mentioned above.\r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "bbdc287f-1205-455a-9afb-0998cb40747b",
+						"documentType": "basic",
+						"title": "Standard Bidding Document (SDB) 4_Annexure A.doc",
+						"description": "Standard Bidding Document (SDB) 4_Annexure A.doc",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=bbdc287f-1205-455a-9afb-0998cb40747b.doc&downloadedFileName=Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A.doc",
+						"datePublished": "2024-12-30T09:31:14Z",
+						"dateModified": "2024-12-30T09:31:14Z",
+						"format": "doc",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-30T00:00:00Z",
+					"endDate": "2025-01-29T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111359",
+			"id": "ocds-9t57fa-111359-2024-12-30",
+			"date": "2024-12-30T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111359",
+				"title": "MWP2944GX",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "MWP2944GX - SUPPLY, DELIVERY AND INSTALLATION OF PARK HOMES FOR KUSILE POWER STATION TO ACCOMMODATE EMPLOYEES WITHOUT OFFICES\r\n\r\nThe Tender Office\r\nMegawatt Park Tender Office Northside\r\nNo. 01 Maxwell Drive\r\nSunninghill\r\nGauteng \r\n\r\nPlease note that Tender box for this Tender Submission is not located at Kusile Power Station or any other Eskom premises except the one mentioned above.\r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "2c7578e4-6f66-4a9e-a2a9-01e44b633274",
+						"documentType": "basic",
+						"title": "Standard Bidding Document (SDB) 4_Annexure A.doc",
+						"description": "Standard Bidding Document (SDB) 4_Annexure A.doc",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2c7578e4-6f66-4a9e-a2a9-01e44b633274.doc&downloadedFileName=Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A.doc",
+						"datePublished": "2024-12-30T09:13:35Z",
+						"dateModified": "2024-12-30T09:13:35Z",
+						"format": "doc",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-30T00:00:00Z",
+					"endDate": "2025-01-27T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111358",
+			"id": "ocds-9t57fa-111358-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111358",
+				"title": "MPKUS11431GX",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Boiler Flue Gas Ductings & Dampers Inspections and Repairs on an as and when required Basis for the period of Three (3) years at Kusile Power Station.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "ca2c2ff3-fe80-4544-9e87-05082c11fefe",
+						"documentType": "basic",
+						"title": "ANNEXURE C LOCAL CONTENT.pdf",
+						"description": "ANNEXURE C LOCAL CONTENT.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ca2c2ff3-fe80-4544-9e87-05082c11fefe.pdf&downloadedFileName=ANNEXURE%20C%20LOCAL%20CONTENT.pdf",
+						"datePublished": "2024-12-24T23:57:47Z",
+						"dateModified": "2024-12-24T23:57:47Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-22T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111357",
+			"id": "ocds-9t57fa-111357-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111357",
+				"title": "MPKUS11444GX",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Supply and delivery of Heavy Assets Coal and Ash, Materials Management at Kusile Power Station",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "80f47da7-1d3c-4425-bc59-08ab1c7b89e1",
+						"documentType": "basic",
+						"title": "C3 1 SC3 Purchasers Goods Information.pdf",
+						"description": "C3 1 SC3 Purchasers Goods Information.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=80f47da7-1d3c-4425-bc59-08ab1c7b89e1.pdf&downloadedFileName=C3%201%20SC3%20Purchasers%20Goods%20Information.pdf",
+						"datePublished": "2024-12-24T23:40:36Z",
+						"dateModified": "2024-12-24T23:40:36Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-22T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		}
+	],
+	"links": {
+		"next": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=2&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
+	}
 }

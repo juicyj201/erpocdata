@@ -1,990 +1,990 @@
 {
-    "uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=2&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
-    "version": "1.1",
-    "publishedDate": "2025-01-04T10:34:42Z",
-    "publisher": {
-        "name": "National Treasury (South Africa)",
-        "uri": "https://data.etenders.gov.za/"
-    },
-    "license": "https://opendatacommons.org/licenses/pddl/1-0/111",
-    "publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
-    "releases": [
-        {
-            "ocid": "ocds-9t57fa-111357",
-            "id": "ocds-9t57fa-111357-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111357",
-                "title": "MPKUS11444GX",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description": "Supply and delivery of Heavy Assets Coal and Ash, Materials Management at Kusile Power Station",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "e08e3f46-c861-4872-91e0-f6fae5e9fd1d",
-                        "documentType": "basic",
-                        "title": "240-105658000 Supplier Quality Management Specification (3).pdf",
-                        "description": "240-105658000 Supplier Quality Management Specification (3).pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e08e3f46-c861-4872-91e0-f6fae5e9fd1d.pdf&downloadedFileName=240-105658000%20Supplier%20Quality%20Management%20Specification%20%283%29.pdf",
-                        "datePublished": "2024-12-24T23:40:35Z",
-                        "dateModified": "2024-12-24T23:40:35Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-22T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111356",
-            "id": "ocds-9t57fa-111356-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111356",
-                "title": "MPKUS11430GX",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description": "Supply, Delivery, Install and commission of Aux Steam (LBG) & Cold Reheat System (LBC)",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "fe1d2e5f-3a9e-4830-a25b-0013e4e80c5c",
-                        "documentType": "basic",
-                        "title": "Invitation to Tender (ITT) SUPPLY DELIVERY AND INSTAL AUX STEAM (LBG).pdf",
-                        "description": "Invitation to Tender (ITT) SUPPLY DELIVERY AND INSTAL AUX STEAM (LBG).pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fe1d2e5f-3a9e-4830-a25b-0013e4e80c5c.pdf&downloadedFileName=Invitation%20to%20Tender%20%28ITT%29%20SUPPLY%20DELIVERY%20AND%20INSTAL%20AUX%20STEAM%20%28LBG%29.pdf",
-                        "datePublished": "2024-12-24T23:26:46Z",
-                        "dateModified": "2024-12-24T23:26:46Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-21T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111355",
-            "id": "ocds-9t57fa-111355-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111355",
-                "title": "COM121/2024",
-                "status": "",
-                "mainProcurementCategory": "",
-                "additionalProcurementCategories": [
-                    "consultingServices"
-                ],
-                "description": "APPOINTMENT OF SERVICE PROVIDER FOR MAINTENANCE AND OPERATION OF HAZYVIEW WASTE DISPOSAL SITE FOR THE CITY OF MBOMBELA FOR A PERIOD OF THIRTY SIX MONTHS\r\n \r\n",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "67563fca-e887-4313-811f-6f43210504d2",
-                        "documentType": "basic",
-                        "title": "COM121-2024 HAZYVIEW WASTE DISPOSAL SITE - Tender Document.pdf",
-                        "description": "COM121-2024 HAZYVIEW WASTE DISPOSAL SITE - Tender Document.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=67563fca-e887-4313-811f-6f43210504d2.pdf&downloadedFileName=COM121-2024%20HAZYVIEW%20WASTE%20DISPOSAL%20SITE%20-%20Tender%20Document.pdf",
-                        "datePublished": "2024-12-24T23:04:41Z",
-                        "dateModified": "2024-12-24T23:04:41Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-31T11:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "391",
-                    "name": "Mbombela Local Municipality"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "391",
-                "name": "Mbombela Local Municipality"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111354",
-            "id": "ocds-9t57fa-111354-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111354",
-                "title": "MPKUS11432GX",
-                "status": "",
-                "mainProcurementCategory": "services",
-                "additionalProcurementCategories": [
-                    "services"
-                ],
-                "description": "Conveyor Belt Scraper Maintenance Contract for a period of 5 years at Kusile Power Station",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "d59e69dc-fcf9-4017-a346-0a6f7df7b935",
-                        "documentType": "basic",
-                        "title": "BoQ for Conveyor Belt Scrapper Maintenance - Submission.pdf",
-                        "description": "BoQ for Conveyor Belt Scrapper Maintenance - Submission.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d59e69dc-fcf9-4017-a346-0a6f7df7b935.pdf&downloadedFileName=BoQ%20for%20Conveyor%20Belt%20Scrapper%20Maintenance%20-%20Submission.pdf",
-                        "datePublished": "2024-12-24T22:57:43Z",
-                        "dateModified": "2024-12-24T22:57:43Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-23T10:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111353",
-            "id": "ocds-9t57fa-111353-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111353",
-                "title": "COM122/2024",
-                "status": "",
-                "mainProcurementCategory": "",
-                "additionalProcurementCategories": [
-                    "consultingServices"
-                ],
-                "description": "APPOINTMENT OF SERVICE PROVIDER FOR MAINTENANCE AND OPERATION OF TEKWANE WEST CENTRAL WASTE DISPOSAL SITE FOR THE CITY OF MBOMBELA FOR A PERIOD OF THIRTY SIX MONTHS",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "6451f2e9-41be-4682-8b3d-06eff99d93a4",
-                        "documentType": "basic",
-                        "title": "COM122-2024 TEKWANE WEST CENTRAL WASTE DISPOSAL SITE -Advert.pdf",
-                        "description": "COM122-2024 TEKWANE WEST CENTRAL WASTE DISPOSAL SITE -Advert.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6451f2e9-41be-4682-8b3d-06eff99d93a4.pdf&downloadedFileName=COM122-2024%20TEKWANE%20WEST%20CENTRAL%20WASTE%20DISPOSAL%20SITE%20-Advert.pdf",
-                        "datePublished": "2024-12-24T22:21:16Z",
-                        "dateModified": "2024-12-24T22:21:16Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-01-31T11:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "391",
-                    "name": "Mbombela Local Municipality"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "391",
-                "name": "Mbombela Local Municipality"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111352",
-            "id": "ocds-9t57fa-111352-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111352",
-                "title": "SK8/3/1-31/2024/25",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "Appointment of Service Provider for Sucking, Emptying and Cleaning of 1066 VIP Toilets at Walter Sisulu RDP (Ward 09) of Elias Motsoaledi Region - Once Off.",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "b9ff865f-b88f-4cbf-95b0-3ef030f3412c",
-                        "documentType": "basic",
-                        "title": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 1066 WALTER SISULU.docx",
-                        "description": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 1066 WALTER SISULU.docx",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=b9ff865f-b88f-4cbf-95b0-3ef030f3412c.docx&downloadedFileName=APPOINTMENT%20OF%20SERVICE%20PROVIDER%20FOR%20SUCKING%20EMPTYING%20AND%20CLEANING%20OF%201066%20WALTER%20SISULU.docx",
-                        "datePublished": "2024-12-24T09:22:39Z",
-                        "dateModified": "2024-12-24T09:22:39Z",
-                        "format": "docx",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-02-06T11:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "585",
-                    "name": "Sekhukhune District Municipality"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "585",
-                "name": "Sekhukhune District Municipality"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111351",
-            "id": "ocds-9t57fa-111351-2024-12-24",
-            "date": "2024-12-24T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111351",
-                "title": "SK8/3/1-30/2024/25",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "Appointment of Service Provider for Sucking, Emptying and Cleaning of 520 VIP Toilets at Ntwane (Ward 10) of Elias Motsoaledi Region - Once Off.",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "2c92daf0-5ac4-4fb5-b521-50819372921c",
-                        "documentType": "basic",
-                        "title": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 520 VIP TOILETS AT NTWANE (WARD 10).docx",
-                        "description": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 520 VIP TOILETS AT NTWANE (WARD 10).docx",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2c92daf0-5ac4-4fb5-b521-50819372921c.docx&downloadedFileName=APPOINTMENT%20OF%20SERVICE%20PROVIDER%20FOR%20SUCKING%20EMPTYING%20AND%20CLEANING%20OF%20520%20VIP%20TOILETS%20AT%20NTWANE%20%28WARD%2010%29.docx",
-                        "datePublished": "2024-12-24T09:19:01Z",
-                        "dateModified": "2024-12-24T09:19:01Z",
-                        "format": "docx",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-24T00:00:00Z",
-                    "endDate": "2025-02-06T11:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "585",
-                    "name": "Sekhukhune District Municipality"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "585",
-                "name": "Sekhukhune District Municipality"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111350",
-            "id": "ocds-9t57fa-111350-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111350",
-                "title": "ELM 23-24/12/03",
-                "status": "",
-                "mainProcurementCategory": "services",
-                "additionalProcurementCategories": [
-                    "services"
-                ],
-                "description": "APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER FOR THE PROVISION OF DATA MANAGEMENT SOLUTIONS AND DATA VERIFICATION SYSTEM FOR A PERIOD OF 3 YEARS",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "9d7b0743-26db-452a-96e2-b41201f1f9a2",
-                        "documentType": "basic",
-                        "title": "Tender Document  -Data Management Solutions.pdf",
-                        "description": "Tender Document  -Data Management Solutions.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=9d7b0743-26db-452a-96e2-b41201f1f9a2.pdf&downloadedFileName=Tender%20Document%20%20-Data%20Management%20Solutions.pdf",
-                        "datePublished": "2024-12-23T19:14:49Z",
-                        "dateModified": "2024-12-23T19:14:49Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-01-17T12:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "157",
-                    "name": "EMAKHAZENI LOCAL MUNICIPALITY"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "157",
-                "name": "EMAKHAZENI LOCAL MUNICIPALITY"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111349",
-            "id": "ocds-9t57fa-111349-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111349",
-                "title": "MPKUS11449GX",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description": "Supply and Delivery of Coal and Ash Heavy Assets at Kusile Power Station",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "3f18dd79-bdf0-41c8-b087-053a69a35e7d",
-                        "documentType": "basic",
-                        "title": "(SDLI) Strategy SUPPLY AND DELIVERY OF COAL AND ASH HEAVY ASSETS AT KUSILE POWER STATION.pdf",
-                        "description": "(SDLI) Strategy SUPPLY AND DELIVERY OF COAL AND ASH HEAVY ASSETS AT KUSILE POWER STATION.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=3f18dd79-bdf0-41c8-b087-053a69a35e7d.pdf&downloadedFileName=%28SDLI%29%20Strategy%20SUPPLY%20AND%20DELIVERY%20OF%20COAL%20AND%20ASH%20HEAVY%20ASSETS%20AT%20KUSILE%20POWER%20STATION.pdf",
-                        "datePublished": "2024-12-23T17:54:17Z",
-                        "dateModified": "2024-12-23T17:54:17Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-01-23T11:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111348",
-            "id": "ocds-9t57fa-111348-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111348",
-                "title": "LPMAT00113GX",
-                "status": "",
-                "mainProcurementCategory": "goods",
-                "additionalProcurementCategories": [
-                    "goods"
-                ],
-                "description": "The provision of laboratory services for Matimba Power Station for a period of 5 years",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "27a4abfe-b630-475b-a7cb-055c98c511b2",
-                        "documentType": "basic",
-                        "title": "Eskom life-saving rules.pdf",
-                        "description": "Eskom life-saving rules.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=27a4abfe-b630-475b-a7cb-055c98c511b2.pdf&downloadedFileName=Eskom%20life-saving%20rules.pdf",
-                        "datePublished": "2024-12-24T09:25:55Z",
-                        "dateModified": "2024-12-24T09:25:55Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-02-04T14:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "167",
-                    "name": "ESKOM"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "167",
-                "name": "ESKOM"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111347",
-            "id": "ocds-9t57fa-111347-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111347",
-                "title": "SUPPLY AND SERVICES CONTRACT E36 OF 2024-SECTIONS ",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "ELECTRICAL TESTING AND FAULT LOCATION SERVICES ON ELECTRICAL APPARATUS WITHIN THE DISTRIBUTION NETWORK OF THE MSUNDUZI MUNICIPALITY",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "c0097f37-86c9-4cca-bb38-5bd4eb251f20",
-                        "documentType": "basic",
-                        "title": "SS E36 OF 2024-Electrical Testing & Fault Location Services.pdf",
-                        "description": "SS E36 OF 2024-Electrical Testing & Fault Location Services.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c0097f37-86c9-4cca-bb38-5bd4eb251f20.pdf&downloadedFileName=SS%20E36%20OF%202024-Electrical%20Testing%20%26%20Fault%20Location%20Services.pdf",
-                        "datePublished": "2024-12-23T12:12:19Z",
-                        "dateModified": "2024-12-23T12:12:19Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-01-31T12:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "437",
-                    "name": "Msunduzi Local Municipality"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "437",
-                "name": "Msunduzi Local Municipality"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111346",
-            "id": "ocds-9t57fa-111346-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111346",
-                "title": "DMRE/016/2023/24 Preferred Bidders",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "List of Preferred Bidders under Battery Energy Storage IPP Procurement Programme (BESIPPPP) Bid Window 2",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "74d6203b-8538-49a6-939c-cc1337821e6e",
-                        "documentType": "basic",
-                        "title": "BESIPPPP BW2 Preferred Bidders.pdf",
-                        "description": "BESIPPPP BW2 Preferred Bidders.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=74d6203b-8538-49a6-939c-cc1337821e6e.pdf&downloadedFileName=BESIPPPP%20BW2%20Preferred%20Bidders.pdf",
-                        "datePublished": "2024-12-23T11:40:04Z",
-                        "dateModified": "2024-12-23T11:40:04Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-01-31T17:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "744",
-                    "name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Proposal"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "744",
-                "name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111345",
-            "id": "ocds-9t57fa-111345-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111345",
-                "title": "DMRE/014/2023/24 Preferred Bidders",
-                "status": "",
-                "mainProcurementCategory": "works",
-                "additionalProcurementCategories": [
-                    "works"
-                ],
-                "description": "List of Preferred Bidders under Renewable Energy IPP Procurement Programme Bid Window 7.",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "43bdba67-d8e7-4469-8f54-839ae713ecaa",
-                        "documentType": "basic",
-                        "title": "REIPPPP BW 7 Successful Bidders.pdf",
-                        "description": "REIPPPP BW 7 Successful Bidders.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=43bdba67-d8e7-4469-8f54-839ae713ecaa.pdf&downloadedFileName=REIPPPP%20BW%207%20Successful%20Bidders.pdf",
-                        "datePublished": "2024-12-23T11:36:18Z",
-                        "dateModified": "2024-12-23T11:36:18Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-01-31T17:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "744",
-                    "name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Proposal"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "744",
-                "name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111342",
-            "id": "ocds-9t57fa-111342-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111342",
-                "title": "CONTRACT No. SCM 36 OF 24/25",
-                "status": "",
-                "mainProcurementCategory": "",
-                "additionalProcurementCategories": [
-                    "consultingServices"
-                ],
-                "description":"THE MSUNDUZI MUNICIPALITYS CORPORATE WEBSITE REVAMP (DESIGN, DEVELOP, DEPLOY AND MIGRATE CONTENT), WEBSITE MAINTENANCE AND SUPPORT",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "0f2c1c1f-f105-4fd0-8fd2-e1f802991728",
-                        "documentType": "basic",
-                        "title": "SCM 36 of 24-25-Website Revamp and Maintenance Support.pdf",
-                        "description": "SCM 36 of 24-25-Website Revamp and Maintenance Support.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0f2c1c1f-f105-4fd0-8fd2-e1f802991728.pdf&downloadedFileName=SCM%2036%20of%2024-25-Website%20Revamp%20and%20Maintenance%20Support.pdf",
-                        "datePublished": "2024-12-23T10:47:03Z",
-                        "dateModified": "2024-12-23T10:47:03Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2025-01-23T12:00:00Z"
-                },
-                "tenderers": [],
-                "procuringEntity": {
-                    "id": "437",
-                    "name": "Msunduzi Local Municipality"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Request for Bid(Open-Tender)"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [],
-            "buyer": {
-                "id": "437",
-                "name": "Msunduzi Local Municipality"
-            },
-            "language": "en-za",
-            "awards": [],
-            "contracts": []
-        },
-        {
-            "ocid": "ocds-9t57fa-111339",
-            "id": "ocds-9t57fa-111339-2024-12-23",
-            "date": "2024-12-23T00:00:00Z",
-            "tag": [
-                "compiled"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "111339",
-                "title": "DSM 16/25",
-                "status": "",
-                "mainProcurementCategory": "",
-                "additionalProcurementCategories": [
-                    "consultingServices"
-                ],
-                "description": "Deviation: Procurement - Organisational Structure Software",
-                "value": {
-                    "amount": 0,
-                    "currency": "ZAR"
-                },
-                "documents": [
-                    {
-                        "id": "6fd703a1-8e33-453d-99a8-23a44445b7c2",
-                        "documentType": "basic",
-                        "title": "Approved deviation.pdf",
-                        "description": "Approved deviation.pdf",
-                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6fd703a1-8e33-453d-99a8-23a44445b7c2.pdf&downloadedFileName=Approved%20deviation.pdf",
-                        "datePublished": "2024-12-23T10:29:18Z",
-                        "dateModified": "2024-12-23T10:29:18Z",
-                        "format": "pdf",
-                        "language": "en"
-                    }
-                ],
-                "tenderPeriod": {
-                    "startDate": "2024-12-23T00:00:00Z",
-                    "endDate": "2024-12-24T11:00:00Z"
-                },
-                "tenderers": [
-                    {
-                        "name": "LRMG Pty Ltd",
-                        "id": "22896"
-                    }
-                ],
-                "procuringEntity": {
-                    "id": "635",
-                    "name": "Stellenbosch Municipality"
-                },
-                "procurementMethod": "direct",
-                "procurementMethodDetails": "Deviation"
-            },
-            "planning": {
-                "rationale": "",
-                "budget": {
-                    "description": " - "
-                },
-                "documents": []
-            },
-            "parties": [
-                {
-                    "name": " (LRMG)",
-                    "id": "40296",
-                    "identifier": {
-                        "legalName": " (LRMG)"
-                    },
-                    "address": {
-                        "countryName": "South Africa"
-                    },
-                    "contactPoint": {
-                        "name": "Alexander Kannemeyer",
-                        "telephone": "021-808-8751",
-                        "email": "Ingrid.Thesen@stellenbosch.gov.za",
-                        "faxNumber": "N/A",
-                        "url": "https://stellenbosch.gov.za"
-                    },
-                    "roles": [
-                        "supplier"
-                    ]
-                }
-            ],
-            "buyer": {
-                "id": "635",
-                "name": "Stellenbosch Municipality"
-            },
-            "language": "en-za",
-            "awards": [
-                {
-                    "id": "40296",
-                    "title": " (LRMG)",
-                    "status": "active",
-                    "description": "EME",
-                    "value": {
-                        "amount": 48145161.00,
-                        "currency": "ZAR"
-                    },
-                    "suppliers": [
-                        {
-                            "id": "127073",
-                            "name": " (LRMG)"
-                        }
-                    ]
-                }
-            ],
-            "contracts": []
-        }
-    ],
-    "links": {
-        "next": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=3&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
-        "prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=1&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
-    }
+	"uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=2&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+	"version": "1.1",
+	"publishedDate": "2025-01-04T10:34:42Z",
+	"publisher": {
+		"name": "National Treasury (South Africa)",
+		"uri": "https://data.etenders.gov.za/"
+	},
+	"license": "https://opendatacommons.org/licenses/pddl/1-0/111",
+	"publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
+	"releases": [
+		{
+			"ocid": "ocds-9t57fa-111357",
+			"id": "ocds-9t57fa-111357-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111357",
+				"title": "MPKUS11444GX",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Supply and delivery of Heavy Assets Coal and Ash, Materials Management at Kusile Power Station",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "e08e3f46-c861-4872-91e0-f6fae5e9fd1d",
+						"documentType": "basic",
+						"title": "240-105658000 Supplier Quality Management Specification (3).pdf",
+						"description": "240-105658000 Supplier Quality Management Specification (3).pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e08e3f46-c861-4872-91e0-f6fae5e9fd1d.pdf&downloadedFileName=240-105658000%20Supplier%20Quality%20Management%20Specification%20%283%29.pdf",
+						"datePublished": "2024-12-24T23:40:35Z",
+						"dateModified": "2024-12-24T23:40:35Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-22T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111356",
+			"id": "ocds-9t57fa-111356-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111356",
+				"title": "MPKUS11430GX",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Supply, Delivery, Install and commission of Aux Steam (LBG) & Cold Reheat System (LBC)",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "fe1d2e5f-3a9e-4830-a25b-0013e4e80c5c",
+						"documentType": "basic",
+						"title": "Invitation to Tender (ITT) SUPPLY DELIVERY AND INSTAL AUX STEAM (LBG).pdf",
+						"description": "Invitation to Tender (ITT) SUPPLY DELIVERY AND INSTAL AUX STEAM (LBG).pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fe1d2e5f-3a9e-4830-a25b-0013e4e80c5c.pdf&downloadedFileName=Invitation%20to%20Tender%20%28ITT%29%20SUPPLY%20DELIVERY%20AND%20INSTAL%20AUX%20STEAM%20%28LBG%29.pdf",
+						"datePublished": "2024-12-24T23:26:46Z",
+						"dateModified": "2024-12-24T23:26:46Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-21T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111355",
+			"id": "ocds-9t57fa-111355-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111355",
+				"title": "COM121/2024",
+				"status": "",
+				"mainProcurementCategory": "",
+				"additionalProcurementCategories": [
+					"consultingServices"
+				],
+				"description": "APPOINTMENT OF SERVICE PROVIDER FOR MAINTENANCE AND OPERATION OF HAZYVIEW WASTE DISPOSAL SITE FOR THE CITY OF MBOMBELA FOR A PERIOD OF THIRTY SIX MONTHS\r\n \r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "67563fca-e887-4313-811f-6f43210504d2",
+						"documentType": "basic",
+						"title": "COM121-2024 HAZYVIEW WASTE DISPOSAL SITE - Tender Document.pdf",
+						"description": "COM121-2024 HAZYVIEW WASTE DISPOSAL SITE - Tender Document.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=67563fca-e887-4313-811f-6f43210504d2.pdf&downloadedFileName=COM121-2024%20HAZYVIEW%20WASTE%20DISPOSAL%20SITE%20-%20Tender%20Document.pdf",
+						"datePublished": "2024-12-24T23:04:41Z",
+						"dateModified": "2024-12-24T23:04:41Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-31T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "391",
+					"name": "Mbombela Local Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "391",
+				"name": "Mbombela Local Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111354",
+			"id": "ocds-9t57fa-111354-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111354",
+				"title": "MPKUS11432GX",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Conveyor Belt Scraper Maintenance Contract for a period of 5 years at Kusile Power Station",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "d59e69dc-fcf9-4017-a346-0a6f7df7b935",
+						"documentType": "basic",
+						"title": "BoQ for Conveyor Belt Scrapper Maintenance - Submission.pdf",
+						"description": "BoQ for Conveyor Belt Scrapper Maintenance - Submission.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d59e69dc-fcf9-4017-a346-0a6f7df7b935.pdf&downloadedFileName=BoQ%20for%20Conveyor%20Belt%20Scrapper%20Maintenance%20-%20Submission.pdf",
+						"datePublished": "2024-12-24T22:57:43Z",
+						"dateModified": "2024-12-24T22:57:43Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-23T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111353",
+			"id": "ocds-9t57fa-111353-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111353",
+				"title": "COM122/2024",
+				"status": "",
+				"mainProcurementCategory": "",
+				"additionalProcurementCategories": [
+					"consultingServices"
+				],
+				"description": "APPOINTMENT OF SERVICE PROVIDER FOR MAINTENANCE AND OPERATION OF TEKWANE WEST CENTRAL WASTE DISPOSAL SITE FOR THE CITY OF MBOMBELA FOR A PERIOD OF THIRTY SIX MONTHS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "6451f2e9-41be-4682-8b3d-06eff99d93a4",
+						"documentType": "basic",
+						"title": "COM122-2024 TEKWANE WEST CENTRAL WASTE DISPOSAL SITE -Advert.pdf",
+						"description": "COM122-2024 TEKWANE WEST CENTRAL WASTE DISPOSAL SITE -Advert.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6451f2e9-41be-4682-8b3d-06eff99d93a4.pdf&downloadedFileName=COM122-2024%20TEKWANE%20WEST%20CENTRAL%20WASTE%20DISPOSAL%20SITE%20-Advert.pdf",
+						"datePublished": "2024-12-24T22:21:16Z",
+						"dateModified": "2024-12-24T22:21:16Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-01-31T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "391",
+					"name": "Mbombela Local Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "391",
+				"name": "Mbombela Local Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111352",
+			"id": "ocds-9t57fa-111352-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111352",
+				"title": "SK8/3/1-31/2024/25",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "Appointment of Service Provider for Sucking, Emptying and Cleaning of 1066 VIP Toilets at Walter Sisulu RDP (Ward 09) of Elias Motsoaledi Region - Once Off.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "b9ff865f-b88f-4cbf-95b0-3ef030f3412c",
+						"documentType": "basic",
+						"title": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 1066 WALTER SISULU.docx",
+						"description": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 1066 WALTER SISULU.docx",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=b9ff865f-b88f-4cbf-95b0-3ef030f3412c.docx&downloadedFileName=APPOINTMENT%20OF%20SERVICE%20PROVIDER%20FOR%20SUCKING%20EMPTYING%20AND%20CLEANING%20OF%201066%20WALTER%20SISULU.docx",
+						"datePublished": "2024-12-24T09:22:39Z",
+						"dateModified": "2024-12-24T09:22:39Z",
+						"format": "docx",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-02-06T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "585",
+					"name": "Sekhukhune District Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "585",
+				"name": "Sekhukhune District Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111351",
+			"id": "ocds-9t57fa-111351-2024-12-24",
+			"date": "2024-12-24T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111351",
+				"title": "SK8/3/1-30/2024/25",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "Appointment of Service Provider for Sucking, Emptying and Cleaning of 520 VIP Toilets at Ntwane (Ward 10) of Elias Motsoaledi Region - Once Off.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "2c92daf0-5ac4-4fb5-b521-50819372921c",
+						"documentType": "basic",
+						"title": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 520 VIP TOILETS AT NTWANE (WARD 10).docx",
+						"description": "APPOINTMENT OF SERVICE PROVIDER FOR SUCKING EMPTYING AND CLEANING OF 520 VIP TOILETS AT NTWANE (WARD 10).docx",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2c92daf0-5ac4-4fb5-b521-50819372921c.docx&downloadedFileName=APPOINTMENT%20OF%20SERVICE%20PROVIDER%20FOR%20SUCKING%20EMPTYING%20AND%20CLEANING%20OF%20520%20VIP%20TOILETS%20AT%20NTWANE%20%28WARD%2010%29.docx",
+						"datePublished": "2024-12-24T09:19:01Z",
+						"dateModified": "2024-12-24T09:19:01Z",
+						"format": "docx",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-24T00:00:00Z",
+					"endDate": "2025-02-06T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "585",
+					"name": "Sekhukhune District Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "585",
+				"name": "Sekhukhune District Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111350",
+			"id": "ocds-9t57fa-111350-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111350",
+				"title": "ELM 23-24/12/03",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER FOR THE PROVISION OF DATA MANAGEMENT SOLUTIONS AND DATA VERIFICATION SYSTEM FOR A PERIOD OF 3 YEARS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "9d7b0743-26db-452a-96e2-b41201f1f9a2",
+						"documentType": "basic",
+						"title": "Tender Document  -Data Management Solutions.pdf",
+						"description": "Tender Document  -Data Management Solutions.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=9d7b0743-26db-452a-96e2-b41201f1f9a2.pdf&downloadedFileName=Tender%20Document%20%20-Data%20Management%20Solutions.pdf",
+						"datePublished": "2024-12-23T19:14:49Z",
+						"dateModified": "2024-12-23T19:14:49Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-01-17T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "157",
+					"name": "EMAKHAZENI LOCAL MUNICIPALITY"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "157",
+				"name": "EMAKHAZENI LOCAL MUNICIPALITY"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111349",
+			"id": "ocds-9t57fa-111349-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111349",
+				"title": "MPKUS11449GX",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Supply and Delivery of Coal and Ash Heavy Assets at Kusile Power Station",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "3f18dd79-bdf0-41c8-b087-053a69a35e7d",
+						"documentType": "basic",
+						"title": "(SDLI) Strategy SUPPLY AND DELIVERY OF COAL AND ASH HEAVY ASSETS AT KUSILE POWER STATION.pdf",
+						"description": "(SDLI) Strategy SUPPLY AND DELIVERY OF COAL AND ASH HEAVY ASSETS AT KUSILE POWER STATION.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=3f18dd79-bdf0-41c8-b087-053a69a35e7d.pdf&downloadedFileName=%28SDLI%29%20Strategy%20SUPPLY%20AND%20DELIVERY%20OF%20COAL%20AND%20ASH%20HEAVY%20ASSETS%20AT%20KUSILE%20POWER%20STATION.pdf",
+						"datePublished": "2024-12-23T17:54:17Z",
+						"dateModified": "2024-12-23T17:54:17Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-01-23T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111348",
+			"id": "ocds-9t57fa-111348-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111348",
+				"title": "LPMAT00113GX",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "The provision of laboratory services for Matimba Power Station for a period of 5 years",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "27a4abfe-b630-475b-a7cb-055c98c511b2",
+						"documentType": "basic",
+						"title": "Eskom life-saving rules.pdf",
+						"description": "Eskom life-saving rules.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=27a4abfe-b630-475b-a7cb-055c98c511b2.pdf&downloadedFileName=Eskom%20life-saving%20rules.pdf",
+						"datePublished": "2024-12-24T09:25:55Z",
+						"dateModified": "2024-12-24T09:25:55Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-02-04T14:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111347",
+			"id": "ocds-9t57fa-111347-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111347",
+				"title": "SUPPLY AND SERVICES CONTRACT E36 OF 2024-SECTIONS ",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "ELECTRICAL TESTING AND FAULT LOCATION SERVICES ON ELECTRICAL APPARATUS WITHIN THE DISTRIBUTION NETWORK OF THE MSUNDUZI MUNICIPALITY",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "c0097f37-86c9-4cca-bb38-5bd4eb251f20",
+						"documentType": "basic",
+						"title": "SS E36 OF 2024-Electrical Testing & Fault Location Services.pdf",
+						"description": "SS E36 OF 2024-Electrical Testing & Fault Location Services.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c0097f37-86c9-4cca-bb38-5bd4eb251f20.pdf&downloadedFileName=SS%20E36%20OF%202024-Electrical%20Testing%20%26%20Fault%20Location%20Services.pdf",
+						"datePublished": "2024-12-23T12:12:19Z",
+						"dateModified": "2024-12-23T12:12:19Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-01-31T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "437",
+					"name": "Msunduzi Local Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "437",
+				"name": "Msunduzi Local Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111346",
+			"id": "ocds-9t57fa-111346-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111346",
+				"title": "DMRE/016/2023/24 Preferred Bidders",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "List of Preferred Bidders under Battery Energy Storage IPP Procurement Programme (BESIPPPP) Bid Window 2",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "74d6203b-8538-49a6-939c-cc1337821e6e",
+						"documentType": "basic",
+						"title": "BESIPPPP BW2 Preferred Bidders.pdf",
+						"description": "BESIPPPP BW2 Preferred Bidders.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=74d6203b-8538-49a6-939c-cc1337821e6e.pdf&downloadedFileName=BESIPPPP%20BW2%20Preferred%20Bidders.pdf",
+						"datePublished": "2024-12-23T11:40:04Z",
+						"dateModified": "2024-12-23T11:40:04Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-01-31T17:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "744",
+					"name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Proposal"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "744",
+				"name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111345",
+			"id": "ocds-9t57fa-111345-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111345",
+				"title": "DMRE/014/2023/24 Preferred Bidders",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "List of Preferred Bidders under Renewable Energy IPP Procurement Programme Bid Window 7.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "43bdba67-d8e7-4469-8f54-839ae713ecaa",
+						"documentType": "basic",
+						"title": "REIPPPP BW 7 Successful Bidders.pdf",
+						"description": "REIPPPP BW 7 Successful Bidders.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=43bdba67-d8e7-4469-8f54-839ae713ecaa.pdf&downloadedFileName=REIPPPP%20BW%207%20Successful%20Bidders.pdf",
+						"datePublished": "2024-12-23T11:36:18Z",
+						"dateModified": "2024-12-23T11:36:18Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-01-31T17:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "744",
+					"name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Proposal"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "744",
+				"name": "Independent Power Producer Office (IPPO) - part of Department of\nMineral Resources and Energy"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111342",
+			"id": "ocds-9t57fa-111342-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111342",
+				"title": "CONTRACT No. SCM 36 OF 24/25",
+				"status": "",
+				"mainProcurementCategory": "",
+				"additionalProcurementCategories": [
+					"consultingServices"
+				],
+				"description": "THE MSUNDUZI MUNICIPALITY'S CORPORATE WEBSITE REVAMP (DESIGN, DEVELOP, DEPLOY AND MIGRATE CONTENT), WEBSITE MAINTENANCE AND SUPPORT",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "0f2c1c1f-f105-4fd0-8fd2-e1f802991728",
+						"documentType": "basic",
+						"title": "SCM 36 of 24-25-Website Revamp and Maintenance Support.pdf",
+						"description": "SCM 36 of 24-25-Website Revamp and Maintenance Support.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0f2c1c1f-f105-4fd0-8fd2-e1f802991728.pdf&downloadedFileName=SCM%2036%20of%2024-25-Website%20Revamp%20and%20Maintenance%20Support.pdf",
+						"datePublished": "2024-12-23T10:47:03Z",
+						"dateModified": "2024-12-23T10:47:03Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2025-01-23T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "437",
+					"name": "Msunduzi Local Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "437",
+				"name": "Msunduzi Local Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-111339",
+			"id": "ocds-9t57fa-111339-2024-12-23",
+			"date": "2024-12-23T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111339",
+				"title": "DSM 16/25",
+				"status": "",
+				"mainProcurementCategory": "",
+				"additionalProcurementCategories": [
+					"consultingServices"
+				],
+				"description": "Deviation: Procurement - Organisational Structure Software",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "6fd703a1-8e33-453d-99a8-23a44445b7c2",
+						"documentType": "basic",
+						"title": "Approved deviation.pdf",
+						"description": "Approved deviation.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6fd703a1-8e33-453d-99a8-23a44445b7c2.pdf&downloadedFileName=Approved%20deviation.pdf",
+						"datePublished": "2024-12-23T10:29:18Z",
+						"dateModified": "2024-12-23T10:29:18Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-23T00:00:00Z",
+					"endDate": "2024-12-24T11:00:00Z"
+				},
+				"tenderers": [
+					{
+						"name": "LRMG Pty Ltd",
+						"id": "22896"
+					}
+				],
+				"procuringEntity": {
+					"id": "635",
+					"name": "Stellenbosch Municipality"
+				},
+				"procurementMethod": "direct",
+				"procurementMethodDetails": "Deviation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [
+				{
+					"name": " (LRMG)",
+					"id": "40296",
+					"identifier": {
+						"legalName": " (LRMG)"
+					},
+					"address": {
+						"countryName": "South Africa"
+					},
+					"contactPoint": {
+						"name": "Alexander Kannemeyer",
+						"telephone": "021-808-8751",
+						"email": "Ingrid.Thesen@stellenbosch.gov.za",
+						"faxNumber": "N/A",
+						"url": "https://stellenbosch.gov.za"
+					},
+					"roles": [
+						"supplier"
+					]
+				}
+			],
+			"buyer": {
+				"id": "635",
+				"name": "Stellenbosch Municipality"
+			},
+			"language": "en-za",
+			"awards": [
+				{
+					"id": "40296",
+					"title": " (LRMG)",
+					"status": "active",
+					"description": "EME",
+					"value": {
+						"amount": 48145161.0,
+						"currency": "ZAR"
+					},
+					"suppliers": [
+						{
+							"id": "127073",
+							"name": " (LRMG)"
+						}
+					]
+				}
+			],
+			"contracts": []
+		}
+	],
+	"links": {
+		"next": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=3&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+		"prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=1&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
+	}
 }

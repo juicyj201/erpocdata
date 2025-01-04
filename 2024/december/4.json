@@ -1,1 +1,2693 @@
-{"uri":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=3&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31","version":"1.1","publishedDate":"2025-01-04T10:34:49Z","publisher":{"name":"National Treasury (South Africa)","uri":"https://data.etenders.gov.za/"},"license":"https://opendatacommons.org/licenses/pddl/1-0/111","publicationPolicy":"https://data.etenders.gov.za//Home/LearnMore","releases":[{"ocid":"ocds-9t57fa-111338","id":"ocds-9t57fa-111338-2024-12-23","date":"2024-12-23T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111338","title":"AHT26116-EXT","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"TRANSPORTATION OF ALL PetroSA EQUIPMENT FROM TECHNIP FMC NORWAY TO SOUTH AFRICA","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"66b5e149-8b8f-490c-b587-46c2d601dbd5","documentType":"basic","title":"SCOPE OF WORK_.pdf","description":"SCOPE OF WORK_.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=66b5e149-8b8f-490c-b587-46c2d601dbd5.pdf&downloadedFileName=SCOPE%20OF%20WORK_.pdf","datePublished":"2024-12-23T10:10:21Z","dateModified":"2024-12-23T10:10:21Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-23T00:00:00Z","endDate":"2025-01-17T01:00:00Z"},"tenderers":[],"procuringEntity":{"id":"539","name":"PetroSA"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"539","name":"PetroSA"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111337","id":"ocds-9t57fa-111337-2024-12-23","date":"2024-12-23T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111337","title":"ELM 24-25/12/02","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"APPOINTMENT OF PANEL SERVICE PROVIDERS FOR SUPPLY, DELIVERY AND OFFLOADING OF ROAD AND STORMWATER MATERIAL AS AND WHEN REQUIRED FOR 24 MONTHS FOR EMAKHAZENI LOCAL MUNICIPALITY","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"fb3c387c-373f-4f2c-9133-82850e90d8a8","documentType":"basic","title":"TENDER DOCUMENT Road Maintenance Final.pdf","description":"TENDER DOCUMENT Road Maintenance Final.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fb3c387c-373f-4f2c-9133-82850e90d8a8.pdf&downloadedFileName=TENDER%20DOCUMENT%20Road%20Maintenance%20Final.pdf","datePublished":"2024-12-23T09:55:23Z","dateModified":"2024-12-23T09:55:23Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-23T00:00:00Z","endDate":"2025-01-17T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"157","name":"EMAKHAZENI LOCAL MUNICIPALITY"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"157","name":"EMAKHAZENI LOCAL MUNICIPALITY"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111336","id":"ocds-9t57fa-111336-2024-12-23","date":"2024-12-23T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111336","title":"Letter to Extend Validity Period _MWP2656NTCSA","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Letter to Extend Validity Period _MWP2656NTCSA for Provision of physical guarding and armed response to Apollo & Centralised services sites for a period of five (5) years","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"491debbb-3e47-43b7-9617-036920a96f7e","documentType":"basic","title":"Letter to extend validity period of Tender_MWP2656NTCSA-Apollo CS Secuirty (signed).pdf","description":"Letter to extend validity period of Tender_MWP2656NTCSA-Apollo CS Secuirty (signed).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=491debbb-3e47-43b7-9617-036920a96f7e.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP2656NTCSA-Apollo%20CS%20Secuirty%20%28signed%29.pdf","datePublished":"2024-12-23T08:53:58Z","dateModified":"2024-12-23T08:53:58Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-23T00:00:00Z","endDate":"2025-02-28T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111335","id":"ocds-9t57fa-111335-2024-12-23","date":"2024-12-23T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111335","title":"ELM 24-25/12/01","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"PANEL OF CONTRACTORS FOR INFRASTRACTURE PROJECTS WITHIN EMAKHAZENI LOCAL MUNICIPALITY FOR A PERIOD OF 24 MONTHS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"65b8c178-fb81-4ee3-bf9d-9d73b387b8dd","documentType":"basic","title":"Panel of Contractors 2024.pdf","description":"Panel of Contractors 2024.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=65b8c178-fb81-4ee3-bf9d-9d73b387b8dd.pdf&downloadedFileName=Panel%20of%20Contractors%202024.pdf","datePublished":"2024-12-23T08:03:17Z","dateModified":"2024-12-23T08:03:17Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-23T00:00:00Z","endDate":"2025-01-17T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"157","name":"EMAKHAZENI LOCAL MUNICIPALITY"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"157","name":"EMAKHAZENI LOCAL MUNICIPALITY"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111334","id":"ocds-9t57fa-111334-2024-12-21","date":"2024-12-21T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111334","title":"Extension of Validity Period Letter _MWP2566TX","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Letter to Extend Validity Period _MWP2566TX-The provision of pest control services at Apollo and CS\r\nGrid for a period of 5 years","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"48107dcb-bc1a-4b92-9157-4fcf24ca4620","documentType":"basic","title":"Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf","description":"Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=48107dcb-bc1a-4b92-9157-4fcf24ca4620.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP2566TX-PEST%20CONTROL%20SERVICES%20AT%20APOLLO%20AND%20CS%20%28signed%29.pdf","datePublished":"2024-12-21T22:34:19Z","dateModified":"2024-12-21T22:34:19Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-21T00:00:00Z","endDate":"2025-02-28T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111333","id":"ocds-9t57fa-111333-2024-12-21","date":"2024-12-21T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111333","title":"Letter to Extend Validity Period _MWP2566TX.rev 2","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Letter to Extend Validity Period _MWP2566TX-The provision of pest control services at Apollo and CS\r\nGrid for a period of 5 years","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"c8b2ec53-515f-4e96-9996-9060af7a884c","documentType":"basic","title":"Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf","description":"Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c8b2ec53-515f-4e96-9996-9060af7a884c.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP2566TX-PEST%20CONTROL%20SERVICES%20AT%20APOLLO%20AND%20CS%20%28signed%29.pdf","datePublished":"2024-12-21T22:32:42Z","dateModified":"2024-12-21T22:32:42Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-21T00:00:00Z","endDate":"2025-02-28T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111332","id":"ocds-9t57fa-111332-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111332","title":"MPKUS11446GX","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Installation of compressed flow meters to process and instrument air pipework for a period of 5 months at Kusile Power Station","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"5860205d-a8a9-418f-bc94-12ad8c5d17d7","documentType":"basic","title":"240-109253302 _ Quality Control Plan or Inspection Test Plan (QCP or ITP) rev 2.pdf","description":"240-109253302 _ Quality Control Plan or Inspection Test Plan (QCP or ITP) rev 2.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5860205d-a8a9-418f-bc94-12ad8c5d17d7.pdf&downloadedFileName=240-109253302%20_%20Quality%20Control%20Plan%20or%20Inspection%20Test%20Plan%20%28QCP%20or%20ITP%29%20rev%202.pdf","datePublished":"2024-12-20T16:46:11Z","dateModified":"2024-12-20T16:46:11Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-20T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111331","id":"ocds-9t57fa-111331-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111331","title":"05/2025","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"Tender 05-2025 -SUPPORT AND MAINTENANCE SERVICES OF SAGE EVOLUTION ERP SYSTEM PASTEL","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"c3871347-331a-479d-ab38-da9fec8f7934","documentType":"basic","title":"Tender 05-2025 -SUPPORT AND MAINTENANCE SERVICES OF SAGE EVOLUTION ERP SYSTEM PASTEL.pdf","description":"Tender 05-2025 -SUPPORT AND MAINTENANCE SERVICES OF SAGE EVOLUTION ERP SYSTEM PASTEL.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c3871347-331a-479d-ab38-da9fec8f7934.pdf&downloadedFileName=Tender%2005-2025%20-SUPPORT%20AND%20MAINTENANCE%20SERVICES%20OF%20SAGE%20EVOLUTION%20ERP%20SYSTEM%20PASTEL.pdf","datePublished":"2024-12-20T14:38:06Z","dateModified":"2024-12-20T14:38:06Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-24T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"838","name":"Umgungundlovu Economic Development Agency SOC"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"838","name":"Umgungundlovu Economic Development Agency SOC"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111330","id":"ocds-9t57fa-111330-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111330","title":"RFQ JW 163 MS 24 RE-ADVERT","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":" 7X APPLE IPADS AND 7X KEYBOARDS RE-ADVERT","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"fffdb87a-3d8e-4d63-8502-45f764a055ac","documentType":"basic","title":"RFQ JW 163 MS 24 7X APPLE IPADS AND 7X KEYBOARDS RE-ADVERT.pdf","description":"RFQ JW 163 MS 24 7X APPLE IPADS AND 7X KEYBOARDS RE-ADVERT.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fffdb87a-3d8e-4d63-8502-45f764a055ac.pdf&downloadedFileName=RFQ%20JW%20163%20MS%2024%207X%20APPLE%20IPADS%20AND%207X%20KEYBOARDS%20RE-ADVERT.pdf","datePublished":"2024-12-20T13:53:55Z","dateModified":"2024-12-20T13:53:55Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-20T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"279","name":"Johannesburg Water"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"279","name":"Johannesburg Water"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111329","id":"ocds-9t57fa-111329-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111329","title":"MWP2584TX TENDER VALIDITY ","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"TENDER VALIDITY SUPPLY AND DELIVERY OF LIVE LINE PRODUCTION EQUIPMENT (GENERAL PPE)","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"4d7f12b0-a1f2-4fd7-a1c0-7c3db575e20a","documentType":"basic","title":"Letter to Extend validity period of Tender- Live line General PPE.pdf","description":"Letter to Extend validity period of Tender- Live line General PPE.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4d7f12b0-a1f2-4fd7-a1c0-7c3db575e20a.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender-%20Live%20line%20General%20PPE.pdf","datePublished":"2024-12-20T13:51:41Z","dateModified":"2024-12-20T13:51:41Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-31T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111328","id":"ocds-9t57fa-111328-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111328","title":"Tender Validity3-MWP2370TX","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"TENDER VALIDITY -PROVISION OF SUPERVISION, LABOUR, EQUIPMENT AND MATERIAL REQUIRED FOR GENERAL BUILDING MAINTENANCE SERVICES FOR TRANSMISSION SUBSTATIONS AND COMMERCIAL BUILDINGS FOR NORTHERN GRID (NORTHWEST & LIMPOPO). FOR A PERIOD OF 36 MONTHS, FOR AS AND WHEN REQUIRED BASIS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"8916b144-0342-46ea-ab8c-40945b335030","documentType":"basic","title":"Letter to Extend validity period of Tender -building maintenance.pdf","description":"Letter to Extend validity period of Tender -building maintenance.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8916b144-0342-46ea-ab8c-40945b335030.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%20-building%20maintenance.pdf","datePublished":"2024-12-20T13:48:34Z","dateModified":"2024-12-20T13:48:34Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-31T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111327","id":"ocds-9t57fa-111327-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111327","title":"Tender Validity-MWP2370TX","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"TENDER VALIDITY -PROVISION OF SUPERVISION, LABOUR, EQUIPMENT AND MATERIAL REQUIRED FOR GENERAL BUILDING MAINTENANCE SERVICES FOR TRANSMISSION SUBSTATIONS AND COMMERCIAL BUILDINGS FOR NORTHERN GRID (NORTHWEST & LIMPOPO). FOR A PERIOD OF 36 MONTHS, FOR AS AND WHEN REQUIRED BASIS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"8443fe5c-09c5-417a-9acf-55e199ba8791","documentType":"basic","title":"Letter to Extend validity period of Tender -building maintenance.pdf","description":"Letter to Extend validity period of Tender -building maintenance.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8443fe5c-09c5-417a-9acf-55e199ba8791.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%20-building%20maintenance.pdf","datePublished":"2024-12-20T13:47:49Z","dateModified":"2024-12-20T13:47:49Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-31T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111325","id":"ocds-9t57fa-111325-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111325","title":"EDET/QUOT 0320/2024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Design, Manufacture and Installation of Signage at Masebe Nature Reserve","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"3f07c4e0-c384-4233-bcaa-6607721a972c","documentType":"basic","title":"Signage Masebe12-20-2024-102000.pdf","description":"Signage Masebe12-20-2024-102000.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=3f07c4e0-c384-4233-bcaa-6607721a972c.pdf&downloadedFileName=Signage%20Masebe12-20-2024-102000.pdf","datePublished":"2024-12-20T12:48:32Z","dateModified":"2024-12-20T12:48:32Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-10T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"346","name":"Limpopo - Economic Development Environment & Tourism"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"346","name":"Limpopo - Economic Development Environment & Tourism"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111323","id":"ocds-9t57fa-111323-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111323","title":"EDET/QUOT 0364/2024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Design, Manufacture and Installation of Signage for Makgeng Mountain Trail, Fort Weeber, Dipitseng-Molepo Canyon and Thomo Heritage Park","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"a263075a-7777-4a68-9e2a-36487d82272d","documentType":"basic","title":"Spec Makgeng12-20-2024-101731.pdf","description":"Spec Makgeng12-20-2024-101731.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=a263075a-7777-4a68-9e2a-36487d82272d.pdf&downloadedFileName=Spec%20Makgeng12-20-2024-101731.pdf","datePublished":"2024-12-20T12:41:14Z","dateModified":"2024-12-20T12:41:14Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-10T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"346","name":"Limpopo - Economic Development Environment & Tourism"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"346","name":"Limpopo - Economic Development Environment & Tourism"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111322","id":"ocds-9t57fa-111322-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111322","title":"TPT/2024/12/0002/85594/RFQ - ICLM HQ 920/TPT","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"FOR THE PROVISION OF PORT OPERATING ASSET REVALUATION SERVICES FOR TRANSNET SOC LTD (REG. NO. 1990/000900/30) OPERATING AS TRANSNET PORT TERMINALS (HEREINAFTER REFERRED TO AS TPT) AT THE PORTS OF DURBAN, RICHARDS BAY, EAST LONDON, PORT ELIZABETH, NGQURA, CAPE TOWN AND SALDANHA ON A ONCE OFF BASIS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"7c738eb5-5ee9-465d-8709-03e5864eb517","documentType":"basic","title":"Annexure F-Non Disclosure Agreement.pdf","description":"Annexure F-Non Disclosure Agreement.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7c738eb5-5ee9-465d-8709-03e5864eb517.pdf&downloadedFileName=Annexure%20F-Non%20Disclosure%20Agreement.pdf","datePublished":"2024-12-20T12:20:57Z","dateModified":"2024-12-20T12:20:57Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-08T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111320","id":"ocds-9t57fa-111320-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111320","title":"RE: ERI/2024/SS/02","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"TENDER CANCELLATION LETTTER- SUPPLY & DELIVERY OF MICROSOFT TEAMS BOARDROOM EQUIPMENT","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"eeebaaca-2145-44bd-bd60-2a0f9ba2987e","documentType":"basic","title":"Tender Cancellation Letter Template - MS TEAMS AP.pdf","description":"Tender Cancellation Letter Template - MS TEAMS AP.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=eeebaaca-2145-44bd-bd60-2a0f9ba2987e.pdf&downloadedFileName=Tender%20Cancellation%20Letter%20Template%20-%20MS%20TEAMS%20AP.pdf","datePublished":"2024-12-20T11:31:01Z","dateModified":"2024-12-20T11:31:01Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-24T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111319","id":"ocds-9t57fa-111319-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111319","title":"T2025-05","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"SUPPLY, DELIVERY AND INSTALLATION OF (30) LIGHTNING CONDUCTORS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"d05d7295-d3e5-4eb9-8cb6-5d259e3e629b","documentType":"basic","title":"T2025-05 SUPPLY, DELIVERY AND INSTALLATION OF (30) LIGHTNING CONDUCTORS.pdf","description":"T2025-05 SUPPLY, DELIVERY AND INSTALLATION OF (30) LIGHTNING CONDUCTORS.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d05d7295-d3e5-4eb9-8cb6-5d259e3e629b.pdf&downloadedFileName=T2025-05%20SUPPLY%2C%20DELIVERY%20AND%20INSTALLATION%20OF%20%2830%29%20LIGHTNING%20CONDUCTORS.pdf","datePublished":"2024-12-20T11:13:51Z","dateModified":"2024-12-20T11:13:51Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-31T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"697","name":"Umzinyathi District Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"697","name":"Umzinyathi District Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111318","id":"ocds-9t57fa-111318-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111318","title":"PNRFQ2012-2024","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"REQUEST FOR QUOTATIONS IN RELATION TO THE PROVISION OF INTERNAL AUDIT SERVICES  CONDUCT AN EXTERNAL QUALITY ASSESSMENT ON THE DSAC INTERNAL AUDIT FUNCTION.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"f3e7b50c-d8bf-488b-8ff3-6ff4fcd4c376","documentType":"basic","title":"PNRFQ2012-2024.pdf","description":"PNRFQ2012-2024.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f3e7b50c-d8bf-488b-8ff3-6ff4fcd4c376.pdf&downloadedFileName=PNRFQ2012-2024.pdf","datePublished":"2024-12-20T11:13:21Z","dateModified":"2024-12-20T11:13:21Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-17T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"96","name":"Department of Sports, Arts & Culture"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"96","name":"Department of Sports, Arts & Culture"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111317","id":"ocds-9t57fa-111317-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111317","title":"T2025-06","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":" ESTABLISHMENT OF A PANEL OF SERVICE PROVIDERS FOR THE PROVISION OF FUEL & OIL AS AND WHEN REQUIRED BY THE MUNICIPALITY FOR A PERIOD OF 36 MONTHS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"1f7e467f-e636-4cae-9e73-5a6dcd8e9531","documentType":"basic","title":"T2025-06 ESTABLISHMENT OF A PANEL OF SERVICE PROVIDERS FOR THE PROVISION OF FUEL & OIL AS AND WHEN REQUIRED BY THE MUNICIPALITY FOR A PERIOD OF 36 MONTHS (1).pdf","description":"T2025-06 ESTABLISHMENT OF A PANEL OF SERVICE PROVIDERS FOR THE PROVISION OF FUEL & OIL AS AND WHEN REQUIRED BY THE MUNICIPALITY FOR A PERIOD OF 36 MONTHS (1).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1f7e467f-e636-4cae-9e73-5a6dcd8e9531.pdf&downloadedFileName=T2025-06%20ESTABLISHMENT%20OF%20A%20PANEL%20OF%20SERVICE%20PROVIDERS%20FOR%20THE%20PROVISION%20OF%20FUEL%20%26%20OIL%20AS%20AND%20WHEN%20REQUIRED%20BY%20THE%20MUNICIPALITY%20FOR%20A%20PERIOD%20OF%2036%20MONTHS%20%281%29.pdf","datePublished":"2024-12-20T11:08:03Z","dateModified":"2024-12-20T11:08:03Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-01-31T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"697","name":"Umzinyathi District Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"697","name":"Umzinyathi District Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111315","id":"ocds-9t57fa-111315-2024-12-20","date":"2024-12-20T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111315","title":"273/24","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"APPOINTMENT OF MEDIA PLANNING AND BUYING AGENCY MEISEA","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"5edad80f-b7cf-44d2-8cb5-37bf8a97e6b4","documentType":"basic","title":"PART C.pdf","description":"PART C.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5edad80f-b7cf-44d2-8cb5-37bf8a97e6b4.pdf&downloadedFileName=PART%20C.pdf","datePublished":"2024-12-20T08:30:02Z","dateModified":"2024-12-20T08:30:02Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-20T00:00:00Z","endDate":"2025-02-17T08:30:00Z"},"tenderers":[],"procuringEntity":{"id":"627","name":"South African Tourism"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"627","name":"South African Tourism"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111316","id":"ocds-9t57fa-111316-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111316","title":"64460","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"APPOINTMENT OF A SERVICE PROVIDER TO DEVELOP MUNICIPAL SOCIO-ECONOMIC PROFILES FOR ALL MUNICIPALITIES IN SOUTH AFRICA AND COLLECT MUNICIPAL VIOLENCE INCIDENTS DATA","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"de28c6dc-9bd5-49ca-96b0-2fe363c96818","documentType":"basic","title":"Purchase Order #64460.pdf","description":"Purchase Order #64460.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=de28c6dc-9bd5-49ca-96b0-2fe363c96818.pdf&downloadedFileName=Purchase%20Order%20%2364460.pdf","datePublished":"2024-12-20T08:52:42Z","dateModified":"2024-12-20T08:52:42Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2024-12-20T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"611","name":"South African Local Government Association"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[{"name":" (CENTRE FOR EMERGING RESEARCHERS)","id":"40243","identifier":{"legalName":" (CENTRE FOR EMERGING RESEARCHERS)"},"address":{"countryName":"South Africa"},"contactPoint":{"name":"Lindiwe Mhlongo","telephone":"012-369-8000","email":"nmsomi@salga.org.za","faxNumber":"N/A","url":"https://salga.org.za"},"roles":["supplier"]}],"buyer":{"id":"611","name":"South African Local Government Association"},"language":"en-za","awards":[{"id":"40243","title":" (CENTRE FOR EMERGING RESEARCHERS)","status":"active","description":"EME","value":{"amount":9799996.00,"currency":"ZAR"},"suppliers":[{"id":"1111854","name":" (CENTRE FOR EMERGING RESEARCHERS)"}]}],"contracts":[{"id":"2869","awardID":"40243","title":"64460","description":"APPOINTMENT OF A SERVICE PROVIDER TO DEVELOP MUNICIPAL SOCIO-ECONOMIC PROFILES FOR ALL MUNICIPALITIES IN SOUTH AFRICA AND COLLECT MUNICIPAL VIOLENCE INCIDENTS DATA","status":"active","period":{"startDate":"0001-01-01T00:00:00Z","endDate":"0001-01-01T00:00:00Z","maxExtentDate":"0001-01-01T00:00:00Z","durationInDays":0},"value":{"amount":979999,"currency":"ZAR"},"dateSigned":"2024-12-20T13:19:40Z","documents":[{"id":"2c36a85b-3edb-4b03-baf8-42f057e7aec4.pdf","documentType":"pdf","title":"PO #64460.pdf","description":"APPOINTMENT OF A SERVICE PROVIDER TO DEVELOP MUNICIPAL SOCIO-ECONOMIC PROFILES FOR ALL MUNICIPALITIES IN SOUTH AFRICA AND COLLECT MUNICIPAL VIOLENCE INCIDENTS DATA","datePublished":"2024-12-20T13:19:40Z","dateModified":"0001-01-01T00:00:00Z","format":"pdf","language":"en"}],"implementation":{},"relatedProcesses":[],"milestones":[]}]},{"ocid":"ocds-9t57fa-111314","id":"ocds-9t57fa-111314-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111314","title":"MWP2956GX ","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"PJFFP RAW AND CLEAN GAS DAMPER ACTUATOR MOISTURE TRAPS INSTALLATION AT KUSILE POWER STATION ","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"19e72d37-fe1f-49d0-b545-0322f0474f41","documentType":"basic","title":"TENDER DOCUMENT BINDING.pdf","description":"TENDER DOCUMENT BINDING.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=19e72d37-fe1f-49d0-b545-0322f0474f41.pdf&downloadedFileName=TENDER%20DOCUMENT%20BINDING.pdf","datePublished":"2024-12-19T19:07:03Z","dateModified":"2024-12-19T19:07:03Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-31T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111313","id":"ocds-9t57fa-111313-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111313","title":"COGHSTAB23/2024-25FY","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"PROCUREMENT OF OFFICE FURNITURE FOR 24 TRADITIONAL COUNCILS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"8571f7c9-17e6-444c-bbae-269da7dad644","documentType":"basic","title":"TENDER DOCUMENT FOR CoGHSTA B23  2024  25  FY.pdf","description":"TENDER DOCUMENT FOR CoGHSTA B23  2024  25  FY.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8571f7c9-17e6-444c-bbae-269da7dad644.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%20B23%20%202024%20%2025%20%20FY.pdf","datePublished":"2024-12-19T18:11:08Z","dateModified":"2024-12-19T18:11:08Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-02-06T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111312","id":"ocds-9t57fa-111312-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111312","title":"COGHSTAB20/2024-25FY","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"THE ESTABLISHMENT OF DATABASE FOR A PANEL OF SERVICE PROVIDERS (CONTRACTORS) FOR CONSTRUCTION OF LOW-COST HOUSES (BNG) FOR A PERIOD OF THREE (03) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"813a1616-6b26-41e4-81f0-c37c8ef516f9","documentType":"basic","title":"TENDER DOCUMENT FOR CoGHSTA 21 2024  25 FY.pdf","description":"TENDER DOCUMENT FOR CoGHSTA 21 2024  25 FY.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=813a1616-6b26-41e4-81f0-c37c8ef516f9.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%2021%202024%20%2025%20FY.pdf","datePublished":"2024-12-19T18:03:44Z","dateModified":"2024-12-19T18:03:44Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-02-05T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111311","id":"ocds-9t57fa-111311-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111311","title":"COGHSTAB19/2024-25FY","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"THE ESTABLISHMENT OF A DATABASE FOR ENGINEERING CONSULTANTS TO CONDUCT GEOTECHNICAL INVESTIGATION, DESIGN, AND INSTALL ENGINEERING SERVICES (TURNKEY CONTRACT) IN LIMPOPO PROVINCE FOR THREE (03) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"f9aca806-48ff-4c0c-b6e0-9797f0c961d8","documentType":"basic","title":"TENDER DOCUMENT FOR CoGHSTA B19   2024  25  FY.pdf","description":"TENDER DOCUMENT FOR CoGHSTA B19   2024  25  FY.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f9aca806-48ff-4c0c-b6e0-9797f0c961d8.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%20B19%20%20%202024%20%2025%20%20FY.pdf","datePublished":"2024-12-19T17:57:50Z","dateModified":"2024-12-19T17:57:50Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-02-04T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111310","id":"ocds-9t57fa-111310-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111310","title":"COGHSTAB18/2024-25FY","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"THE ESTABLISHMENT OF DATABASE FOR SERVICE PROVIDERS (PROFESSIONAL TOWN & REGIONAL PLANNERS AND LAND SURVEYORS) FOR TOWNSHIP ESTABLISHMENT/DERMACATION OF SITES FOR INFORMAL SETTLEMENTS UPGRADING OVER A PERIOD OF THREE YEARS (2025/26 UNTIL 2027/28 FINANCIAL YEARS)","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"2218112e-07e8-48e3-b3bd-6efbbc91a1cc","documentType":"basic","title":"TENDER DOCUMENT FOR CoGHSTA B18   2024  25  FY.pdf","description":"TENDER DOCUMENT FOR CoGHSTA B18   2024  25  FY.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2218112e-07e8-48e3-b3bd-6efbbc91a1cc.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%20B18%20%20%202024%20%2025%20%20FY.pdf","datePublished":"2024-12-19T17:44:58Z","dateModified":"2024-12-19T17:44:58Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-02-04T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"815","name":"Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111309","id":"ocds-9t57fa-111309-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111309","title":"60/2024 LLM","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"SUPPLY AND DELIVERY OF LED LUMINAIRES FOR THE PERIOD OF THREE (3) YEARS ON AN AS AND WHEN REQUIRED BASIS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"66b3bc4b-d08f-4b01-aaec-d2ca7771d98e","documentType":"basic","title":"Tender 60-2024 LED LUMINAIRES.pdf","description":"Tender 60-2024 LED LUMINAIRES.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=66b3bc4b-d08f-4b01-aaec-d2ca7771d98e.pdf&downloadedFileName=Tender%2060-2024%20LED%20LUMINAIRES.pdf","datePublished":"2024-12-19T17:37:49Z","dateModified":"2024-12-19T17:37:49Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-30T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111308","id":"ocds-9t57fa-111308-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111308","title":"59/2024 LLM","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY OF SEWER TOOLS AND EQUIPMENTS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"811a3ac1-ab3f-4044-9c14-7632aec7ee25","documentType":"basic","title":"Tender 59-2024 SEWER TOOLS AND EQUIPMENT.pdf","description":"Tender 59-2024 SEWER TOOLS AND EQUIPMENT.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=811a3ac1-ab3f-4044-9c14-7632aec7ee25.pdf&downloadedFileName=Tender%2059-2024%20SEWER%20TOOLS%20AND%20EQUIPMENT.pdf","datePublished":"2024-12-19T17:36:11Z","dateModified":"2024-12-19T17:36:11Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-29T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111307","id":"ocds-9t57fa-111307-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111307","title":"58/2024","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":" APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY OF WATER AND SEWER PIPES ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"7638dd9f-bc88-478b-a2d2-ded683ae38e5","documentType":"basic","title":"Tender 58-2024 WATER AND SEWER PIPES.pdf","description":"Tender 58-2024 WATER AND SEWER PIPES.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7638dd9f-bc88-478b-a2d2-ded683ae38e5.pdf&downloadedFileName=Tender%2058-2024%20WATER%20AND%20SEWER%20PIPES.pdf","datePublished":"2024-12-19T17:34:46Z","dateModified":"2024-12-19T17:34:46Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-28T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111306","id":"ocds-9t57fa-111306-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111306","title":"57/2024 LLM","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER(S) FOR SUPPLY AND DELIVERY OF WATER AND SANITATION CHEMICALS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"97b34a07-2498-49b4-a373-6dd97e119147","documentType":"basic","title":"Tender 57-2024 WATER AND SANITATION CHEMICALS.pdf","description":"Tender 57-2024 WATER AND SANITATION CHEMICALS.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=97b34a07-2498-49b4-a373-6dd97e119147.pdf&downloadedFileName=Tender%2057-2024%20WATER%20AND%20SANITATION%20CHEMICALS.pdf","datePublished":"2024-12-19T17:33:13Z","dateModified":"2024-12-19T17:33:13Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-27T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111305","id":"ocds-9t57fa-111305-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111305","title":"56/2024 LLM","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER(S) TO PROVIDE COMPLIANCE AND OPERATIONAL MONITORING SERVICES, WHICH WILL INCLUDE SAMPLING, TRANSPORTATION AND ANALYSIS OF SAMPLES FOR WATER AND SANITATION ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"e6bb3291-e9f6-4f46-a0d6-6a6c94cc6c6b","documentType":"basic","title":"Tender 56-2024 COMPLIANCE AND OPERATIONAL MONITORING SERVICES.pdf","description":"Tender 56-2024 COMPLIANCE AND OPERATIONAL MONITORING SERVICES.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e6bb3291-e9f6-4f46-a0d6-6a6c94cc6c6b.pdf&downloadedFileName=Tender%2056-2024%20COMPLIANCE%20AND%20OPERATIONAL%20MONITORING%20SERVICES.pdf","datePublished":"2024-12-19T17:31:13Z","dateModified":"2024-12-19T17:31:13Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-24T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111304","id":"ocds-9t57fa-111304-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111304","title":"55/2024 LLM","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER(S) TO CONDUCT EXTERNAL LANDFILL SITE COMPLIANCE AUDITS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"1c8b344d-0ef0-4ce6-8f1c-b5082086166d","documentType":"basic","title":"Tender 55-2024 LANDFILL SITE COMPLIANCE AUDITS.pdf","description":"Tender 55-2024 LANDFILL SITE COMPLIANCE AUDITS.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1c8b344d-0ef0-4ce6-8f1c-b5082086166d.pdf&downloadedFileName=Tender%2055-2024%20LANDFILL%20SITE%20COMPLIANCE%20AUDITS.pdf","datePublished":"2024-12-19T17:29:09Z","dateModified":"2024-12-19T17:29:09Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-23T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111303","id":"ocds-9t57fa-111303-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111303","title":"54/2024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"PROVISION OF PLANT AND EQUIPMENT SERVICE FOR THE WATER AND SANITATION MAINTENANCE ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"9ec13b79-a2ae-4929-9af1-8f2fd9612f68","documentType":"basic","title":"Tender 54-2024 PROVISION OF PLANT AND EQUIPMENT.pdf","description":"Tender 54-2024 PROVISION OF PLANT AND EQUIPMENT.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=9ec13b79-a2ae-4929-9af1-8f2fd9612f68.pdf&downloadedFileName=Tender%2054-2024%20PROVISION%20OF%20PLANT%20AND%20EQUIPMENT.pdf","datePublished":"2024-12-19T17:26:58Z","dateModified":"2024-12-19T17:26:58Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-22T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111302","id":"ocds-9t57fa-111302-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111302","title":"53/2024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"HIRING OF WATER DELIVERY TRUCKS/TANKERS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"7b8b8d8e-53ce-4b41-9516-ece134877716","documentType":"basic","title":"Tender 53-2024 HIRING OF WATER TANKERS.pdf","description":"Tender 53-2024 HIRING OF WATER TANKERS.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7b8b8d8e-53ce-4b41-9516-ece134877716.pdf&downloadedFileName=Tender%2053-2024%20HIRING%20OF%20WATER%20TANKERS.pdf","datePublished":"2024-12-19T17:24:55Z","dateModified":"2024-12-19T17:24:55Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-21T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111301","id":"ocds-9t57fa-111301-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111301","title":"52/2024 LLM","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"52/2024: APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE END-TO-END OPERATIONAL SUPPORT FOR REVENUE MANAGEMENT FOR A PERIOD OF THREE YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"834c6dba-dae7-4337-96a8-f8e79530d238","documentType":"basic","title":"Tender 52-2024 REVENUE MANAGEMENT.pdf","description":"Tender 52-2024 REVENUE MANAGEMENT.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=834c6dba-dae7-4337-96a8-f8e79530d238.pdf&downloadedFileName=Tender%2052-2024%20REVENUE%20MANAGEMENT.pdf","datePublished":"2024-12-19T17:19:49Z","dateModified":"2024-12-19T17:19:49Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2024-12-19T17:22:19Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111300","id":"ocds-9t57fa-111300-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111300","title":"52/2024 LLM","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"52/2024: APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE END-TO-END OPERATIONAL SUPPORT FOR REVENUE MANAGEMENT FOR A PERIOD OF THREE YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"e3099f2b-66b2-4b91-bb49-ca74b55c8a1c","documentType":"basic","title":"Tender 52-2024 REVENUE MANAGEMENT.pdf","description":"Tender 52-2024 REVENUE MANAGEMENT.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e3099f2b-66b2-4b91-bb49-ca74b55c8a1c.pdf&downloadedFileName=Tender%2052-2024%20REVENUE%20MANAGEMENT.pdf","datePublished":"2024-12-19T17:19:40Z","dateModified":"2024-12-19T17:19:40Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-20T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111299","id":"ocds-9t57fa-111299-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111299","title":"50/2024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"PRINTING AND MAILING OF MONTHLY MUNICIPAL ACCOUNTS FOR LESEDI LOCAL MUNICIPALITY FOR A PERIOD OF 36 MONTHS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"ca0a7a38-0277-4b97-8a75-3d742015c194","documentType":"basic","title":"TENDER 50_2024 PRINTING OF STATEMENTS TENDER DOCUMENT.pdf","description":"TENDER 50_2024 PRINTING OF STATEMENTS TENDER DOCUMENT.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ca0a7a38-0277-4b97-8a75-3d742015c194.pdf&downloadedFileName=TENDER%2050_2024%20PRINTING%20OF%20STATEMENTS%20TENDER%20DOCUMENT.pdf","datePublished":"2024-12-19T17:16:34Z","dateModified":"2024-12-19T17:16:34Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-17T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"342","name":"Lesedi Local Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"342","name":"Lesedi Local Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111298","id":"ocds-9t57fa-111298-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111298","title":"REGRETMWP2604TX","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"REGRET LETTER MWP2604TX","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"e4daee9d-53b4-419e-9530-5a315b924be4","documentType":"basic","title":"Regret Letter Template for Unsuccessful Suppliers- MWP2604TX.pdf","description":"Regret Letter Template for Unsuccessful Suppliers- MWP2604TX.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e4daee9d-53b4-419e-9530-5a315b924be4.pdf&downloadedFileName=Regret%20Letter%20Template%20for%20Unsuccessful%20Suppliers-%20MWP2604TX.pdf","datePublished":"2024-12-19T16:17:36Z","dateModified":"2024-12-19T16:17:36Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2024-12-31T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111297","id":"ocds-9t57fa-111297-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111297","title":"WCKBG2534TC TP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"The refurbishment, maintenance, rewinding and testing of all LV-MV Transformers, motors, FAN assemblies and motor generators.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"299fefbe-191d-4ce7-b247-a894fe20da63","documentType":"basic","title":"Publication of Names of Bidders iro advertised Competitive Bids.pdf","description":"Publication of Names of Bidders iro advertised Competitive Bids.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=299fefbe-191d-4ce7-b247-a894fe20da63.pdf&downloadedFileName=Publication%20of%20Names%20of%20Bidders%20iro%20advertised%20Competitive%20Bids.pdf","datePublished":"2024-12-19T16:16:08Z","dateModified":"2024-12-19T16:16:08Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2024-12-30T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111296","id":"ocds-9t57fa-111296-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111296","title":"REGRETMWP2441TX","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REGRET LETTER MWP2441TX","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"7935b8e1-68d9-4b00-8db3-76cfb623b368","documentType":"basic","title":"Regret Letter Template for Unsuccessful Suppliers- MWP2441TX.pdf","description":"Regret Letter Template for Unsuccessful Suppliers- MWP2441TX.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7935b8e1-68d9-4b00-8db3-76cfb623b368.pdf&downloadedFileName=Regret%20Letter%20Template%20for%20Unsuccessful%20Suppliers-%20MWP2441TX.pdf","datePublished":"2024-12-19T16:13:44Z","dateModified":"2024-12-19T16:13:44Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2024-12-31T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111294","id":"ocds-9t57fa-111294-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111294","title":"JCPZ/RFP/ECD01/2024","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"Appointment of a Fundraiser for the Second African Forum on Urban Forests","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"14fd0bc6-0617-4885-8a19-4816a04dd5b8","documentType":"basic","title":"Tender Advert  RFP December 2024.pdf","description":"Tender Advert  RFP December 2024.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=14fd0bc6-0617-4885-8a19-4816a04dd5b8.pdf&downloadedFileName=Tender%20Advert%20%20RFP%20December%202024.pdf","datePublished":"2024-12-19T14:46:44Z","dateModified":"2024-12-19T14:46:44Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-17T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"273","name":"Johannesburg City Parks and Zoo"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"273","name":"Johannesburg City Parks and Zoo"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-111292","id":"ocds-9t57fa-111292-2024-12-19","date":"2024-12-19T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111292","title":"HM/19/12/2024/01","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Training","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"6ea055b0-b131-438a-83af-476236a23ca8","documentType":"basic","title":"ADDENDUM 4 - TEMPLATE - SWORN AFFIDAVIT OF BOTH EME AND QSE - - Copy.docx","description":"ADDENDUM 4 - TEMPLATE - SWORN AFFIDAVIT OF BOTH EME AND QSE - - Copy.docx","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6ea055b0-b131-438a-83af-476236a23ca8.docx&downloadedFileName=ADDENDUM%204%20-%20TEMPLATE%20-%20SWORN%20AFFIDAVIT%20OF%20BOTH%20EME%20AND%20QSE%20-%20-%20Copy.docx","datePublished":"2024-12-19T13:13:25Z","dateModified":"2024-12-19T13:13:25Z","format":"docx","language":"en"}],"tenderPeriod":{"startDate":"2024-12-19T00:00:00Z","endDate":"2025-01-07T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"663","name":"Tourism"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"663","name":"Tourism"},"language":"en-za","awards":[],"contracts":[]}],"links":{"next":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=4&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31","prev":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=2&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"}}
+{
+    "uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=3&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+    "version": "1.1",
+    "publishedDate": "2025-01-04T10:34:49Z",
+    "publisher": {
+        "name": "National Treasury (South Africa)",
+        "uri": "https://data.etenders.gov.za/"
+    },
+    "license": "https://opendatacommons.org/licenses/pddl/1-0/111",
+    "publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
+    "releases": [
+        {
+            "ocid": "ocds-9t57fa-111338",
+            "id": "ocds-9t57fa-111338-2024-12-23",
+            "date": "2024-12-23T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111338",
+                "title": "AHT26116-EXT",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "TRANSPORTATION OF ALL PetroSA EQUIPMENT FROM TECHNIP FMC NORWAY TO SOUTH AFRICA",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "66b5e149-8b8f-490c-b587-46c2d601dbd5",
+                        "documentType": "basic",
+                        "title": "SCOPE OF WORK_.pdf",
+                        "description": "SCOPE OF WORK_.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=66b5e149-8b8f-490c-b587-46c2d601dbd5.pdf&downloadedFileName=SCOPE%20OF%20WORK_.pdf",
+                        "datePublished": "2024-12-23T10:10:21Z",
+                        "dateModified": "2024-12-23T10:10:21Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-23T00:00:00Z",
+                    "endDate": "2025-01-17T01:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "539",
+                    "name": "PetroSA"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "539",
+                "name": "PetroSA"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111337",
+            "id": "ocds-9t57fa-111337-2024-12-23",
+            "date": "2024-12-23T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111337",
+                "title": "ELM 24-25/12/02",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "APPOINTMENT OF PANEL SERVICE PROVIDERS FOR SUPPLY, DELIVERY AND OFFLOADING OF ROAD AND STORMWATER MATERIAL AS AND WHEN REQUIRED FOR 24 MONTHS FOR EMAKHAZENI LOCAL MUNICIPALITY",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "fb3c387c-373f-4f2c-9133-82850e90d8a8",
+                        "documentType": "basic",
+                        "title": "TENDER DOCUMENT Road Maintenance Final.pdf",
+                        "description": "TENDER DOCUMENT Road Maintenance Final.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fb3c387c-373f-4f2c-9133-82850e90d8a8.pdf&downloadedFileName=TENDER%20DOCUMENT%20Road%20Maintenance%20Final.pdf",
+                        "datePublished": "2024-12-23T09:55:23Z",
+                        "dateModified": "2024-12-23T09:55:23Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-23T00:00:00Z",
+                    "endDate": "2025-01-17T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "157",
+                    "name": "EMAKHAZENI LOCAL MUNICIPALITY"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "157",
+                "name": "EMAKHAZENI LOCAL MUNICIPALITY"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111336",
+            "id": "ocds-9t57fa-111336-2024-12-23",
+            "date": "2024-12-23T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111336",
+                "title": "Letter to Extend Validity Period _MWP2656NTCSA",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Letter to Extend Validity Period _MWP2656NTCSA for Provision of physical guarding and armed response to Apollo & Centralised services sites for a period of five (5) years",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "491debbb-3e47-43b7-9617-036920a96f7e",
+                        "documentType": "basic",
+                        "title": "Letter to extend validity period of Tender_MWP2656NTCSA-Apollo CS Secuirty (signed).pdf",
+                        "description": "Letter to extend validity period of Tender_MWP2656NTCSA-Apollo CS Secuirty (signed).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=491debbb-3e47-43b7-9617-036920a96f7e.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP2656NTCSA-Apollo%20CS%20Secuirty%20%28signed%29.pdf",
+                        "datePublished": "2024-12-23T08:53:58Z",
+                        "dateModified": "2024-12-23T08:53:58Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-23T00:00:00Z",
+                    "endDate": "2025-02-28T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111335",
+            "id": "ocds-9t57fa-111335-2024-12-23",
+            "date": "2024-12-23T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111335",
+                "title": "ELM 24-25/12/01",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "PANEL OF CONTRACTORS FOR INFRASTRACTURE PROJECTS WITHIN EMAKHAZENI LOCAL MUNICIPALITY FOR A PERIOD OF 24 MONTHS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "65b8c178-fb81-4ee3-bf9d-9d73b387b8dd",
+                        "documentType": "basic",
+                        "title": "Panel of Contractors 2024.pdf",
+                        "description": "Panel of Contractors 2024.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=65b8c178-fb81-4ee3-bf9d-9d73b387b8dd.pdf&downloadedFileName=Panel%20of%20Contractors%202024.pdf",
+                        "datePublished": "2024-12-23T08:03:17Z",
+                        "dateModified": "2024-12-23T08:03:17Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-23T00:00:00Z",
+                    "endDate": "2025-01-17T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "157",
+                    "name": "EMAKHAZENI LOCAL MUNICIPALITY"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "157",
+                "name": "EMAKHAZENI LOCAL MUNICIPALITY"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111334",
+            "id": "ocds-9t57fa-111334-2024-12-21",
+            "date": "2024-12-21T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111334",
+                "title": "Extension of Validity Period Letter _MWP2566TX",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Letter to Extend Validity Period _MWP2566TX-The provision of pest control services at Apollo and CS\r\nGrid for a period of 5 years",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "48107dcb-bc1a-4b92-9157-4fcf24ca4620",
+                        "documentType": "basic",
+                        "title": "Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf",
+                        "description": "Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=48107dcb-bc1a-4b92-9157-4fcf24ca4620.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP2566TX-PEST%20CONTROL%20SERVICES%20AT%20APOLLO%20AND%20CS%20%28signed%29.pdf",
+                        "datePublished": "2024-12-21T22:34:19Z",
+                        "dateModified": "2024-12-21T22:34:19Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-21T00:00:00Z",
+                    "endDate": "2025-02-28T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111333",
+            "id": "ocds-9t57fa-111333-2024-12-21",
+            "date": "2024-12-21T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111333",
+                "title": "Letter to Extend Validity Period _MWP2566TX.rev 2",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Letter to Extend Validity Period _MWP2566TX-The provision of pest control services at Apollo and CS\r\nGrid for a period of 5 years",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "c8b2ec53-515f-4e96-9996-9060af7a884c",
+                        "documentType": "basic",
+                        "title": "Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf",
+                        "description": "Letter to extend validity period of Tender_MWP2566TX-PEST CONTROL SERVICES AT APOLLO AND CS (signed).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c8b2ec53-515f-4e96-9996-9060af7a884c.pdf&downloadedFileName=Letter%20to%20extend%20validity%20period%20of%20Tender_MWP2566TX-PEST%20CONTROL%20SERVICES%20AT%20APOLLO%20AND%20CS%20%28signed%29.pdf",
+                        "datePublished": "2024-12-21T22:32:42Z",
+                        "dateModified": "2024-12-21T22:32:42Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-21T00:00:00Z",
+                    "endDate": "2025-02-28T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111332",
+            "id": "ocds-9t57fa-111332-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111332",
+                "title": "MPKUS11446GX",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Installation of compressed flow meters to process and instrument air pipework for a period of 5 months at Kusile Power Station",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "5860205d-a8a9-418f-bc94-12ad8c5d17d7",
+                        "documentType": "basic",
+                        "title": "240-109253302 _ Quality Control Plan or Inspection Test Plan (QCP or ITP) rev 2.pdf",
+                        "description": "240-109253302 _ Quality Control Plan or Inspection Test Plan (QCP or ITP) rev 2.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5860205d-a8a9-418f-bc94-12ad8c5d17d7.pdf&downloadedFileName=240-109253302%20_%20Quality%20Control%20Plan%20or%20Inspection%20Test%20Plan%20%28QCP%20or%20ITP%29%20rev%202.pdf",
+                        "datePublished": "2024-12-20T16:46:11Z",
+                        "dateModified": "2024-12-20T16:46:11Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-20T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111331",
+            "id": "ocds-9t57fa-111331-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111331",
+                "title": "05/2025",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "Tender 05-2025 -SUPPORT AND MAINTENANCE SERVICES OF SAGE EVOLUTION ERP SYSTEM PASTEL",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "c3871347-331a-479d-ab38-da9fec8f7934",
+                        "documentType": "basic",
+                        "title": "Tender 05-2025 -SUPPORT AND MAINTENANCE SERVICES OF SAGE EVOLUTION ERP SYSTEM PASTEL.pdf",
+                        "description": "Tender 05-2025 -SUPPORT AND MAINTENANCE SERVICES OF SAGE EVOLUTION ERP SYSTEM PASTEL.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c3871347-331a-479d-ab38-da9fec8f7934.pdf&downloadedFileName=Tender%2005-2025%20-SUPPORT%20AND%20MAINTENANCE%20SERVICES%20OF%20SAGE%20EVOLUTION%20ERP%20SYSTEM%20PASTEL.pdf",
+                        "datePublished": "2024-12-20T14:38:06Z",
+                        "dateModified": "2024-12-20T14:38:06Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-24T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "838",
+                    "name": "Umgungundlovu Economic Development Agency SOC"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "838",
+                "name": "Umgungundlovu Economic Development Agency SOC"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111330",
+            "id": "ocds-9t57fa-111330-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111330",
+                "title": "RFQ JW 163 MS 24 RE-ADVERT",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": " 7X APPLE IPADS AND 7X KEYBOARDS RE-ADVERT",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "fffdb87a-3d8e-4d63-8502-45f764a055ac",
+                        "documentType": "basic",
+                        "title": "RFQ JW 163 MS 24 7X APPLE IPADS AND 7X KEYBOARDS RE-ADVERT.pdf",
+                        "description": "RFQ JW 163 MS 24 7X APPLE IPADS AND 7X KEYBOARDS RE-ADVERT.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fffdb87a-3d8e-4d63-8502-45f764a055ac.pdf&downloadedFileName=RFQ%20JW%20163%20MS%2024%207X%20APPLE%20IPADS%20AND%207X%20KEYBOARDS%20RE-ADVERT.pdf",
+                        "datePublished": "2024-12-20T13:53:55Z",
+                        "dateModified": "2024-12-20T13:53:55Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-20T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "279",
+                    "name": "Johannesburg Water"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "279",
+                "name": "Johannesburg Water"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111329",
+            "id": "ocds-9t57fa-111329-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111329",
+                "title": "MWP2584TX TENDER VALIDITY ",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "TENDER VALIDITY SUPPLY AND DELIVERY OF LIVE LINE PRODUCTION EQUIPMENT (GENERAL PPE)",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "4d7f12b0-a1f2-4fd7-a1c0-7c3db575e20a",
+                        "documentType": "basic",
+                        "title": "Letter to Extend validity period of Tender- Live line General PPE.pdf",
+                        "description": "Letter to Extend validity period of Tender- Live line General PPE.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4d7f12b0-a1f2-4fd7-a1c0-7c3db575e20a.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender-%20Live%20line%20General%20PPE.pdf",
+                        "datePublished": "2024-12-20T13:51:41Z",
+                        "dateModified": "2024-12-20T13:51:41Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-31T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111328",
+            "id": "ocds-9t57fa-111328-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111328",
+                "title": "Tender Validity3-MWP2370TX",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "TENDER VALIDITY -PROVISION OF SUPERVISION, LABOUR, EQUIPMENT AND MATERIAL REQUIRED FOR GENERAL BUILDING MAINTENANCE SERVICES FOR TRANSMISSION SUBSTATIONS AND COMMERCIAL BUILDINGS FOR NORTHERN GRID (NORTHWEST & LIMPOPO). FOR A PERIOD OF 36 MONTHS, FOR AS AND WHEN REQUIRED BASIS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "8916b144-0342-46ea-ab8c-40945b335030",
+                        "documentType": "basic",
+                        "title": "Letter to Extend validity period of Tender -building maintenance.pdf",
+                        "description": "Letter to Extend validity period of Tender -building maintenance.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8916b144-0342-46ea-ab8c-40945b335030.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%20-building%20maintenance.pdf",
+                        "datePublished": "2024-12-20T13:48:34Z",
+                        "dateModified": "2024-12-20T13:48:34Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-31T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111327",
+            "id": "ocds-9t57fa-111327-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111327",
+                "title": "Tender Validity-MWP2370TX",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "TENDER VALIDITY -PROVISION OF SUPERVISION, LABOUR, EQUIPMENT AND MATERIAL REQUIRED FOR GENERAL BUILDING MAINTENANCE SERVICES FOR TRANSMISSION SUBSTATIONS AND COMMERCIAL BUILDINGS FOR NORTHERN GRID (NORTHWEST & LIMPOPO). FOR A PERIOD OF 36 MONTHS, FOR AS AND WHEN REQUIRED BASIS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "8443fe5c-09c5-417a-9acf-55e199ba8791",
+                        "documentType": "basic",
+                        "title": "Letter to Extend validity period of Tender -building maintenance.pdf",
+                        "description": "Letter to Extend validity period of Tender -building maintenance.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8443fe5c-09c5-417a-9acf-55e199ba8791.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%20-building%20maintenance.pdf",
+                        "datePublished": "2024-12-20T13:47:49Z",
+                        "dateModified": "2024-12-20T13:47:49Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-31T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111325",
+            "id": "ocds-9t57fa-111325-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111325",
+                "title": "EDET/QUOT 0320/2024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Design, Manufacture and Installation of Signage at Masebe Nature Reserve",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "3f07c4e0-c384-4233-bcaa-6607721a972c",
+                        "documentType": "basic",
+                        "title": "Signage Masebe12-20-2024-102000.pdf",
+                        "description": "Signage Masebe12-20-2024-102000.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=3f07c4e0-c384-4233-bcaa-6607721a972c.pdf&downloadedFileName=Signage%20Masebe12-20-2024-102000.pdf",
+                        "datePublished": "2024-12-20T12:48:32Z",
+                        "dateModified": "2024-12-20T12:48:32Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-10T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "346",
+                    "name": "Limpopo - Economic Development Environment & Tourism"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "346",
+                "name": "Limpopo - Economic Development Environment & Tourism"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111323",
+            "id": "ocds-9t57fa-111323-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111323",
+                "title": "EDET/QUOT 0364/2024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Design, Manufacture and Installation of Signage for Makgeng Mountain Trail, Fort Weeber, Dipitseng-Molepo Canyon and Thomo Heritage Park",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "a263075a-7777-4a68-9e2a-36487d82272d",
+                        "documentType": "basic",
+                        "title": "Spec Makgeng12-20-2024-101731.pdf",
+                        "description": "Spec Makgeng12-20-2024-101731.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=a263075a-7777-4a68-9e2a-36487d82272d.pdf&downloadedFileName=Spec%20Makgeng12-20-2024-101731.pdf",
+                        "datePublished": "2024-12-20T12:41:14Z",
+                        "dateModified": "2024-12-20T12:41:14Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-10T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "346",
+                    "name": "Limpopo - Economic Development Environment & Tourism"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "346",
+                "name": "Limpopo - Economic Development Environment & Tourism"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111322",
+            "id": "ocds-9t57fa-111322-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111322",
+                "title": "TPT/2024/12/0002/85594/RFQ - ICLM HQ 920/TPT",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description":"FOR THE PROVISION OF PORT OPERATING ASSET REVALUATION SERVICES FOR TRANSNET SOC LTD (REG. NO. 1990/000900/30) OPERATING AS TRANSNET PORT TERMINALS (HEREINAFTER REFERRED TO AS TPT) AT THE PORTS OF DURBAN, RICHARDS BAY, EAST LONDON, PORT ELIZABETH, NGQURA, CAPE TOWN AND SALDANHA ON A ONCE OFF BASIS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "7c738eb5-5ee9-465d-8709-03e5864eb517",
+                        "documentType": "basic",
+                        "title": "Annexure F-Non Disclosure Agreement.pdf",
+                        "description": "Annexure F-Non Disclosure Agreement.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7c738eb5-5ee9-465d-8709-03e5864eb517.pdf&downloadedFileName=Annexure%20F-Non%20Disclosure%20Agreement.pdf",
+                        "datePublished": "2024-12-20T12:20:57Z",
+                        "dateModified": "2024-12-20T12:20:57Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-08T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111320",
+            "id": "ocds-9t57fa-111320-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111320",
+                "title": "RE: ERI/2024/SS/02",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "TENDER CANCELLATION LETTTER- SUPPLY & DELIVERY OF MICROSOFT TEAMS BOARDROOM EQUIPMENT",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "eeebaaca-2145-44bd-bd60-2a0f9ba2987e",
+                        "documentType": "basic",
+                        "title": "Tender Cancellation Letter Template - MS TEAMS AP.pdf",
+                        "description": "Tender Cancellation Letter Template - MS TEAMS AP.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=eeebaaca-2145-44bd-bd60-2a0f9ba2987e.pdf&downloadedFileName=Tender%20Cancellation%20Letter%20Template%20-%20MS%20TEAMS%20AP.pdf",
+                        "datePublished": "2024-12-20T11:31:01Z",
+                        "dateModified": "2024-12-20T11:31:01Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-24T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111319",
+            "id": "ocds-9t57fa-111319-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111319",
+                "title": "T2025-05",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "SUPPLY, DELIVERY AND INSTALLATION OF (30) LIGHTNING CONDUCTORS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "d05d7295-d3e5-4eb9-8cb6-5d259e3e629b",
+                        "documentType": "basic",
+                        "title": "T2025-05 SUPPLY, DELIVERY AND INSTALLATION OF (30) LIGHTNING CONDUCTORS.pdf",
+                        "description": "T2025-05 SUPPLY, DELIVERY AND INSTALLATION OF (30) LIGHTNING CONDUCTORS.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d05d7295-d3e5-4eb9-8cb6-5d259e3e629b.pdf&downloadedFileName=T2025-05%20SUPPLY%2C%20DELIVERY%20AND%20INSTALLATION%20OF%20%2830%29%20LIGHTNING%20CONDUCTORS.pdf",
+                        "datePublished": "2024-12-20T11:13:51Z",
+                        "dateModified": "2024-12-20T11:13:51Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-31T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "697",
+                    "name": "Umzinyathi District Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "697",
+                "name": "Umzinyathi District Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111318",
+            "id": "ocds-9t57fa-111318-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111318",
+                "title": "PNRFQ2012-2024",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description":"REQUEST FOR QUOTATIONS IN RELATION TO THE PROVISION OF INTERNAL AUDIT SERVICES  CONDUCT AN EXTERNAL QUALITY ASSESSMENT ON THE DSAC INTERNAL AUDIT FUNCTION.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "f3e7b50c-d8bf-488b-8ff3-6ff4fcd4c376",
+                        "documentType": "basic",
+                        "title": "PNRFQ2012-2024.pdf",
+                        "description": "PNRFQ2012-2024.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f3e7b50c-d8bf-488b-8ff3-6ff4fcd4c376.pdf&downloadedFileName=PNRFQ2012-2024.pdf",
+                        "datePublished": "2024-12-20T11:13:21Z",
+                        "dateModified": "2024-12-20T11:13:21Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-17T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "96",
+                    "name": "Department of Sports, Arts & Culture"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "96",
+                "name": "Department of Sports, Arts & Culture"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111317",
+            "id": "ocds-9t57fa-111317-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111317",
+                "title": "T2025-06",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": " ESTABLISHMENT OF A PANEL OF SERVICE PROVIDERS FOR THE PROVISION OF FUEL & OIL AS AND WHEN REQUIRED BY THE MUNICIPALITY FOR A PERIOD OF 36 MONTHS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "1f7e467f-e636-4cae-9e73-5a6dcd8e9531",
+                        "documentType": "basic",
+                        "title": "T2025-06 ESTABLISHMENT OF A PANEL OF SERVICE PROVIDERS FOR THE PROVISION OF FUEL & OIL AS AND WHEN REQUIRED BY THE MUNICIPALITY FOR A PERIOD OF 36 MONTHS (1).pdf",
+                        "description": "T2025-06 ESTABLISHMENT OF A PANEL OF SERVICE PROVIDERS FOR THE PROVISION OF FUEL & OIL AS AND WHEN REQUIRED BY THE MUNICIPALITY FOR A PERIOD OF 36 MONTHS (1).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1f7e467f-e636-4cae-9e73-5a6dcd8e9531.pdf&downloadedFileName=T2025-06%20ESTABLISHMENT%20OF%20A%20PANEL%20OF%20SERVICE%20PROVIDERS%20FOR%20THE%20PROVISION%20OF%20FUEL%20%26%20OIL%20AS%20AND%20WHEN%20REQUIRED%20BY%20THE%20MUNICIPALITY%20FOR%20A%20PERIOD%20OF%2036%20MONTHS%20%281%29.pdf",
+                        "datePublished": "2024-12-20T11:08:03Z",
+                        "dateModified": "2024-12-20T11:08:03Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-01-31T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "697",
+                    "name": "Umzinyathi District Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "697",
+                "name": "Umzinyathi District Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111315",
+            "id": "ocds-9t57fa-111315-2024-12-20",
+            "date": "2024-12-20T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111315",
+                "title": "273/24",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "APPOINTMENT OF MEDIA PLANNING AND BUYING AGENCY MEISEA",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "5edad80f-b7cf-44d2-8cb5-37bf8a97e6b4",
+                        "documentType": "basic",
+                        "title": "PART C.pdf",
+                        "description": "PART C.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5edad80f-b7cf-44d2-8cb5-37bf8a97e6b4.pdf&downloadedFileName=PART%20C.pdf",
+                        "datePublished": "2024-12-20T08:30:02Z",
+                        "dateModified": "2024-12-20T08:30:02Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-20T00:00:00Z",
+                    "endDate": "2025-02-17T08:30:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "627",
+                    "name": "South African Tourism"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "627",
+                "name": "South African Tourism"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111316",
+            "id": "ocds-9t57fa-111316-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111316",
+                "title": "64460",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "APPOINTMENT OF A SERVICE PROVIDER TO DEVELOP MUNICIPAL SOCIO-ECONOMIC PROFILES FOR ALL MUNICIPALITIES IN SOUTH AFRICA AND COLLECT MUNICIPAL VIOLENCE INCIDENTS DATA",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "de28c6dc-9bd5-49ca-96b0-2fe363c96818",
+                        "documentType": "basic",
+                        "title": "Purchase Order #64460.pdf",
+                        "description": "Purchase Order #64460.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=de28c6dc-9bd5-49ca-96b0-2fe363c96818.pdf&downloadedFileName=Purchase%20Order%20%2364460.pdf",
+                        "datePublished": "2024-12-20T08:52:42Z",
+                        "dateModified": "2024-12-20T08:52:42Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2024-12-20T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "611",
+                    "name": "South African Local Government Association"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [
+                {
+                    "name": " (CENTRE FOR EMERGING RESEARCHERS)",
+                    "id": "40243",
+                    "identifier": {
+                        "legalName": " (CENTRE FOR EMERGING RESEARCHERS)"
+                    },
+                    "address": {
+                        "countryName": "South Africa"
+                    },
+                    "contactPoint": {
+                        "name": "Lindiwe Mhlongo",
+                        "telephone": "012-369-8000",
+                        "email": "nmsomi@salga.org.za",
+                        "faxNumber": "N/A",
+                        "url": "https://salga.org.za"
+                    },
+                    "roles": [
+                        "supplier"
+                    ]
+                }
+            ],
+            "buyer": {
+                "id": "611",
+                "name": "South African Local Government Association"
+            },
+            "language": "en-za",
+            "awards": [
+                {
+                    "id": "40243",
+                    "title": " (CENTRE FOR EMERGING RESEARCHERS)",
+                    "status": "active",
+                    "description": "EME",
+                    "value": {
+                        "amount": 9799996.00,
+                        "currency": "ZAR"
+                    },
+                    "suppliers": [
+                        {
+                            "id": "1111854",
+                            "name": " (CENTRE FOR EMERGING RESEARCHERS)"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "2869",
+                    "awardID": "40243",
+                    "title": "64460",
+                    "description": "APPOINTMENT OF A SERVICE PROVIDER TO DEVELOP MUNICIPAL SOCIO-ECONOMIC PROFILES FOR ALL MUNICIPALITIES IN SOUTH AFRICA AND COLLECT MUNICIPAL VIOLENCE INCIDENTS DATA",
+                    "status": "active",
+                    "period": {
+                        "startDate": "0001-01-01T00:00:00Z",
+                        "endDate": "0001-01-01T00:00:00Z",
+                        "maxExtentDate": "0001-01-01T00:00:00Z",
+                        "durationInDays": 0
+                    },
+                    "value": {
+                        "amount": 979999,
+                        "currency": "ZAR"
+                    },
+                    "dateSigned": "2024-12-20T13:19:40Z",
+                    "documents": [
+                        {
+                            "id": "2c36a85b-3edb-4b03-baf8-42f057e7aec4.pdf",
+                            "documentType": "pdf",
+                            "title": "PO #64460.pdf",
+                            "description": "APPOINTMENT OF A SERVICE PROVIDER TO DEVELOP MUNICIPAL SOCIO-ECONOMIC PROFILES FOR ALL MUNICIPALITIES IN SOUTH AFRICA AND COLLECT MUNICIPAL VIOLENCE INCIDENTS DATA",
+                            "datePublished": "2024-12-20T13:19:40Z",
+                            "dateModified": "0001-01-01T00:00:00Z",
+                            "format": "pdf",
+                            "language": "en"
+                        }
+                    ],
+                    "implementation": {},
+                    "relatedProcesses": [],
+                    "milestones": []
+                }
+            ]
+        },
+        {
+            "ocid": "ocds-9t57fa-111314",
+            "id": "ocds-9t57fa-111314-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111314",
+                "title": "MWP2956GX ",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "PJFFP RAW AND CLEAN GAS DAMPER ACTUATOR MOISTURE TRAPS INSTALLATION AT KUSILE POWER STATION ",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "19e72d37-fe1f-49d0-b545-0322f0474f41",
+                        "documentType": "basic",
+                        "title": "TENDER DOCUMENT BINDING.pdf",
+                        "description": "TENDER DOCUMENT BINDING.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=19e72d37-fe1f-49d0-b545-0322f0474f41.pdf&downloadedFileName=TENDER%20DOCUMENT%20BINDING.pdf",
+                        "datePublished": "2024-12-19T19:07:03Z",
+                        "dateModified": "2024-12-19T19:07:03Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-31T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111313",
+            "id": "ocds-9t57fa-111313-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111313",
+                "title": "COGHSTAB23/2024-25FY",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "PROCUREMENT OF OFFICE FURNITURE FOR 24 TRADITIONAL COUNCILS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "8571f7c9-17e6-444c-bbae-269da7dad644",
+                        "documentType": "basic",
+                        "title": "TENDER DOCUMENT FOR CoGHSTA B23  2024  25  FY.pdf",
+                        "description": "TENDER DOCUMENT FOR CoGHSTA B23  2024  25  FY.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8571f7c9-17e6-444c-bbae-269da7dad644.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%20B23%20%202024%20%2025%20%20FY.pdf",
+                        "datePublished": "2024-12-19T18:11:08Z",
+                        "dateModified": "2024-12-19T18:11:08Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-02-06T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "815",
+                    "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "815",
+                "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111312",
+            "id": "ocds-9t57fa-111312-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111312",
+                "title": "COGHSTAB20/2024-25FY",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "THE ESTABLISHMENT OF DATABASE FOR A PANEL OF SERVICE PROVIDERS (CONTRACTORS) FOR CONSTRUCTION OF LOW-COST HOUSES (BNG) FOR A PERIOD OF THREE (03) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "813a1616-6b26-41e4-81f0-c37c8ef516f9",
+                        "documentType": "basic",
+                        "title": "TENDER DOCUMENT FOR CoGHSTA 21 2024  25 FY.pdf",
+                        "description": "TENDER DOCUMENT FOR CoGHSTA 21 2024  25 FY.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=813a1616-6b26-41e4-81f0-c37c8ef516f9.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%2021%202024%20%2025%20FY.pdf",
+                        "datePublished": "2024-12-19T18:03:44Z",
+                        "dateModified": "2024-12-19T18:03:44Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-02-05T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "815",
+                    "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "815",
+                "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111311",
+            "id": "ocds-9t57fa-111311-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111311",
+                "title": "COGHSTAB19/2024-25FY",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "THE ESTABLISHMENT OF A DATABASE FOR ENGINEERING CONSULTANTS TO CONDUCT GEOTECHNICAL INVESTIGATION, DESIGN, AND INSTALL ENGINEERING SERVICES (TURNKEY CONTRACT) IN LIMPOPO PROVINCE FOR THREE (03) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "f9aca806-48ff-4c0c-b6e0-9797f0c961d8",
+                        "documentType": "basic",
+                        "title": "TENDER DOCUMENT FOR CoGHSTA B19   2024  25  FY.pdf",
+                        "description": "TENDER DOCUMENT FOR CoGHSTA B19   2024  25  FY.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f9aca806-48ff-4c0c-b6e0-9797f0c961d8.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%20B19%20%20%202024%20%2025%20%20FY.pdf",
+                        "datePublished": "2024-12-19T17:57:50Z",
+                        "dateModified": "2024-12-19T17:57:50Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-02-04T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "815",
+                    "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "815",
+                "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111310",
+            "id": "ocds-9t57fa-111310-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111310",
+                "title": "COGHSTAB18/2024-25FY",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "THE ESTABLISHMENT OF DATABASE FOR SERVICE PROVIDERS (PROFESSIONAL TOWN & REGIONAL PLANNERS AND LAND SURVEYORS) FOR TOWNSHIP ESTABLISHMENT/DERMACATION OF SITES FOR INFORMAL SETTLEMENTS UPGRADING OVER A PERIOD OF THREE YEARS (2025/26 UNTIL 2027/28 FINANCIAL YEARS)",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "2218112e-07e8-48e3-b3bd-6efbbc91a1cc",
+                        "documentType": "basic",
+                        "title": "TENDER DOCUMENT FOR CoGHSTA B18   2024  25  FY.pdf",
+                        "description": "TENDER DOCUMENT FOR CoGHSTA B18   2024  25  FY.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2218112e-07e8-48e3-b3bd-6efbbc91a1cc.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CoGHSTA%20B18%20%20%202024%20%2025%20%20FY.pdf",
+                        "datePublished": "2024-12-19T17:44:58Z",
+                        "dateModified": "2024-12-19T17:44:58Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-02-04T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "815",
+                    "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "815",
+                "name": "Limpopo - Co-operative Governance, Human Settlements and Traditional Affairs "
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111309",
+            "id": "ocds-9t57fa-111309-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111309",
+                "title": "60/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "SUPPLY AND DELIVERY OF LED LUMINAIRES FOR THE PERIOD OF THREE (3) YEARS ON AN AS AND WHEN REQUIRED BASIS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "66b3bc4b-d08f-4b01-aaec-d2ca7771d98e",
+                        "documentType": "basic",
+                        "title": "Tender 60-2024 LED LUMINAIRES.pdf",
+                        "description": "Tender 60-2024 LED LUMINAIRES.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=66b3bc4b-d08f-4b01-aaec-d2ca7771d98e.pdf&downloadedFileName=Tender%2060-2024%20LED%20LUMINAIRES.pdf",
+                        "datePublished": "2024-12-19T17:37:49Z",
+                        "dateModified": "2024-12-19T17:37:49Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-30T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111308",
+            "id": "ocds-9t57fa-111308-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111308",
+                "title": "59/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY OF SEWER TOOLS AND EQUIPMENTS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "811a3ac1-ab3f-4044-9c14-7632aec7ee25",
+                        "documentType": "basic",
+                        "title": "Tender 59-2024 SEWER TOOLS AND EQUIPMENT.pdf",
+                        "description": "Tender 59-2024 SEWER TOOLS AND EQUIPMENT.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=811a3ac1-ab3f-4044-9c14-7632aec7ee25.pdf&downloadedFileName=Tender%2059-2024%20SEWER%20TOOLS%20AND%20EQUIPMENT.pdf",
+                        "datePublished": "2024-12-19T17:36:11Z",
+                        "dateModified": "2024-12-19T17:36:11Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-29T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111307",
+            "id": "ocds-9t57fa-111307-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111307",
+                "title": "58/2024",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": " APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY OF WATER AND SEWER PIPES ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "7638dd9f-bc88-478b-a2d2-ded683ae38e5",
+                        "documentType": "basic",
+                        "title": "Tender 58-2024 WATER AND SEWER PIPES.pdf",
+                        "description": "Tender 58-2024 WATER AND SEWER PIPES.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7638dd9f-bc88-478b-a2d2-ded683ae38e5.pdf&downloadedFileName=Tender%2058-2024%20WATER%20AND%20SEWER%20PIPES.pdf",
+                        "datePublished": "2024-12-19T17:34:46Z",
+                        "dateModified": "2024-12-19T17:34:46Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-28T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111306",
+            "id": "ocds-9t57fa-111306-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111306",
+                "title": "57/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER(S) FOR SUPPLY AND DELIVERY OF WATER AND SANITATION CHEMICALS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "97b34a07-2498-49b4-a373-6dd97e119147",
+                        "documentType": "basic",
+                        "title": "Tender 57-2024 WATER AND SANITATION CHEMICALS.pdf",
+                        "description": "Tender 57-2024 WATER AND SANITATION CHEMICALS.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=97b34a07-2498-49b4-a373-6dd97e119147.pdf&downloadedFileName=Tender%2057-2024%20WATER%20AND%20SANITATION%20CHEMICALS.pdf",
+                        "datePublished": "2024-12-19T17:33:13Z",
+                        "dateModified": "2024-12-19T17:33:13Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-27T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111305",
+            "id": "ocds-9t57fa-111305-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111305",
+                "title": "56/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER(S) TO PROVIDE COMPLIANCE AND OPERATIONAL MONITORING SERVICES, WHICH WILL INCLUDE SAMPLING, TRANSPORTATION AND ANALYSIS OF SAMPLES FOR WATER AND SANITATION ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "e6bb3291-e9f6-4f46-a0d6-6a6c94cc6c6b",
+                        "documentType": "basic",
+                        "title": "Tender 56-2024 COMPLIANCE AND OPERATIONAL MONITORING SERVICES.pdf",
+                        "description": "Tender 56-2024 COMPLIANCE AND OPERATIONAL MONITORING SERVICES.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e6bb3291-e9f6-4f46-a0d6-6a6c94cc6c6b.pdf&downloadedFileName=Tender%2056-2024%20COMPLIANCE%20AND%20OPERATIONAL%20MONITORING%20SERVICES.pdf",
+                        "datePublished": "2024-12-19T17:31:13Z",
+                        "dateModified": "2024-12-19T17:31:13Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-24T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111304",
+            "id": "ocds-9t57fa-111304-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111304",
+                "title": "55/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "APPOINTMENT OF A PROFESSIONAL SERVICE PROVIDER(S) TO CONDUCT EXTERNAL LANDFILL SITE COMPLIANCE AUDITS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "1c8b344d-0ef0-4ce6-8f1c-b5082086166d",
+                        "documentType": "basic",
+                        "title": "Tender 55-2024 LANDFILL SITE COMPLIANCE AUDITS.pdf",
+                        "description": "Tender 55-2024 LANDFILL SITE COMPLIANCE AUDITS.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1c8b344d-0ef0-4ce6-8f1c-b5082086166d.pdf&downloadedFileName=Tender%2055-2024%20LANDFILL%20SITE%20COMPLIANCE%20AUDITS.pdf",
+                        "datePublished": "2024-12-19T17:29:09Z",
+                        "dateModified": "2024-12-19T17:29:09Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-23T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111303",
+            "id": "ocds-9t57fa-111303-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111303",
+                "title": "54/2024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "PROVISION OF PLANT AND EQUIPMENT SERVICE FOR THE WATER AND SANITATION MAINTENANCE ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "9ec13b79-a2ae-4929-9af1-8f2fd9612f68",
+                        "documentType": "basic",
+                        "title": "Tender 54-2024 PROVISION OF PLANT AND EQUIPMENT.pdf",
+                        "description": "Tender 54-2024 PROVISION OF PLANT AND EQUIPMENT.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=9ec13b79-a2ae-4929-9af1-8f2fd9612f68.pdf&downloadedFileName=Tender%2054-2024%20PROVISION%20OF%20PLANT%20AND%20EQUIPMENT.pdf",
+                        "datePublished": "2024-12-19T17:26:58Z",
+                        "dateModified": "2024-12-19T17:26:58Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-22T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111302",
+            "id": "ocds-9t57fa-111302-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111302",
+                "title": "53/2024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "HIRING OF WATER DELIVERY TRUCKS/TANKERS ON AN AS AND WHEN REQUIRED BASIS FOR A PERIOD OF THREE (3) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "7b8b8d8e-53ce-4b41-9516-ece134877716",
+                        "documentType": "basic",
+                        "title": "Tender 53-2024 HIRING OF WATER TANKERS.pdf",
+                        "description": "Tender 53-2024 HIRING OF WATER TANKERS.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7b8b8d8e-53ce-4b41-9516-ece134877716.pdf&downloadedFileName=Tender%2053-2024%20HIRING%20OF%20WATER%20TANKERS.pdf",
+                        "datePublished": "2024-12-19T17:24:55Z",
+                        "dateModified": "2024-12-19T17:24:55Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-21T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111301",
+            "id": "ocds-9t57fa-111301-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111301",
+                "title": "52/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "52/2024: APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE END-TO-END OPERATIONAL SUPPORT FOR REVENUE MANAGEMENT FOR A PERIOD OF THREE YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "834c6dba-dae7-4337-96a8-f8e79530d238",
+                        "documentType": "basic",
+                        "title": "Tender 52-2024 REVENUE MANAGEMENT.pdf",
+                        "description": "Tender 52-2024 REVENUE MANAGEMENT.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=834c6dba-dae7-4337-96a8-f8e79530d238.pdf&downloadedFileName=Tender%2052-2024%20REVENUE%20MANAGEMENT.pdf",
+                        "datePublished": "2024-12-19T17:19:49Z",
+                        "dateModified": "2024-12-19T17:19:49Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2024-12-19T17:22:19Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111300",
+            "id": "ocds-9t57fa-111300-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111300",
+                "title": "52/2024 LLM",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "52/2024: APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE END-TO-END OPERATIONAL SUPPORT FOR REVENUE MANAGEMENT FOR A PERIOD OF THREE YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "e3099f2b-66b2-4b91-bb49-ca74b55c8a1c",
+                        "documentType": "basic",
+                        "title": "Tender 52-2024 REVENUE MANAGEMENT.pdf",
+                        "description": "Tender 52-2024 REVENUE MANAGEMENT.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e3099f2b-66b2-4b91-bb49-ca74b55c8a1c.pdf&downloadedFileName=Tender%2052-2024%20REVENUE%20MANAGEMENT.pdf",
+                        "datePublished": "2024-12-19T17:19:40Z",
+                        "dateModified": "2024-12-19T17:19:40Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-20T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111299",
+            "id": "ocds-9t57fa-111299-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111299",
+                "title": "50/2024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "PRINTING AND MAILING OF MONTHLY MUNICIPAL ACCOUNTS FOR LESEDI LOCAL MUNICIPALITY FOR A PERIOD OF 36 MONTHS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "ca0a7a38-0277-4b97-8a75-3d742015c194",
+                        "documentType": "basic",
+                        "title": "TENDER 50_2024 PRINTING OF STATEMENTS TENDER DOCUMENT.pdf",
+                        "description": "TENDER 50_2024 PRINTING OF STATEMENTS TENDER DOCUMENT.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ca0a7a38-0277-4b97-8a75-3d742015c194.pdf&downloadedFileName=TENDER%2050_2024%20PRINTING%20OF%20STATEMENTS%20TENDER%20DOCUMENT.pdf",
+                        "datePublished": "2024-12-19T17:16:34Z",
+                        "dateModified": "2024-12-19T17:16:34Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-17T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "342",
+                    "name": "Lesedi Local Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "342",
+                "name": "Lesedi Local Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111298",
+            "id": "ocds-9t57fa-111298-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111298",
+                "title": "REGRETMWP2604TX",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "REGRET LETTER MWP2604TX",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "e4daee9d-53b4-419e-9530-5a315b924be4",
+                        "documentType": "basic",
+                        "title": "Regret Letter Template for Unsuccessful Suppliers- MWP2604TX.pdf",
+                        "description": "Regret Letter Template for Unsuccessful Suppliers- MWP2604TX.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e4daee9d-53b4-419e-9530-5a315b924be4.pdf&downloadedFileName=Regret%20Letter%20Template%20for%20Unsuccessful%20Suppliers-%20MWP2604TX.pdf",
+                        "datePublished": "2024-12-19T16:17:36Z",
+                        "dateModified": "2024-12-19T16:17:36Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2024-12-31T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111297",
+            "id": "ocds-9t57fa-111297-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111297",
+                "title": "WCKBG2534TC TP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "The refurbishment, maintenance, rewinding and testing of all LV-MV Transformers, motors, FAN assemblies and motor generators.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "299fefbe-191d-4ce7-b247-a894fe20da63",
+                        "documentType": "basic",
+                        "title": "Publication of Names of Bidders iro advertised Competitive Bids.pdf",
+                        "description": "Publication of Names of Bidders iro advertised Competitive Bids.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=299fefbe-191d-4ce7-b247-a894fe20da63.pdf&downloadedFileName=Publication%20of%20Names%20of%20Bidders%20iro%20advertised%20Competitive%20Bids.pdf",
+                        "datePublished": "2024-12-19T16:16:08Z",
+                        "dateModified": "2024-12-19T16:16:08Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2024-12-30T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111296",
+            "id": "ocds-9t57fa-111296-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111296",
+                "title": "REGRETMWP2441TX",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REGRET LETTER MWP2441TX",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "7935b8e1-68d9-4b00-8db3-76cfb623b368",
+                        "documentType": "basic",
+                        "title": "Regret Letter Template for Unsuccessful Suppliers- MWP2441TX.pdf",
+                        "description": "Regret Letter Template for Unsuccessful Suppliers- MWP2441TX.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7935b8e1-68d9-4b00-8db3-76cfb623b368.pdf&downloadedFileName=Regret%20Letter%20Template%20for%20Unsuccessful%20Suppliers-%20MWP2441TX.pdf",
+                        "datePublished": "2024-12-19T16:13:44Z",
+                        "dateModified": "2024-12-19T16:13:44Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2024-12-31T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111294",
+            "id": "ocds-9t57fa-111294-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111294",
+                "title": "JCPZ/RFP/ECD01/2024",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "Appointment of a Fundraiser for the Second African Forum on Urban Forests",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "14fd0bc6-0617-4885-8a19-4816a04dd5b8",
+                        "documentType": "basic",
+                        "title": "Tender Advert  RFP December 2024.pdf",
+                        "description": "Tender Advert  RFP December 2024.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=14fd0bc6-0617-4885-8a19-4816a04dd5b8.pdf&downloadedFileName=Tender%20Advert%20%20RFP%20December%202024.pdf",
+                        "datePublished": "2024-12-19T14:46:44Z",
+                        "dateModified": "2024-12-19T14:46:44Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-17T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "273",
+                    "name": "Johannesburg City Parks and Zoo"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "273",
+                "name": "Johannesburg City Parks and Zoo"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-111292",
+            "id": "ocds-9t57fa-111292-2024-12-19",
+            "date": "2024-12-19T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111292",
+                "title": "HM/19/12/2024/01",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Training",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "6ea055b0-b131-438a-83af-476236a23ca8",
+                        "documentType": "basic",
+                        "title": "ADDENDUM 4 - TEMPLATE - SWORN AFFIDAVIT OF BOTH EME AND QSE - - Copy.docx",
+                        "description": "ADDENDUM 4 - TEMPLATE - SWORN AFFIDAVIT OF BOTH EME AND QSE - - Copy.docx",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6ea055b0-b131-438a-83af-476236a23ca8.docx&downloadedFileName=ADDENDUM%204%20-%20TEMPLATE%20-%20SWORN%20AFFIDAVIT%20OF%20BOTH%20EME%20AND%20QSE%20-%20-%20Copy.docx",
+                        "datePublished": "2024-12-19T13:13:25Z",
+                        "dateModified": "2024-12-19T13:13:25Z",
+                        "format": "docx",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-19T00:00:00Z",
+                    "endDate": "2025-01-07T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "663",
+                    "name": "Tourism"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "663",
+                "name": "Tourism"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        }
+    ],
+    "links": {
+        "next": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=4&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+        "prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=2&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
+    }
+}

@@ -1,1 +1,1690 @@
-{"uri":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=21&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31","version":"1.1","publishedDate":"2025-01-04T10:37:00Z","publisher":{"name":"National Treasury (South Africa)","uri":"https://data.etenders.gov.za/"},"license":"https://opendatacommons.org/licenses/pddl/1-0/111","publicationPolicy":"https://data.etenders.gov.za//Home/LearnMore","releases":[{"ocid":"ocds-9t57fa-110704","id":"ocds-9t57fa-110704-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110704","title":"MSINSI/T010-2025","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"Construct and Re-gravelling Road at Inanda Dam ","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"d56da2fb-9c26-4a67-9fd5-5eae6907f65b","documentType":"basic","title":"CONSTRUCT AND RE-GRAVELLING ROAD AT INANDA DAM - MSINSI-T010-2025.pdf","description":"CONSTRUCT AND RE-GRAVELLING ROAD AT INANDA DAM - MSINSI-T010-2025.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d56da2fb-9c26-4a67-9fd5-5eae6907f65b.pdf&downloadedFileName=CONSTRUCT%20AND%20RE-GRAVELLING%20ROAD%20AT%20INANDA%20DAM%20-%20MSINSI-T010-2025.pdf","datePublished":"2024-12-12T10:37:28Z","dateModified":"2024-12-12T10:37:28Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-17T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"406","name":"Msinsi Holding (SOC)"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"406","name":"Msinsi Holding (SOC)"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110702","id":"ocds-9t57fa-110702-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110702","title":"LPMAT00110GX","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"Refurbishment and repairs of MV induction motors for the period of 5 years at Matimba power station and perform onsite fault finding as and when required.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"daac21d9-df61-4741-8c17-2316f4721366","documentType":"basic","title":"NEC3 TSC - Refurbishment and repair of MV induction Motors - New revision.pdf","description":"NEC3 TSC - Refurbishment and repair of MV induction Motors - New revision.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=daac21d9-df61-4741-8c17-2316f4721366.pdf&downloadedFileName=NEC3%20TSC%20-%20Refurbishment%20and%20repair%20of%20MV%20induction%20Motors%20-%20New%20revision.pdf","datePublished":"2024-12-11T10:18:10Z","dateModified":"2024-12-11T10:18:10Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-29T14:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110701","id":"ocds-9t57fa-110701-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110701","title":"MSINSI/T009-2025","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"Construct and Re-gravelling Road at Albert Falls Dam ","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"4db1e627-1fb6-456d-9bce-9fa1fa77a322","documentType":"basic","title":"CONSTRUCT AND RE-GRAVELLING ROAD AT ALBERT FALLS DAM - MSINSI-T009-2025 (002).pdf","description":"CONSTRUCT AND RE-GRAVELLING ROAD AT ALBERT FALLS DAM - MSINSI-T009-2025 (002).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4db1e627-1fb6-456d-9bce-9fa1fa77a322.pdf&downloadedFileName=CONSTRUCT%20AND%20RE-GRAVELLING%20ROAD%20AT%20ALBERT%20FALLS%20DAM%20-%20MSINSI-T009-2025%20%28002%29.pdf","datePublished":"2024-12-11T10:16:15Z","dateModified":"2024-12-11T10:16:15Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-17T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"406","name":"Msinsi Holding (SOC)"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"406","name":"Msinsi Holding (SOC)"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110700","id":"ocds-9t57fa-110700-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110700","title":"MSINSI/T008-2025","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"Supply and Delivery of Power Tools at Msinsi Nagle Dam ","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"f5f254bf-4e9d-4c95-a204-d6e9aa29b12d","documentType":"basic","title":"SUPPLY AND DELIVERY OF POWER TOOLS AT MSINSI NAGLE DAM - MSINSI-T008-2025 .pdf","description":"SUPPLY AND DELIVERY OF POWER TOOLS AT MSINSI NAGLE DAM - MSINSI-T008-2025 .pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f5f254bf-4e9d-4c95-a204-d6e9aa29b12d.pdf&downloadedFileName=SUPPLY%20AND%20DELIVERY%20OF%20POWER%20TOOLS%20AT%20MSINSI%20NAGLE%20DAM%20-%20MSINSI-T008-2025%20.pdf","datePublished":"2024-12-11T10:11:21Z","dateModified":"2024-12-11T10:11:21Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-15T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"406","name":"Msinsi Holding (SOC)"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"406","name":"Msinsi Holding (SOC)"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110698","id":"ocds-9t57fa-110698-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110698","title":"Frans-NonFerrous-2024","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"Request for quotation for Professional Engineering Services from an Engineering Consultant to perform mass and energy balance calculations and review of a report in support of the preparation for the operational use of an induction furnace for the volume reduction of contaminated non-ferrous scrap material.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"30752d05-62e5-42b6-9ece-a31e6b293a3e","documentType":"basic","title":"Latest ME Balance 2.pdf","description":"Latest ME Balance 2.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=30752d05-62e5-42b6-9ece-a31e6b293a3e.pdf&downloadedFileName=Latest%20ME%20Balance%202.pdf","datePublished":"2024-12-11T09:45:30Z","dateModified":"2024-12-11T09:45:30Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2024-12-12T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"620","name":"South African Nuclear Energy Corporation Limited"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"620","name":"South African Nuclear Energy Corporation Limited"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110697","id":"ocds-9t57fa-110697-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110697","title":"ECDC/ELN/RFQ/0008/122024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"PROVISION OF ECDC EMPLOYEE WELLNESS PROGRAM FOR A PERIOD OF 36 MONTHS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"e8aee17e-7659-46a4-a751-6f321e8cec47","documentType":"basic","title":"Request for Quotations.pdf","description":"Request for Quotations.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e8aee17e-7659-46a4-a751-6f321e8cec47.pdf&downloadedFileName=Request%20for%20Quotations.pdf","datePublished":"2024-12-11T09:36:52Z","dateModified":"2024-12-11T09:36:52Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-24T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"122","name":"Eastern Cape - Eastern Cape Development Corporation"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"122","name":"Eastern Cape - Eastern Cape Development Corporation"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110696","id":"ocds-9t57fa-110696-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110696","title":"HM/11/12/2024/01","status":"","mainProcurementCategory":"","additionalProcurementCategories":["consultingServices"],"description":"DESIGN, LAYOUT, EDITING OF VARIOUS COMMUNICATION PRODUCTS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"0fb309a9-d399-47f0-bc27-824e5e3be40d","documentType":"basic","title":"ADDENDUM 2  - SBD4 - STANDARD BIDDING DOCUMENT BIDDERS DISCLOSURE - SBD 4 FORM -  2023_1 - Copy.doc","description":"ADDENDUM 2  - SBD4 - STANDARD BIDDING DOCUMENT BIDDERS DISCLOSURE - SBD 4 FORM -  2023_1 - Copy.doc","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0fb309a9-d399-47f0-bc27-824e5e3be40d.doc&downloadedFileName=ADDENDUM%202%20%20-%20SBD4%20-%20STANDARD%20BIDDING%20DOCUMENT%20BIDDERS%20DISCLOSURE%20-%20SBD%204%20FORM%20-%20%202023_1%20-%20Copy.doc","datePublished":"2024-12-11T09:15:22Z","dateModified":"2024-12-11T09:15:22Z","format":"doc","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2024-12-17T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"663","name":"Tourism"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"663","name":"Tourism"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110695","id":"ocds-9t57fa-110695-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110695","title":"SBM 12/24/25","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"DISPOSAL OF ERF 11835, SALDANHA BY SALDANHA BAY MUNICIPALITY.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"01f5ec59-b018-4646-97ff-cda1f17b628c","documentType":"basic","title":"SBM 12 24 25 -Tender Document.pdf","description":"SBM 12 24 25 -Tender Document.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=01f5ec59-b018-4646-97ff-cda1f17b628c.pdf&downloadedFileName=SBM%2012%2024%2025%20-Tender%20Document.pdf","datePublished":"2024-12-11T08:53:20Z","dateModified":"2024-12-11T08:53:20Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-31T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"578","name":"SALDANHA BAY MUNICIPALITY"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"578","name":"SALDANHA BAY MUNICIPALITY"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110694","id":"ocds-9t57fa-110694-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110694","title":"SBM 21/24/25","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"THE SUPPLY AND DELIVERY OF COLD MIX ASPHALT BAGS TO SALDANHA BAY MUNICIPALITY FOR A PERIOD ENDING 30 JUNE 2027.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"25f044fb-a134-4f0f-b4d2-edc207c37701","documentType":"basic","title":"SBM 21 24 25 -Tender Document.pdf","description":"SBM 21 24 25 -Tender Document.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=25f044fb-a134-4f0f-b4d2-edc207c37701.pdf&downloadedFileName=SBM%2021%2024%2025%20-Tender%20Document.pdf","datePublished":"2024-12-11T08:50:21Z","dateModified":"2024-12-11T08:50:21Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-31T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"578","name":"SALDANHA BAY MUNICIPALITY"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"578","name":"SALDANHA BAY MUNICIPALITY"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110693","id":"ocds-9t57fa-110693-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110693","title":"SBM 32/23/24","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"SUPPLY, DELIVERY AND IMPLEMENTATION OF TRAFFIC CONTROL DEVICES (TRAFFIC SIGNALS) TO SALDANHA BAY MUNICIPALITY FOR A PERIOD ENDING 30 JUNE 2027.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"6a2d8cbf-6dd5-461e-baa9-2abeea392029","documentType":"basic","title":"SBM 32 23 24 -Tender Document.pdf","description":"SBM 32 23 24 -Tender Document.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6a2d8cbf-6dd5-461e-baa9-2abeea392029.pdf&downloadedFileName=SBM%2032%2023%2024%20-Tender%20Document.pdf","datePublished":"2024-12-11T08:47:26Z","dateModified":"2024-12-11T08:47:26Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-31T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"578","name":"SALDANHA BAY MUNICIPALITY"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"578","name":"SALDANHA BAY MUNICIPALITY"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110692","id":"ocds-9t57fa-110692-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110692","title":"SC2538/2024","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":" Additions to the Electrical Department Building for New Offices, Onrus","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"4613497d-ce02-406e-a64d-f7d97e88b8c4","documentType":"basic","title":"SC2538.2024 Advert.pdf","description":"SC2538.2024 Advert.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4613497d-ce02-406e-a64d-f7d97e88b8c4.pdf&downloadedFileName=SC2538.2024%20Advert.pdf","datePublished":"2024-12-11T08:45:46Z","dateModified":"2024-12-11T08:45:46Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-31T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"531","name":"Overstrand Municipality"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"531","name":"Overstrand Municipality"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110691","id":"ocds-9t57fa-110691-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110691","title":"CHIETA-IS-04-2024-2025","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"PROVISION OF VOIP AND INTERNET SERVICES TO THE CHIETA FOR A PERIOD OF FIVE (05) YEARS.  ","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"51174ce2-64c7-4ecf-920a-9a6160a5f07d","documentType":"basic","title":"CHIETA-IS-04-2024-2025 -VOIP & INTERNET.pdf","description":"CHIETA-IS-04-2024-2025 -VOIP & INTERNET.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=51174ce2-64c7-4ecf-920a-9a6160a5f07d.pdf&downloadedFileName=CHIETA-IS-04-2024-2025%20-VOIP%20%26%20INTERNET.pdf","datePublished":"2024-12-11T08:26:43Z","dateModified":"2024-12-11T08:26:43Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-31T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"55","name":"Chemical Industries Education and Training Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"55","name":"Chemical Industries Education and Training Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110690","id":"ocds-9t57fa-110690-2024-12-11","date":"2024-12-11T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110690","title":"RFP:EO-SAT1","status":"","mainProcurementCategory":"goods","additionalProcurementCategories":["goods"],"description":"Supply a complete solution for the EO-SAT1 Satellite and HCD Program","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"79a80496-a185-4df3-99e3-17a2672119e8","documentType":"basic","title":"RFP_EO-SAT1_1.1.pdf","description":"RFP_EO-SAT1_1.1.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=79a80496-a185-4df3-99e3-17a2672119e8.pdf&downloadedFileName=RFP_EO-SAT1_1.1.pdf","datePublished":"2024-12-18T08:32:46Z","dateModified":"2024-12-18T08:32:46Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-11T00:00:00Z","endDate":"2025-01-15T11:00:00Z"},"tenderers":[],"procuringEntity":{"id":"91","name":"DENEL (Pty) Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"91","name":"DENEL (Pty) Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110688","id":"ocds-9t57fa-110688-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110688","title":"RFQ 10409944.","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"Biological monitoring and supply of twinrix vaccines for Capacity Building Department in Zwartkopjes Site\r\n\r\n","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"470336a0-c4e9-4211-ae27-d3f6dfdb01cf","documentType":"basic","title":"Returnable Schedules......2.pdf","description":"Returnable Schedules......2.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=470336a0-c4e9-4211-ae27-d3f6dfdb01cf.pdf&downloadedFileName=Returnable%20Schedules......2.pdf","datePublished":"2024-12-10T21:44:46Z","dateModified":"2024-12-10T21:44:46Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2024-12-17T23:30:00Z"},"tenderers":[],"procuringEntity":{"id":"559","name":"Rand Water"},"procurementMethod":"open","procurementMethodDetails":"Request for Quotation"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"559","name":"Rand Water"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110687","id":"ocds-9t57fa-110687-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110687","title":"TNPA/2024/12/0042/85390/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46024 OF ERF 12355, WITH IMPROVEMENTS THEREON, IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"2726087d-a080-494a-afad-0eda874df0d0","documentType":"basic","title":"Property Request for Proposal (RFP).pdf","description":"Property Request for Proposal (RFP).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2726087d-a080-494a-afad-0eda874df0d0.pdf&downloadedFileName=Property%20Request%20for%20Proposal%20%28RFP%29.pdf","datePublished":"2024-12-10T18:57:09Z","dateModified":"2024-12-10T18:57:09Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110686","id":"ocds-9t57fa-110686-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110686","title":"TNPA/2024/12/0041/85389/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS REM OF PORTION 203 (OF 56) OF ERF 10004 DURBAN FU, AND PORTION OF PORTION 1 OF ERF 10019 DURBAN WITH IMPROVEMENTS THEREON, IN MAYDON WHARF, PORT OF DURBAN NOT EXCEEDING ONE (1) YEAR.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"645fc344-b143-4456-926b-3655a06438c0","documentType":"basic","title":"Annexure 5 -Non-Disclosure Agreement.pdf","description":"Annexure 5 -Non-Disclosure Agreement.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=645fc344-b143-4456-926b-3655a06438c0.pdf&downloadedFileName=Annexure%205%20-Non-Disclosure%20Agreement.pdf","datePublished":"2024-12-10T18:49:20Z","dateModified":"2024-12-10T18:49:20Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110685","id":"ocds-9t57fa-110685-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110685","title":"TNPA/2024/12/0040/85387/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L36091 OF PORTION 203 OF ERF 10004, WITH IMPROVEMENTS THEREON, IN MAYDON WHARF IN THE PORT OF DURBAN FOR A PERIOD OF UP TO ONE (1) YEAR","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"fdc001fc-5663-4422-a9bc-0e384558afed","documentType":"basic","title":"Property Request for Proposal (RFP).pdf","description":"Property Request for Proposal (RFP).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fdc001fc-5663-4422-a9bc-0e384558afed.pdf&downloadedFileName=Property%20Request%20for%20Proposal%20%28RFP%29.pdf","datePublished":"2024-12-10T18:40:14Z","dateModified":"2024-12-10T18:40:14Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110684","id":"ocds-9t57fa-110684-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110684","title":"TNPA/2024/12/0010/85244/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS \r\nPEH/12/2024//06 - LAND AND BUILDINGS 02EP316E-320 LOCATED ON A PORTION OF ERF 1050 HUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"fc1a0058-bb69-411f-bfdf-e040d9f7958d","documentType":"basic","title":"PEH12202406 Request For Proposal.pdf","description":"PEH12202406 Request For Proposal.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fc1a0058-bb69-411f-bfdf-e040d9f7958d.pdf&downloadedFileName=PEH12202406%20Request%20For%20Proposal.pdf","datePublished":"2024-12-10T18:34:28Z","dateModified":"2024-12-10T18:34:28Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110683","id":"ocds-9t57fa-110683-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110683","title":"TNPA/2024/12/0039/85385/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L40640 OF ERF 12355, WITH IMPROVEMENTS THEREON, IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"e8a60415-f700-4a6b-affd-0ad5ba0b16c4","documentType":"basic","title":"Annexure 6-Supplier Integrity Pact.pdf","description":"Annexure 6-Supplier Integrity Pact.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e8a60415-f700-4a6b-affd-0ad5ba0b16c4.pdf&downloadedFileName=Annexure%206-Supplier%20Integrity%20Pact.pdf","datePublished":"2024-12-10T18:32:02Z","dateModified":"2024-12-10T18:32:02Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110682","id":"ocds-9t57fa-110682-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110682","title":"TNPA/2024/12/0009/85243/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//05 - BUILDING 02BP405 LOCATED ON A PORTION OF ERF 1049 \r\nHUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"2f3f513a-b22e-4052-bc72-13a58fe7033a","documentType":"basic","title":"PEH12202405 Request For Proposal.pdf","description":"PEH12202405 Request For Proposal.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2f3f513a-b22e-4052-bc72-13a58fe7033a.pdf&downloadedFileName=PEH12202405%20Request%20For%20Proposal.pdf","datePublished":"2024-12-10T18:27:30Z","dateModified":"2024-12-10T18:27:30Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110681","id":"ocds-9t57fa-110681-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110681","title":"TNPA/2024/12/0038/85384/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46004 OF ERF 12355, DURBAN IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"59035c86-48a8-4cb8-ad68-1958005312b2","documentType":"basic","title":"Tender Advert - December 2024.pdf","description":"Tender Advert - December 2024.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=59035c86-48a8-4cb8-ad68-1958005312b2.pdf&downloadedFileName=Tender%20Advert%20-%20December%202024.pdf","datePublished":"2024-12-10T18:23:43Z","dateModified":"2024-12-10T18:23:43Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110680","id":"ocds-9t57fa-110680-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110680","title":"TNPA/2024/12/0008/85240/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//04 - BUILDING 02BP406-409 LOCATED ON PORTION OF ERF 1049 HUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"64cbe16b-5174-4db3-9085-acd398310b67","documentType":"basic","title":"PEH12202404 Request For Proposal.pdf","description":"PEH12202404 Request For Proposal.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=64cbe16b-5174-4db3-9085-acd398310b67.pdf&downloadedFileName=PEH12202404%20Request%20For%20Proposal.pdf","datePublished":"2024-12-10T18:21:25Z","dateModified":"2024-12-10T18:21:25Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110679","id":"ocds-9t57fa-110679-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110679","title":"TNPA/2024/12/0007/85238/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//03 - LAND AND BUILDING 02YP305 LOCATED ON A PORTION OF ERF 1051 IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF UP TO FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"14604e90-ea32-40d8-b9d9-11282e8c38eb","documentType":"basic","title":"PEH12202403 Request For Proposal.pdf","description":"PEH12202403 Request For Proposal.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=14604e90-ea32-40d8-b9d9-11282e8c38eb.pdf&downloadedFileName=PEH12202403%20Request%20For%20Proposal.pdf","datePublished":"2024-12-10T18:14:22Z","dateModified":"2024-12-10T18:14:22Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110678","id":"ocds-9t57fa-110678-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110678","title":"TNPA/2024/12/0037/85381/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46074 OF ERF 12355, DURBAN IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"39267735-5284-4fc4-b330-1d5edd6508e2","documentType":"basic","title":"Annexure 5 -Non-Disclosure Agreement.pdf","description":"Annexure 5 -Non-Disclosure Agreement.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=39267735-5284-4fc4-b330-1d5edd6508e2.pdf&downloadedFileName=Annexure%205%20-Non-Disclosure%20Agreement.pdf","datePublished":"2024-12-10T18:11:55Z","dateModified":"2024-12-10T18:11:55Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110677","id":"ocds-9t57fa-110677-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110677","title":"TNPA/2024/12/0006/85237/RFP1","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/09/2024//02 - LAND LOCATED ON A PORTION OF ERF 3501 NORTH END IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF UP TO TEN (10) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"c9d7b947-3414-4c63-8784-e6613fa1b6a4","documentType":"basic","title":"PEH12202402 Request For Proposal.pdf","description":"PEH12202402 Request For Proposal.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c9d7b947-3414-4c63-8784-e6613fa1b6a4.pdf&downloadedFileName=PEH12202402%20Request%20For%20Proposal.pdf","datePublished":"2024-12-10T18:08:06Z","dateModified":"2024-12-10T18:08:06Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110676","id":"ocds-9t57fa-110676-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110676","title":"TNPA/2024/12/0005/85234/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//01 - BUILDING 02EP322 LOCATED ON A PORTION OF ERF 1051 HUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF UP TO TEN (10) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"4462cc22-670b-475a-a2f8-f8c476ca2ef0","documentType":"basic","title":"PEH12202401 Request For Proposal.pdf","description":"PEH12202401 Request For Proposal.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4462cc22-670b-475a-a2f8-f8c476ca2ef0.pdf&downloadedFileName=PEH12202401%20Request%20For%20Proposal.pdf","datePublished":"2024-12-10T18:02:18Z","dateModified":"2024-12-10T18:02:18Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T12:00:00Z"},"tenderers":[],"procuringEntity":{"id":"667","name":"Transnet SOC Ltd"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"667","name":"Transnet SOC Ltd"},"language":"en-za","awards":[],"contracts":[]},{"ocid":"ocds-9t57fa-110675","id":"ocds-9t57fa-110675-2024-12-10","date":"2024-12-10T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"110675","title":"TNPA/2024/12/0036/85380/RFP","status":"","mainProcurementCategory":"services","additionalProcurementCategories":["services"],"description":"REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46073 OF ERF 12355, DURBAN, IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS.","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"4251a25e-8422-47a4-9b0f-0c06d8e8a11a","documentType":"basic","title":"Annexure 5 -Non-Disclosure Agreement.pdf","description":"Annexure 5 -Non-Disclosure Agreement.pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4251a25e-8422-47a4-9b0f-0c06d8e8a11a.pdf&downloadedFileName=Annexure%205%20-Non-Disclosure%20Agreement.pdf","datePublished":"2024-12-10T18:01:04Z","dateModified":"2024-12-10T18:01:04Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-10T00:00:00Z","endDate":"2025-02-14T15:00:00Z"},"tenderers":[],"procuringEntity":{"id":"666","name":"Transnet National Ports Authority"},"procurementMethod":"open","procurementMethodDetails":"Request for Proposal"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"666","name":"Transnet National Ports Authority"},"language":"en-za","awards":[],"contracts":[]}],"links":{"prev":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=20&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"}}
+{
+    "uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=21&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+    "version": "1.1",
+    "publishedDate": "2025-01-04T10:37:00Z",
+    "publisher": {
+        "name": "National Treasury (South Africa)",
+        "uri": "https://data.etenders.gov.za/"
+    },
+    "license": "https://opendatacommons.org/licenses/pddl/1-0/111",
+    "publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
+    "releases": [
+        {
+            "ocid": "ocds-9t57fa-110704",
+            "id": "ocds-9t57fa-110704-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110704",
+                "title": "MSINSI/T010-2025",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "Construct and Re-gravelling Road at Inanda Dam ",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "d56da2fb-9c26-4a67-9fd5-5eae6907f65b",
+                        "documentType": "basic",
+                        "title": "CONSTRUCT AND RE-GRAVELLING ROAD AT INANDA DAM - MSINSI-T010-2025.pdf",
+                        "description": "CONSTRUCT AND RE-GRAVELLING ROAD AT INANDA DAM - MSINSI-T010-2025.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d56da2fb-9c26-4a67-9fd5-5eae6907f65b.pdf&downloadedFileName=CONSTRUCT%20AND%20RE-GRAVELLING%20ROAD%20AT%20INANDA%20DAM%20-%20MSINSI-T010-2025.pdf",
+                        "datePublished": "2024-12-12T10:37:28Z",
+                        "dateModified": "2024-12-12T10:37:28Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-17T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "406",
+                    "name": "Msinsi Holding (SOC)"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "406",
+                "name": "Msinsi Holding (SOC)"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110702",
+            "id": "ocds-9t57fa-110702-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110702",
+                "title": "LPMAT00110GX",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "Refurbishment and repairs of MV induction motors for the period of 5 years at Matimba power station and perform onsite fault finding as and when required.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "daac21d9-df61-4741-8c17-2316f4721366",
+                        "documentType": "basic",
+                        "title": "NEC3 TSC - Refurbishment and repair of MV induction Motors - New revision.pdf",
+                        "description": "NEC3 TSC - Refurbishment and repair of MV induction Motors - New revision.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=daac21d9-df61-4741-8c17-2316f4721366.pdf&downloadedFileName=NEC3%20TSC%20-%20Refurbishment%20and%20repair%20of%20MV%20induction%20Motors%20-%20New%20revision.pdf",
+                        "datePublished": "2024-12-11T10:18:10Z",
+                        "dateModified": "2024-12-11T10:18:10Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-29T14:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110701",
+            "id": "ocds-9t57fa-110701-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110701",
+                "title": "MSINSI/T009-2025",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "Construct and Re-gravelling Road at Albert Falls Dam ",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "4db1e627-1fb6-456d-9bce-9fa1fa77a322",
+                        "documentType": "basic",
+                        "title": "CONSTRUCT AND RE-GRAVELLING ROAD AT ALBERT FALLS DAM - MSINSI-T009-2025 (002).pdf",
+                        "description": "CONSTRUCT AND RE-GRAVELLING ROAD AT ALBERT FALLS DAM - MSINSI-T009-2025 (002).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4db1e627-1fb6-456d-9bce-9fa1fa77a322.pdf&downloadedFileName=CONSTRUCT%20AND%20RE-GRAVELLING%20ROAD%20AT%20ALBERT%20FALLS%20DAM%20-%20MSINSI-T009-2025%20%28002%29.pdf",
+                        "datePublished": "2024-12-11T10:16:15Z",
+                        "dateModified": "2024-12-11T10:16:15Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-17T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "406",
+                    "name": "Msinsi Holding (SOC)"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "406",
+                "name": "Msinsi Holding (SOC)"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110700",
+            "id": "ocds-9t57fa-110700-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110700",
+                "title": "MSINSI/T008-2025",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "Supply and Delivery of Power Tools at Msinsi Nagle Dam ",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "f5f254bf-4e9d-4c95-a204-d6e9aa29b12d",
+                        "documentType": "basic",
+                        "title": "SUPPLY AND DELIVERY OF POWER TOOLS AT MSINSI NAGLE DAM - MSINSI-T008-2025 .pdf",
+                        "description": "SUPPLY AND DELIVERY OF POWER TOOLS AT MSINSI NAGLE DAM - MSINSI-T008-2025 .pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f5f254bf-4e9d-4c95-a204-d6e9aa29b12d.pdf&downloadedFileName=SUPPLY%20AND%20DELIVERY%20OF%20POWER%20TOOLS%20AT%20MSINSI%20NAGLE%20DAM%20-%20MSINSI-T008-2025%20.pdf",
+                        "datePublished": "2024-12-11T10:11:21Z",
+                        "dateModified": "2024-12-11T10:11:21Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-15T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "406",
+                    "name": "Msinsi Holding (SOC)"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "406",
+                "name": "Msinsi Holding (SOC)"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110698",
+            "id": "ocds-9t57fa-110698-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110698",
+                "title": "Frans-NonFerrous-2024",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "Request for quotation for Professional Engineering Services from an Engineering Consultant to perform mass and energy balance calculations and review of a report in support of the preparation for the operational use of an induction furnace for the volume reduction of contaminated non-ferrous scrap material.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "30752d05-62e5-42b6-9ece-a31e6b293a3e",
+                        "documentType": "basic",
+                        "title": "Latest ME Balance 2.pdf",
+                        "description": "Latest ME Balance 2.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=30752d05-62e5-42b6-9ece-a31e6b293a3e.pdf&downloadedFileName=Latest%20ME%20Balance%202.pdf",
+                        "datePublished": "2024-12-11T09:45:30Z",
+                        "dateModified": "2024-12-11T09:45:30Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2024-12-12T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "620",
+                    "name": "South African Nuclear Energy Corporation Limited"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "620",
+                "name": "South African Nuclear Energy Corporation Limited"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110697",
+            "id": "ocds-9t57fa-110697-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110697",
+                "title": "ECDC/ELN/RFQ/0008/122024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "PROVISION OF ECDC EMPLOYEE WELLNESS PROGRAM FOR A PERIOD OF 36 MONTHS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "e8aee17e-7659-46a4-a751-6f321e8cec47",
+                        "documentType": "basic",
+                        "title": "Request for Quotations.pdf",
+                        "description": "Request for Quotations.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e8aee17e-7659-46a4-a751-6f321e8cec47.pdf&downloadedFileName=Request%20for%20Quotations.pdf",
+                        "datePublished": "2024-12-11T09:36:52Z",
+                        "dateModified": "2024-12-11T09:36:52Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-24T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "122",
+                    "name": "Eastern Cape - Eastern Cape Development Corporation"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "122",
+                "name": "Eastern Cape - Eastern Cape Development Corporation"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110696",
+            "id": "ocds-9t57fa-110696-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110696",
+                "title": "HM/11/12/2024/01",
+                "status": "",
+                "mainProcurementCategory": "",
+                "additionalProcurementCategories": [
+                    "consultingServices"
+                ],
+                "description": "DESIGN, LAYOUT, EDITING OF VARIOUS COMMUNICATION PRODUCTS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "0fb309a9-d399-47f0-bc27-824e5e3be40d",
+                        "documentType": "basic",
+                        "title": "ADDENDUM 2  - SBD4 - STANDARD BIDDING DOCUMENT BIDDERS DISCLOSURE - SBD 4 FORM -  2023_1 - Copy.doc",
+                        "description": "ADDENDUM 2  - SBD4 - STANDARD BIDDING DOCUMENT BIDDERS DISCLOSURE - SBD 4 FORM -  2023_1 - Copy.doc",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0fb309a9-d399-47f0-bc27-824e5e3be40d.doc&downloadedFileName=ADDENDUM%202%20%20-%20SBD4%20-%20STANDARD%20BIDDING%20DOCUMENT%20BIDDERS%20DISCLOSURE%20-%20SBD%204%20FORM%20-%20%202023_1%20-%20Copy.doc",
+                        "datePublished": "2024-12-11T09:15:22Z",
+                        "dateModified": "2024-12-11T09:15:22Z",
+                        "format": "doc",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2024-12-17T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "663",
+                    "name": "Tourism"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "663",
+                "name": "Tourism"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110695",
+            "id": "ocds-9t57fa-110695-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110695",
+                "title": "SBM 12/24/25",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "DISPOSAL OF ERF 11835, SALDANHA BY SALDANHA BAY MUNICIPALITY.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "01f5ec59-b018-4646-97ff-cda1f17b628c",
+                        "documentType": "basic",
+                        "title": "SBM 12 24 25 -Tender Document.pdf",
+                        "description": "SBM 12 24 25 -Tender Document.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=01f5ec59-b018-4646-97ff-cda1f17b628c.pdf&downloadedFileName=SBM%2012%2024%2025%20-Tender%20Document.pdf",
+                        "datePublished": "2024-12-11T08:53:20Z",
+                        "dateModified": "2024-12-11T08:53:20Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-31T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "578",
+                    "name": "SALDANHA BAY MUNICIPALITY"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "578",
+                "name": "SALDANHA BAY MUNICIPALITY"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110694",
+            "id": "ocds-9t57fa-110694-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110694",
+                "title": "SBM 21/24/25",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "THE SUPPLY AND DELIVERY OF COLD MIX ASPHALT BAGS TO SALDANHA BAY MUNICIPALITY FOR A PERIOD ENDING 30 JUNE 2027.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "25f044fb-a134-4f0f-b4d2-edc207c37701",
+                        "documentType": "basic",
+                        "title": "SBM 21 24 25 -Tender Document.pdf",
+                        "description": "SBM 21 24 25 -Tender Document.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=25f044fb-a134-4f0f-b4d2-edc207c37701.pdf&downloadedFileName=SBM%2021%2024%2025%20-Tender%20Document.pdf",
+                        "datePublished": "2024-12-11T08:50:21Z",
+                        "dateModified": "2024-12-11T08:50:21Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-31T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "578",
+                    "name": "SALDANHA BAY MUNICIPALITY"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "578",
+                "name": "SALDANHA BAY MUNICIPALITY"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110693",
+            "id": "ocds-9t57fa-110693-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110693",
+                "title": "SBM 32/23/24",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "SUPPLY, DELIVERY AND IMPLEMENTATION OF TRAFFIC CONTROL DEVICES (TRAFFIC SIGNALS) TO SALDANHA BAY MUNICIPALITY FOR A PERIOD ENDING 30 JUNE 2027.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "6a2d8cbf-6dd5-461e-baa9-2abeea392029",
+                        "documentType": "basic",
+                        "title": "SBM 32 23 24 -Tender Document.pdf",
+                        "description": "SBM 32 23 24 -Tender Document.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6a2d8cbf-6dd5-461e-baa9-2abeea392029.pdf&downloadedFileName=SBM%2032%2023%2024%20-Tender%20Document.pdf",
+                        "datePublished": "2024-12-11T08:47:26Z",
+                        "dateModified": "2024-12-11T08:47:26Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-31T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "578",
+                    "name": "SALDANHA BAY MUNICIPALITY"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "578",
+                "name": "SALDANHA BAY MUNICIPALITY"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110692",
+            "id": "ocds-9t57fa-110692-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110692",
+                "title": "SC2538/2024",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": " Additions to the Electrical Department Building for New Offices, Onrus",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "4613497d-ce02-406e-a64d-f7d97e88b8c4",
+                        "documentType": "basic",
+                        "title": "SC2538.2024 Advert.pdf",
+                        "description": "SC2538.2024 Advert.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4613497d-ce02-406e-a64d-f7d97e88b8c4.pdf&downloadedFileName=SC2538.2024%20Advert.pdf",
+                        "datePublished": "2024-12-11T08:45:46Z",
+                        "dateModified": "2024-12-11T08:45:46Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-31T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "531",
+                    "name": "Overstrand Municipality"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "531",
+                "name": "Overstrand Municipality"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110691",
+            "id": "ocds-9t57fa-110691-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110691",
+                "title": "CHIETA-IS-04-2024-2025",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "PROVISION OF VOIP AND INTERNET SERVICES TO THE CHIETA FOR A PERIOD OF FIVE (05) YEARS.  ",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "51174ce2-64c7-4ecf-920a-9a6160a5f07d",
+                        "documentType": "basic",
+                        "title": "CHIETA-IS-04-2024-2025 -VOIP & INTERNET.pdf",
+                        "description": "CHIETA-IS-04-2024-2025 -VOIP & INTERNET.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=51174ce2-64c7-4ecf-920a-9a6160a5f07d.pdf&downloadedFileName=CHIETA-IS-04-2024-2025%20-VOIP%20%26%20INTERNET.pdf",
+                        "datePublished": "2024-12-11T08:26:43Z",
+                        "dateModified": "2024-12-11T08:26:43Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-31T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "55",
+                    "name": "Chemical Industries Education and Training Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "55",
+                "name": "Chemical Industries Education and Training Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110690",
+            "id": "ocds-9t57fa-110690-2024-12-11",
+            "date": "2024-12-11T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110690",
+                "title": "RFP:EO-SAT1",
+                "status": "",
+                "mainProcurementCategory": "goods",
+                "additionalProcurementCategories": [
+                    "goods"
+                ],
+                "description": "Supply a complete solution for the EO-SAT1 Satellite and HCD Program",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "79a80496-a185-4df3-99e3-17a2672119e8",
+                        "documentType": "basic",
+                        "title": "RFP_EO-SAT1_1.1.pdf",
+                        "description": "RFP_EO-SAT1_1.1.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=79a80496-a185-4df3-99e3-17a2672119e8.pdf&downloadedFileName=RFP_EO-SAT1_1.1.pdf",
+                        "datePublished": "2024-12-18T08:32:46Z",
+                        "dateModified": "2024-12-18T08:32:46Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-11T00:00:00Z",
+                    "endDate": "2025-01-15T11:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "91",
+                    "name": "DENEL (Pty) Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "91",
+                "name": "DENEL (Pty) Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110688",
+            "id": "ocds-9t57fa-110688-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110688",
+                "title": "RFQ 10409944.",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "Biological monitoring and supply of twinrix vaccines for Capacity Building Department in Zwartkopjes Site\r\n\r\n",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "470336a0-c4e9-4211-ae27-d3f6dfdb01cf",
+                        "documentType": "basic",
+                        "title": "Returnable Schedules......2.pdf",
+                        "description": "Returnable Schedules......2.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=470336a0-c4e9-4211-ae27-d3f6dfdb01cf.pdf&downloadedFileName=Returnable%20Schedules......2.pdf",
+                        "datePublished": "2024-12-10T21:44:46Z",
+                        "dateModified": "2024-12-10T21:44:46Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2024-12-17T23:30:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "559",
+                    "name": "Rand Water"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Quotation"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "559",
+                "name": "Rand Water"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110687",
+            "id": "ocds-9t57fa-110687-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110687",
+                "title": "TNPA/2024/12/0042/85390/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46024 OF ERF 12355, WITH IMPROVEMENTS THEREON, IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "2726087d-a080-494a-afad-0eda874df0d0",
+                        "documentType": "basic",
+                        "title": "Property Request for Proposal (RFP).pdf",
+                        "description": "Property Request for Proposal (RFP).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2726087d-a080-494a-afad-0eda874df0d0.pdf&downloadedFileName=Property%20Request%20for%20Proposal%20%28RFP%29.pdf",
+                        "datePublished": "2024-12-10T18:57:09Z",
+                        "dateModified": "2024-12-10T18:57:09Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110686",
+            "id": "ocds-9t57fa-110686-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110686",
+                "title": "TNPA/2024/12/0041/85389/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS REM OF PORTION 203 (OF 56) OF ERF 10004 DURBAN FU, AND PORTION OF PORTION 1 OF ERF 10019 DURBAN WITH IMPROVEMENTS THEREON, IN MAYDON WHARF, PORT OF DURBAN NOT EXCEEDING ONE (1) YEAR.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "645fc344-b143-4456-926b-3655a06438c0",
+                        "documentType": "basic",
+                        "title": "Annexure 5 -Non-Disclosure Agreement.pdf",
+                        "description": "Annexure 5 -Non-Disclosure Agreement.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=645fc344-b143-4456-926b-3655a06438c0.pdf&downloadedFileName=Annexure%205%20-Non-Disclosure%20Agreement.pdf",
+                        "datePublished": "2024-12-10T18:49:20Z",
+                        "dateModified": "2024-12-10T18:49:20Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110685",
+            "id": "ocds-9t57fa-110685-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110685",
+                "title": "TNPA/2024/12/0040/85387/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L36091 OF PORTION 203 OF ERF 10004, WITH IMPROVEMENTS THEREON, IN MAYDON WHARF IN THE PORT OF DURBAN FOR A PERIOD OF UP TO ONE (1) YEAR",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "fdc001fc-5663-4422-a9bc-0e384558afed",
+                        "documentType": "basic",
+                        "title": "Property Request for Proposal (RFP).pdf",
+                        "description": "Property Request for Proposal (RFP).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fdc001fc-5663-4422-a9bc-0e384558afed.pdf&downloadedFileName=Property%20Request%20for%20Proposal%20%28RFP%29.pdf",
+                        "datePublished": "2024-12-10T18:40:14Z",
+                        "dateModified": "2024-12-10T18:40:14Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110684",
+            "id": "ocds-9t57fa-110684-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110684",
+                "title": "TNPA/2024/12/0010/85244/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS \r\nPEH/12/2024//06 - LAND AND BUILDINGS 02EP316E-320 LOCATED ON A PORTION OF ERF 1050 HUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "fc1a0058-bb69-411f-bfdf-e040d9f7958d",
+                        "documentType": "basic",
+                        "title": "PEH12202406 Request For Proposal.pdf",
+                        "description": "PEH12202406 Request For Proposal.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fc1a0058-bb69-411f-bfdf-e040d9f7958d.pdf&downloadedFileName=PEH12202406%20Request%20For%20Proposal.pdf",
+                        "datePublished": "2024-12-10T18:34:28Z",
+                        "dateModified": "2024-12-10T18:34:28Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110683",
+            "id": "ocds-9t57fa-110683-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110683",
+                "title": "TNPA/2024/12/0039/85385/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L40640 OF ERF 12355, WITH IMPROVEMENTS THEREON, IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "e8a60415-f700-4a6b-affd-0ad5ba0b16c4",
+                        "documentType": "basic",
+                        "title": "Annexure 6-Supplier Integrity Pact.pdf",
+                        "description": "Annexure 6-Supplier Integrity Pact.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e8a60415-f700-4a6b-affd-0ad5ba0b16c4.pdf&downloadedFileName=Annexure%206-Supplier%20Integrity%20Pact.pdf",
+                        "datePublished": "2024-12-10T18:32:02Z",
+                        "dateModified": "2024-12-10T18:32:02Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110682",
+            "id": "ocds-9t57fa-110682-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110682",
+                "title": "TNPA/2024/12/0009/85243/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//05 - BUILDING 02BP405 LOCATED ON A PORTION OF ERF 1049 \r\nHUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "2f3f513a-b22e-4052-bc72-13a58fe7033a",
+                        "documentType": "basic",
+                        "title": "PEH12202405 Request For Proposal.pdf",
+                        "description": "PEH12202405 Request For Proposal.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2f3f513a-b22e-4052-bc72-13a58fe7033a.pdf&downloadedFileName=PEH12202405%20Request%20For%20Proposal.pdf",
+                        "datePublished": "2024-12-10T18:27:30Z",
+                        "dateModified": "2024-12-10T18:27:30Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110681",
+            "id": "ocds-9t57fa-110681-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110681",
+                "title": "TNPA/2024/12/0038/85384/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46004 OF ERF 12355, DURBAN IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "59035c86-48a8-4cb8-ad68-1958005312b2",
+                        "documentType": "basic",
+                        "title": "Tender Advert - December 2024.pdf",
+                        "description": "Tender Advert - December 2024.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=59035c86-48a8-4cb8-ad68-1958005312b2.pdf&downloadedFileName=Tender%20Advert%20-%20December%202024.pdf",
+                        "datePublished": "2024-12-10T18:23:43Z",
+                        "dateModified": "2024-12-10T18:23:43Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110680",
+            "id": "ocds-9t57fa-110680-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110680",
+                "title": "TNPA/2024/12/0008/85240/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//04 - BUILDING 02BP406-409 LOCATED ON PORTION OF ERF 1049 HUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "64cbe16b-5174-4db3-9085-acd398310b67",
+                        "documentType": "basic",
+                        "title": "PEH12202404 Request For Proposal.pdf",
+                        "description": "PEH12202404 Request For Proposal.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=64cbe16b-5174-4db3-9085-acd398310b67.pdf&downloadedFileName=PEH12202404%20Request%20For%20Proposal.pdf",
+                        "datePublished": "2024-12-10T18:21:25Z",
+                        "dateModified": "2024-12-10T18:21:25Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110679",
+            "id": "ocds-9t57fa-110679-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110679",
+                "title": "TNPA/2024/12/0007/85238/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//03 - LAND AND BUILDING 02YP305 LOCATED ON A PORTION OF ERF 1051 IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF UP TO FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "14604e90-ea32-40d8-b9d9-11282e8c38eb",
+                        "documentType": "basic",
+                        "title": "PEH12202403 Request For Proposal.pdf",
+                        "description": "PEH12202403 Request For Proposal.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=14604e90-ea32-40d8-b9d9-11282e8c38eb.pdf&downloadedFileName=PEH12202403%20Request%20For%20Proposal.pdf",
+                        "datePublished": "2024-12-10T18:14:22Z",
+                        "dateModified": "2024-12-10T18:14:22Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110678",
+            "id": "ocds-9t57fa-110678-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110678",
+                "title": "TNPA/2024/12/0037/85381/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46074 OF ERF 12355, DURBAN IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "39267735-5284-4fc4-b330-1d5edd6508e2",
+                        "documentType": "basic",
+                        "title": "Annexure 5 -Non-Disclosure Agreement.pdf",
+                        "description": "Annexure 5 -Non-Disclosure Agreement.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=39267735-5284-4fc4-b330-1d5edd6508e2.pdf&downloadedFileName=Annexure%205%20-Non-Disclosure%20Agreement.pdf",
+                        "datePublished": "2024-12-10T18:11:55Z",
+                        "dateModified": "2024-12-10T18:11:55Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110677",
+            "id": "ocds-9t57fa-110677-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110677",
+                "title": "TNPA/2024/12/0006/85237/RFP1",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/09/2024//02 - LAND LOCATED ON A PORTION OF ERF 3501 NORTH END IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF UP TO TEN (10) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "c9d7b947-3414-4c63-8784-e6613fa1b6a4",
+                        "documentType": "basic",
+                        "title": "PEH12202402 Request For Proposal.pdf",
+                        "description": "PEH12202402 Request For Proposal.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c9d7b947-3414-4c63-8784-e6613fa1b6a4.pdf&downloadedFileName=PEH12202402%20Request%20For%20Proposal.pdf",
+                        "datePublished": "2024-12-10T18:08:06Z",
+                        "dateModified": "2024-12-10T18:08:06Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110676",
+            "id": "ocds-9t57fa-110676-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110676",
+                "title": "TNPA/2024/12/0005/85234/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED AS PEH/12/2024//01 - BUILDING 02EP322 LOCATED ON A PORTION OF ERF 1051 HUMEWOOD IN THE PORT OF PORT ELIZABETH FOR A PERIOD OF UP TO TEN (10) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "4462cc22-670b-475a-a2f8-f8c476ca2ef0",
+                        "documentType": "basic",
+                        "title": "PEH12202401 Request For Proposal.pdf",
+                        "description": "PEH12202401 Request For Proposal.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4462cc22-670b-475a-a2f8-f8c476ca2ef0.pdf&downloadedFileName=PEH12202401%20Request%20For%20Proposal.pdf",
+                        "datePublished": "2024-12-10T18:02:18Z",
+                        "dateModified": "2024-12-10T18:02:18Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T12:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "667",
+                    "name": "Transnet SOC Ltd"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "667",
+                "name": "Transnet SOC Ltd"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        },
+        {
+            "ocid": "ocds-9t57fa-110675",
+            "id": "ocds-9t57fa-110675-2024-12-10",
+            "date": "2024-12-10T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "110675",
+                "title": "TNPA/2024/12/0036/85380/RFP",
+                "status": "",
+                "mainProcurementCategory": "services",
+                "additionalProcurementCategories": [
+                    "services"
+                ],
+                "description": "REQUEST FOR PROPOSAL FOR THE LEASING OF PREMISES DESCRIBED LEASE L46073 OF ERF 12355, DURBAN, IN BAYHEAD IN THE PORT OF DURBAN FOR A PERIOD OF UP TO FIVE (5) YEARS.",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "4251a25e-8422-47a4-9b0f-0c06d8e8a11a",
+                        "documentType": "basic",
+                        "title": "Annexure 5 -Non-Disclosure Agreement.pdf",
+                        "description": "Annexure 5 -Non-Disclosure Agreement.pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4251a25e-8422-47a4-9b0f-0c06d8e8a11a.pdf&downloadedFileName=Annexure%205%20-Non-Disclosure%20Agreement.pdf",
+                        "datePublished": "2024-12-10T18:01:04Z",
+                        "dateModified": "2024-12-10T18:01:04Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-10T00:00:00Z",
+                    "endDate": "2025-02-14T15:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "666",
+                    "name": "Transnet National Ports Authority"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Proposal"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "666",
+                "name": "Transnet National Ports Authority"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        }
+    ],
+    "links": {
+        "prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=20&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
+    }
+}

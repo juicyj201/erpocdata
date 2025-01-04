@@ -1,1 +1,79 @@
-{"uri":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=8&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31","version":"1.1","publishedDate":"2025-01-04T10:35:24Z","publisher":{"name":"National Treasury (South Africa)","uri":"https://data.etenders.gov.za/"},"license":"https://opendatacommons.org/licenses/pddl/1-0/111","publicationPolicy":"https://data.etenders.gov.za//Home/LearnMore","releases":[{"ocid":"ocds-9t57fa-111128","id":"ocds-9t57fa-111128-2024-12-13","date":"2024-12-13T00:00:00Z","tag":["compiled"],"initiationType":"tender","tender":{"id":"111128","title":"Tender number \tMWP2959PS","status":"","mainProcurementCategory":"works","additionalProcurementCategories":["works"],"description":"ASH DISPOSAL FACILITY VOLUME INCREASE CIVIL WORKS AT TUTUKA POWER STATION ","value":{"amount":0,"currency":"ZAR"},"documents":[{"id":"6f8bafee-1c77-4f24-810b-4231cbf5a11f","documentType":"basic","title":"0.61-96770-16 (REV-01) - REHAB WATER CHANNEL No.2 - LONG SECTION (2 OF 2).pdf","description":"0.61-96770-16 (REV-01) - REHAB WATER CHANNEL No.2 - LONG SECTION (2 OF 2).pdf","url":"https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6f8bafee-1c77-4f24-810b-4231cbf5a11f.pdf&downloadedFileName=0.61-96770-16%20%28REV-01%29%20-%20REHAB%20WATER%20CHANNEL%20No.2%20-%20LONG%20SECTION%20%282%20OF%202%29.pdf","datePublished":"2024-12-13T18:14:38Z","dateModified":"2024-12-13T18:14:38Z","format":"pdf","language":"en"}],"tenderPeriod":{"startDate":"2024-12-13T00:00:00Z","endDate":"2025-02-24T10:00:00Z"},"tenderers":[],"procuringEntity":{"id":"167","name":"ESKOM"},"procurementMethod":"open","procurementMethodDetails":"Request for Bid(Open-Tender)"},"planning":{"rationale":"","budget":{"description":" - "},"documents":[]},"parties":[],"buyer":{"id":"167","name":"ESKOM"},"language":"en-za","awards":[],"contracts":[]}],"links":{"next":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=9&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31","prev":"https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=7&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"}}
+{
+    "uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=8&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+    "version": "1.1",
+    "publishedDate": "2025-01-04T10:35:24Z",
+    "publisher": {
+        "name": "National Treasury (South Africa)",
+        "uri": "https://data.etenders.gov.za/"
+    },
+    "license": "https://opendatacommons.org/licenses/pddl/1-0/111",
+    "publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
+    "releases": [
+        {
+            "ocid": "ocds-9t57fa-111128",
+            "id": "ocds-9t57fa-111128-2024-12-13",
+            "date": "2024-12-13T00:00:00Z",
+            "tag": [
+                "compiled"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "111128",
+                "title": "Tender number \tMWP2959PS",
+                "status": "",
+                "mainProcurementCategory": "works",
+                "additionalProcurementCategories": [
+                    "works"
+                ],
+                "description": "ASH DISPOSAL FACILITY VOLUME INCREASE CIVIL WORKS AT TUTUKA POWER STATION ",
+                "value": {
+                    "amount": 0,
+                    "currency": "ZAR"
+                },
+                "documents": [
+                    {
+                        "id": "6f8bafee-1c77-4f24-810b-4231cbf5a11f",
+                        "documentType": "basic",
+                        "title": "0.61-96770-16 (REV-01) - REHAB WATER CHANNEL No.2 - LONG SECTION (2 OF 2).pdf",
+                        "description": "0.61-96770-16 (REV-01) - REHAB WATER CHANNEL No.2 - LONG SECTION (2 OF 2).pdf",
+                        "url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6f8bafee-1c77-4f24-810b-4231cbf5a11f.pdf&downloadedFileName=0.61-96770-16%20%28REV-01%29%20-%20REHAB%20WATER%20CHANNEL%20No.2%20-%20LONG%20SECTION%20%282%20OF%202%29.pdf",
+                        "datePublished": "2024-12-13T18:14:38Z",
+                        "dateModified": "2024-12-13T18:14:38Z",
+                        "format": "pdf",
+                        "language": "en"
+                    }
+                ],
+                "tenderPeriod": {
+                    "startDate": "2024-12-13T00:00:00Z",
+                    "endDate": "2025-02-24T10:00:00Z"
+                },
+                "tenderers": [],
+                "procuringEntity": {
+                    "id": "167",
+                    "name": "ESKOM"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Request for Bid(Open-Tender)"
+            },
+            "planning": {
+                "rationale": "",
+                "budget": {
+                    "description": " - "
+                },
+                "documents": []
+            },
+            "parties": [],
+            "buyer": {
+                "id": "167",
+                "name": "ESKOM"
+            },
+            "language": "en-za",
+            "awards": [],
+            "contracts": []
+        }
+    ],
+    "links": {
+        "next": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=9&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+        "prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=7&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
+    }
+}

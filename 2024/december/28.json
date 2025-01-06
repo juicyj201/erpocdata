@@ -1,7 +1,7 @@
 {
-	"uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=27&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
+	"uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=28&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
 	"version": "1.1",
-	"publishedDate": "2025-01-04T10:37:44Z",
+	"publishedDate": "2025-01-04T10:37:53Z",
 	"publisher": {
 		"name": "National Treasury (South Africa)",
 		"uri": "https://data.etenders.gov.za/"
@@ -10,109 +10,47 @@
 	"publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
 	"releases": [
 		{
-			"ocid": "ocds-9t57fa-110481",
-			"id": "ocds-9t57fa-110481-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
+			"ocid": "ocds-9t57fa-110600",
+			"id": "ocds-9t57fa-110600-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
 			"tag": [
 				"compiled"
 			],
 			"initiationType": "tender",
 			"tender": {
-				"id": "110481",
-				"title": "IHLM/64/2024-25/MM's",
+				"id": "110600",
+				"title": "NRA 2024/1332",
 				"status": "",
-				"mainProcurementCategory": "services",
+				"mainProcurementCategory": "works",
 				"additionalProcurementCategories": [
-					"services"
+					"works"
 				],
-				"description": "CATERING SERVICES FOR 500 PEOPLE",
+				"description": "UPGRADE OF GRAVEL ROADS P133, P143 AND D182 IN LIDGETTON",
 				"value": {
 					"amount": 0,
 					"currency": "ZAR"
 				},
 				"documents": [
 					{
-						"id": "ad6ff115-8d18-4662-95dd-08f1092d8d72",
+						"id": "5da3e6fd-50ba-4400-94e4-a686ba43a008",
 						"documentType": "basic",
-						"title": "TENDER DOCUMENT FOR CATERING SERVICES FOR 500 PEOPLE.pdf",
-						"description": "TENDER DOCUMENT FOR CATERING SERVICES FOR 500 PEOPLE.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ad6ff115-8d18-4662-95dd-08f1092d8d72.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20CATERING%20SERVICES%20FOR%20500%20PEOPLE.pdf",
-						"datePublished": "2024-12-09T08:53:49Z",
-						"dateModified": "2024-12-09T08:53:49Z",
+						"title": "NRA 2024-1332 Volume 3 Book 3 Construction Tender.pdf",
+						"description": "NRA 2024-1332 Volume 3 Book 3 Construction Tender.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5da3e6fd-50ba-4400-94e4-a686ba43a008.pdf&downloadedFileName=NRA%202024-1332%20Volume%203%20Book%203%20Construction%20Tender.pdf",
+						"datePublished": "2024-12-10T10:53:30Z",
+						"dateModified": "2024-12-10T10:53:30Z",
 						"format": "pdf",
 						"language": "en"
 					}
 				],
 				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2024-12-12T12:00:00Z"
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-03T12:00:00Z"
 				},
 				"tenderers": [],
 				"procuringEntity": {
-					"id": "257",
-					"name": "Ingquza Hill Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Proposal"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "257",
-				"name": "Ingquza Hill Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110480",
-			"id": "ocds-9t57fa-110480-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110480",
-				"title": "30731-6W",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Hiring of parkhomes, storage containers and \r\nablution facilities for Cleansing and Solid \r\nWaste over a period of 36 months",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "35cf3eed-eb11-49f2-b98e-937a9048592d",
-						"documentType": "basic",
-						"title": "30731-6W Tender Document.pdf",
-						"description": "30731-6W Tender Document.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=35cf3eed-eb11-49f2-b98e-937a9048592d.pdf&downloadedFileName=30731-6W%20Tender%20Document.pdf",
-						"datePublished": "2024-12-09T08:48:32Z",
-						"dateModified": "2024-12-09T08:48:32Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2025-02-07T11:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "169",
-					"name": "Ethekwini Metropolitan Municipality"
+					"id": "618",
+					"name": "South African National Roads Agency Soc Limited (SANRAL)"
 				},
 				"procurementMethod": "open",
 				"procurementMethodDetails": "Request for Bid(Open-Tender)"
@@ -126,1352 +64,50 @@
 			},
 			"parties": [],
 			"buyer": {
-				"id": "169",
-				"name": "Ethekwini Metropolitan Municipality"
+				"id": "618",
+				"name": "South African National Roads Agency Soc Limited (SANRAL)"
 			},
 			"language": "en-za",
 			"awards": [],
 			"contracts": []
 		},
 		{
-			"ocid": "ocds-9t57fa-110479",
-			"id": "ocds-9t57fa-110479-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
+			"ocid": "ocds-9t57fa-110460",
+			"id": "ocds-9t57fa-110460-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
 			"tag": [
 				"compiled"
 			],
 			"initiationType": "tender",
 			"tender": {
-				"id": "110479",
-				"title": "IHLM/63/2024-25/MM's",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "PROVISION OF TRANSPORT 65-SEATER BUSES FOR 2000 PEOPLE",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "6b6c3855-f873-42fa-997c-d5d3c69a953a",
-						"documentType": "basic",
-						"title": "TENDER DOCUMENT FOR PROVISION OF TRANSPORT 65-SEATER BUSES FOR 2000 PEOPLE.pdf",
-						"description": "TENDER DOCUMENT FOR PROVISION OF TRANSPORT 65-SEATER BUSES FOR 2000 PEOPLE.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=6b6c3855-f873-42fa-997c-d5d3c69a953a.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20PROVISION%20OF%20TRANSPORT%2065-SEATER%20BUSES%20FOR%202000%20PEOPLE.pdf",
-						"datePublished": "2024-12-09T08:47:52Z",
-						"dateModified": "2024-12-09T08:47:52Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2024-12-12T12:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "257",
-					"name": "Ingquza Hill Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "257",
-				"name": "Ingquza Hill Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110478",
-			"id": "ocds-9t57fa-110478-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110478",
-				"title": "RFQ-003-2024-049",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Supply of Microbiological testing  (food pathogens)",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "4ab0bb47-459b-4c63-a92d-50bfdf94122d",
-						"documentType": "basic",
-						"title": "annexure A microbiological testing.pdf",
-						"description": "annexure A microbiological testing.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4ab0bb47-459b-4c63-a92d-50bfdf94122d.pdf&downloadedFileName=annexure%20A%20microbiological%20testing.pdf",
-						"datePublished": "2024-12-09T08:43:10Z",
-						"dateModified": "2024-12-09T08:43:10Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2024-12-13T16:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "598",
-					"name": "South African Airways (Pty) Limited"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "598",
-				"name": "South African Airways (Pty) Limited"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110477",
-			"id": "ocds-9t57fa-110477-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110477",
-				"title": "30603-5W",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Supply, delivery and off-loading of various \r\nvalves for a period of 36 months\r\n",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "ccc53da3-9307-45ed-95de-4b90a3e3c3b4",
-						"documentType": "basic",
-						"title": "30603-5W OHS.pdf",
-						"description": "30603-5W OHS.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ccc53da3-9307-45ed-95de-4b90a3e3c3b4.pdf&downloadedFileName=30603-5W%20OHS.pdf",
-						"datePublished": "2024-12-09T08:40:14Z",
-						"dateModified": "2024-12-09T08:40:14Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2025-02-07T11:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "169",
-					"name": "Ethekwini Metropolitan Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "169",
-				"name": "Ethekwini Metropolitan Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110476",
-			"id": "ocds-9t57fa-110476-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110476",
-				"title": "RFQ-003-2024-41",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Request for the supply, repair and maintenance of water heating exchange to Air Chefs for a period of twenty-four months (24)",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "122a381b-aa17-4f7e-b86a-0a839ef46cef",
-						"documentType": "basic",
-						"title": "RFQ 003-2024-041-Supply of Water heating to Air Chefs plants.docx",
-						"description": "RFQ 003-2024-041-Supply of Water heating to Air Chefs plants.docx",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=122a381b-aa17-4f7e-b86a-0a839ef46cef.docx&downloadedFileName=RFQ%20003-2024-041-Supply%20of%20Water%20heating%20to%20Air%20Chefs%20plants.docx",
-						"datePublished": "2024-12-09T09:25:37Z",
-						"dateModified": "2024-12-09T09:25:37Z",
-						"format": "docx",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2024-12-13T16:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "598",
-					"name": "South African Airways (Pty) Limited"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "598",
-				"name": "South African Airways (Pty) Limited"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110392",
-			"id": "ocds-9t57fa-110392-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110392",
-				"title": "MPCAM11427GX",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "THE PROVISION OF PHYSICAL AND ARMED SECURITY SERVICES FOR A PERIOD OF 60 MONTHS AT CAMDEN POWER STATION.",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "bf13c6c6-9fc5-4e7b-8bcf-042fab18d4c3",
-						"documentType": "basic",
-						"title": "004 4830 Safety Health and Environmental Specification Rev 06.pdf",
-						"description": "004 4830 Safety Health and Environmental Specification Rev 06.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=bf13c6c6-9fc5-4e7b-8bcf-042fab18d4c3.pdf&downloadedFileName=004%204830%20Safety%20Health%20and%20Environmental%20Specification%20Rev%2006.pdf",
-						"datePublished": "2024-12-06T10:25:14Z",
-						"dateModified": "2024-12-06T10:25:14Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2025-02-24T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "167",
-					"name": "ESKOM"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Proposal"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "167",
-				"name": "ESKOM"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110342",
-			"id": "ocds-9t57fa-110342-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110342",
-				"title": "RFQ: 003-2024-045",
-				"status": "",
-				"mainProcurementCategory": "goods",
-				"additionalProcurementCategories": [
-					"goods"
-				],
-				"description": "Supply of electrical maintenance & projects",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "8092a95e-2a12-485d-9440-149ccd392cab",
-						"documentType": "basic",
-						"title": "RFQ 003-2024-045 re-issue  electrical maintenance & projects (002).docx",
-						"description": "RFQ 003-2024-045 re-issue  electrical maintenance & projects (002).docx",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=8092a95e-2a12-485d-9440-149ccd392cab.docx&downloadedFileName=RFQ%20003-2024-045%20re-issue%20%20electrical%20maintenance%20%26%20projects%20%28002%29.docx",
-						"datePublished": "2024-12-05T16:04:34Z",
-						"dateModified": "2024-12-05T16:04:34Z",
-						"format": "docx",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2024-12-13T16:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "598",
-					"name": "South African Airways (Pty) Limited"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "598",
-				"name": "South African Airways (Pty) Limited"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-109893",
-			"id": "ocds-9t57fa-109893-2024-12-09",
-			"date": "2024-12-09T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "109893",
-				"title": "BID NO:021-2024/2025",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					""
-				],
-				"description": "APPOINTMENT OF A PANEL OF LEGAL SERVICE PROVIDERS",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "f85d5514-a250-4819-ac0a-069e61e6591e",
-						"documentType": "basic",
-						"title": "BID NO-021-24-25- PANEL OF LEGAL SERVICES- 09 December 2024.pdf",
-						"description": "BID NO-021-24-25- PANEL OF LEGAL SERVICES- 09 December 2024.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f85d5514-a250-4819-ac0a-069e61e6591e.pdf&downloadedFileName=BID%20NO-021-24-25-%20PANEL%20OF%20LEGAL%20SERVICES-%2009%20December%202024.pdf",
-						"datePublished": "2024-12-09T14:22:29Z",
-						"dateModified": "2024-12-09T14:22:29Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-09T00:00:00Z",
-					"endDate": "2025-01-24T11:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "77",
-					"name": "Construction Education and Training Authority"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "77",
-				"name": "Construction Education and Training Authority"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110475",
-			"id": "ocds-9t57fa-110475-2024-12-08",
-			"date": "2024-12-08T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110475",
-				"title": "F(SCM) 14/11/2425",
+				"id": "110460",
+				"title": "ALMT21/2024",
 				"status": "",
 				"mainProcurementCategory": "",
 				"additionalProcurementCategories": [
 					"consultingServices"
 				],
-				"description": "Appointment of a Panel of service providers for the placement of adverts in the local and nationally circulating newspapers for the Merafong City Local Municipality on an as and when required basis for a period of three years",
+				"description": "Provision of traffic law enforcement equipment, back office systems and related services for Chief Albert Luthuli Municipality for 36 months.",
 				"value": {
 					"amount": 0,
 					"currency": "ZAR"
 				},
 				"documents": [
 					{
-						"id": "e53c5ad7-65ac-45a7-b51e-222d7b867a5b",
+						"id": "481b8d1c-127f-49d8-820a-119c12b97eeb",
 						"documentType": "basic",
-						"title": "Bid Document - Placement of adverts in the newspapers media.pdf",
-						"description": "Bid Document - Placement of adverts in the newspapers media.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e53c5ad7-65ac-45a7-b51e-222d7b867a5b.pdf&downloadedFileName=Bid%20Document%20-%20Placement%20of%20adverts%20in%20the%20newspapers%20media.pdf",
-						"datePublished": "2024-12-17T13:21:27Z",
-						"dateModified": "2024-12-17T13:21:27Z",
+						"title": "ALMT21-2024 TENDER DOCUMENT.pdf",
+						"description": "ALMT21-2024 TENDER DOCUMENT.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=481b8d1c-127f-49d8-820a-119c12b97eeb.pdf&downloadedFileName=ALMT21-2024%20TENDER%20DOCUMENT.pdf",
+						"datePublished": "2025-01-03T07:48:32Z",
+						"dateModified": "2025-01-03T07:48:32Z",
 						"format": "pdf",
 						"language": "en"
 					}
 				],
 				"tenderPeriod": {
-					"startDate": "2024-12-08T00:00:00Z",
-					"endDate": "2025-01-21T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "394",
-					"name": "Merafong Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "394",
-				"name": "Merafong Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110474",
-			"id": "ocds-9t57fa-110474-2024-12-08",
-			"date": "2024-12-08T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110474",
-				"title": "ID(WWTW) 13/11/2425",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "Appointment of a panel of service providers for the provision of bio-monitoring services of streams for WWTW for a period of three years",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "1c992a99-2b3f-4354-8c00-9abd0e6ef8c5",
-						"documentType": "basic",
-						"title": "Bid notice December 2024.pdf",
-						"description": "Bid notice December 2024.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1c992a99-2b3f-4354-8c00-9abd0e6ef8c5.pdf&downloadedFileName=Bid%20notice%20December%202024.pdf",
-						"datePublished": "2024-12-08T22:54:19Z",
-						"dateModified": "2024-12-08T22:54:19Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-08T00:00:00Z",
-					"endDate": "2025-01-21T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "394",
-					"name": "Merafong Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "394",
-				"name": "Merafong Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110473",
-			"id": "ocds-9t57fa-110473-2024-12-08",
-			"date": "2024-12-08T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110473",
-				"title": "ID(WWTW) 12/11/2425",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "Appointment of a Panel of accredited laboratories for the analysis of water and sludge samples for a period of three years.",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "fb4efce6-9b1c-4d60-9566-5e74d96a7d16",
-						"documentType": "basic",
-						"title": "Merafong Banking Details - Nedbank.pdf",
-						"description": "Merafong Banking Details - Nedbank.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=fb4efce6-9b1c-4d60-9566-5e74d96a7d16.pdf&downloadedFileName=Merafong%20Banking%20Details%20-%20Nedbank.pdf",
-						"datePublished": "2024-12-17T09:28:29Z",
-						"dateModified": "2024-12-17T09:28:29Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-08T00:00:00Z",
-					"endDate": "2025-01-21T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "394",
-					"name": "Merafong Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "394",
-				"name": "Merafong Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110472",
-			"id": "ocds-9t57fa-110472-2024-12-08",
-			"date": "2024-12-08T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110472",
-				"title": "CSS(ICT) 11/11/2425",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Appointment of service provider to upgrade the conference system at the new council chamber of the Merafong city local municipality.",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "2f6ea658-01d9-48d9-aa09-35ded986bfe3",
-						"documentType": "basic",
-						"title": "Bid notice December 2024.pdf",
-						"description": "Bid notice December 2024.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2f6ea658-01d9-48d9-aa09-35ded986bfe3.pdf&downloadedFileName=Bid%20notice%20December%202024.pdf",
-						"datePublished": "2024-12-08T22:48:10Z",
-						"dateModified": "2024-12-08T22:48:10Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-08T00:00:00Z",
-					"endDate": "2025-01-21T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "394",
-					"name": "Merafong Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "394",
-				"name": "Merafong Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110471",
-			"id": "ocds-9t57fa-110471-2024-12-08",
-			"date": "2024-12-08T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110471",
-				"title": "CSS(ICT) 10/11/2425",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Appointment of service provider for the provision of the disaster recovery plan and back-up for the Merafong city local municipality for a period of three years.",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "d3297da7-4a42-49ac-bb84-0759f9e5e041",
-						"documentType": "basic",
-						"title": "Bid Document - Disaster recovery plan and backup Merafong City LM.pdf",
-						"description": "Bid Document - Disaster recovery plan and backup Merafong City LM.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d3297da7-4a42-49ac-bb84-0759f9e5e041.pdf&downloadedFileName=Bid%20Document%20-%20Disaster%20recovery%20plan%20and%20backup%20Merafong%20City%20LM.pdf",
-						"datePublished": "2024-12-17T13:19:04Z",
-						"dateModified": "2024-12-17T13:19:04Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-08T00:00:00Z",
-					"endDate": "2025-01-21T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "394",
-					"name": "Merafong Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "394",
-				"name": "Merafong Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110470",
-			"id": "ocds-9t57fa-110470-2024-12-08",
-			"date": "2024-12-08T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110470",
-				"title": "PS(S&T) 09/11/2425",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Appointment of a service provider for the Establishment and operation of control room CCTV and alarm system for the Merafong City Local Municipality for a period of three years",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "7e8b18f4-9933-4ca9-acf8-14d9bad2ee3a",
-						"documentType": "basic",
-						"title": "Bid Document - CCTV Cameras -Merafong City LM PS S&T 09 11 2425.pdf",
-						"description": "Bid Document - CCTV Cameras -Merafong City LM PS S&T 09 11 2425.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=7e8b18f4-9933-4ca9-acf8-14d9bad2ee3a.pdf&downloadedFileName=Bid%20Document%20-%20CCTV%20Cameras%20-Merafong%20City%20LM%20PS%20S%26T%2009%2011%202425.pdf",
-						"datePublished": "2024-12-12T14:32:14Z",
-						"dateModified": "2024-12-12T14:32:14Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-08T00:00:00Z",
-					"endDate": "2025-01-21T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "394",
-					"name": "Merafong Local Municipality"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "394",
-				"name": "Merafong Local Municipality"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110469",
-			"id": "ocds-9t57fa-110469-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110469",
-				"title": "NCCETC - RFQ 019 - 2024 Summary - AFS and Audit ",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "NCCETC - RFQ 019 - 2024 Summary - AFS and Audit support - terms of reference",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "bce410ef-c4c8-4661-b879-4daf8e0c2e5f",
-						"documentType": "basic",
-						"title": "NCCETC - RFQ 019 - 2024 Summary - AFS and Audit support - terms of reference.pdf",
-						"description": "NCCETC - RFQ 019 - 2024 Summary - AFS and Audit support - terms of reference.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=bce410ef-c4c8-4661-b879-4daf8e0c2e5f.pdf&downloadedFileName=NCCETC%20-%20RFQ%20019%20-%202024%20Summary%20-%20AFS%20and%20Audit%20support%20-%20terms%20of%20reference.pdf",
-						"datePublished": "2024-12-07T17:07:32Z",
-						"dateModified": "2024-12-07T17:07:32Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2024-12-12T13:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "816",
-					"name": "Northern Cape - Community Education and Training College"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "816",
-				"name": "Northern Cape - Community Education and Training College"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110468",
-			"id": "ocds-9t57fa-110468-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110468",
-				"title": "LDPWRI-R/20462",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "TERMS OF REFERENCE FOR THE APPOINTMENT OF PROFESSIONAL CONSULTANTS TO DEVELOP A LEVEL 1 INTEGRATED DISASTER MANAGEMENT PLAN FOR ROADS INFRASTRUCTURE ACROSS FIVE DISTRICTS IN LIMPOPO PROVINCE",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "689bdd15-e75e-4d2d-ac61-360b1b67a8b1",
-						"documentType": "basic",
-						"title": "LDPWRI-ROADS20642.pdf",
-						"description": "LDPWRI-ROADS20642.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=689bdd15-e75e-4d2d-ac61-360b1b67a8b1.pdf&downloadedFileName=LDPWRI-ROADS20642.pdf",
-						"datePublished": "2024-12-07T15:10:27Z",
-						"dateModified": "2024-12-07T15:10:27Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2025-01-20T11:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "357",
-					"name": "Limpopo - Public Works"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "357",
-				"name": "Limpopo - Public Works"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110467",
-			"id": "ocds-9t57fa-110467-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110467",
-				"title": "SCMU4-24/25-0010",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "APPOINTMENT OF SERVICE PROVIDER TO MANUFACTURE AND/OR ASSEMBLE BOARDROOM FURNITURE WITH DIGITAL VIDEO CONFERENCE BOARDROOM SYSTEM (TO SUPPLY, DELIVER AND INSTALL)",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "15824929-fbf1-4ebe-a59a-e82b71f3f91c",
-						"documentType": "basic",
-						"title": "SCMU4-24 25-0010 BID DOCUMENT.pdf",
-						"description": "SCMU4-24 25-0010 BID DOCUMENT.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=15824929-fbf1-4ebe-a59a-e82b71f3f91c.pdf&downloadedFileName=SCMU4-24%2025-0010%20BID%20DOCUMENT.pdf",
-						"datePublished": "2024-12-07T13:23:04Z",
-						"dateModified": "2024-12-07T13:23:04Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2025-01-20T11:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "139",
-					"name": "Eastern Cape - Social Development"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Bid(Open-Tender)"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "139",
-				"name": "Eastern Cape - Social Development"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110466",
-			"id": "ocds-9t57fa-110466-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110466",
-				"title": "Addendum to Q 44 EDTEA 24/25",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT FIRE FIGHTING & EVACUATION MARSHAL TRAINING FOR FIRE MARSHALS IN THE DEPARTMENT OF ECONOMIC DEVELOPMENT, TOURISM AND ENVIRONMENTAL AFFAIRS",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "833f608c-8bd8-4ee4-9f35-af2b007f596c",
-						"documentType": "basic",
-						"title": "Q 44 EDTEA 24-25 DOCUMENT v2.pdf",
-						"description": "Q 44 EDTEA 24-25 DOCUMENT v2.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=833f608c-8bd8-4ee4-9f35-af2b007f596c.pdf&downloadedFileName=Q%2044%20EDTEA%2024-25%20DOCUMENT%20v2.pdf",
-						"datePublished": "2024-12-07T06:56:32Z",
-						"dateModified": "2024-12-07T06:56:32Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2024-12-12T15:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "308",
-					"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "308",
-				"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110465",
-			"id": "ocds-9t57fa-110465-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110465",
-				"title": "Addendum to Q 43 EDTEA 24/25",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT FIRST AID LEVEL 1 TRAINING FOR HEALTH AND SAFETY REPRESENTATIVES / FIRST AIDERS IN THE DEPARTMENT OF ECONOMIC DEVELOPMENT, TOURISM AND ENVIRONMENTAL AFFAIRS",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "e755bc43-34d7-4718-84b4-be42c450b1be",
-						"documentType": "basic",
-						"title": "Q 43 EDTEA 24-25 DOCUMENT v2.pdf",
-						"description": "Q 43 EDTEA 24-25 DOCUMENT v2.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e755bc43-34d7-4718-84b4-be42c450b1be.pdf&downloadedFileName=Q%2043%20EDTEA%2024-25%20DOCUMENT%20v2.pdf",
-						"datePublished": "2024-12-07T06:53:34Z",
-						"dateModified": "2024-12-07T06:53:34Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2024-12-12T15:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "308",
-					"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "308",
-				"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110464",
-			"id": "ocds-9t57fa-110464-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110464",
-				"title": "Addendum to Q 42 EDTEA 24/25",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT SAFETY HEALTH ENVIRONMENT RISK AND QUALITY (SHERQ) TRAINING FOR SAFETY HEALTH ENVIRONMENT (SHE) REPRESENTATIVES (REPS) IN THE DEPARTMENT OF ECONOMIC DEVELOPMENT, TOURISM AND ENVIRONMENTAL AFFAIRS",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "397c4c65-8ca1-45f9-9ae7-f9c60bf9c2ca",
-						"documentType": "basic",
-						"title": "Q 42 EDTEA 24-25 DOCUMENT v2.pdf",
-						"description": "Q 42 EDTEA 24-25 DOCUMENT v2.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=397c4c65-8ca1-45f9-9ae7-f9c60bf9c2ca.pdf&downloadedFileName=Q%2042%20EDTEA%2024-25%20DOCUMENT%20v2.pdf",
-						"datePublished": "2024-12-07T06:50:06Z",
-						"dateModified": "2024-12-07T06:50:06Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2024-12-12T15:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "308",
-					"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "308",
-				"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110463",
-			"id": "ocds-9t57fa-110463-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110463",
-				"title": "Addendum to Q 41 EDTEA 24/25",
-				"status": "",
-				"mainProcurementCategory": "",
-				"additionalProcurementCategories": [
-					"consultingServices"
-				],
-				"description": "APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT INCIDENT / ACCIDENT INVESTIGATION TRAINING FOR SAFETY HEALTH ENVIRONMENT (SHE) REPRESENTATIVES (REPS) IN THE DEPARTMENT OF ECONOMIC DEVELOPMENT, TOURISM AND ENVIRONMENTAL AFFAIRS",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "1b222b27-0e0c-4b14-9367-90bc81625b89",
-						"documentType": "basic",
-						"title": "Q 41 EDTEA 24-25 DOCUMENT v2.pdf",
-						"description": "Q 41 EDTEA 24-25 DOCUMENT v2.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1b222b27-0e0c-4b14-9367-90bc81625b89.pdf&downloadedFileName=Q%2041%20EDTEA%2024-25%20DOCUMENT%20v2.pdf",
-						"datePublished": "2024-12-07T06:43:55Z",
-						"dateModified": "2024-12-07T06:43:55Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2024-12-12T15:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "308",
-					"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Quotation"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "308",
-				"name": "Kwazulu Natal - Economic Development, Tourism and Environ Affairs"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110462",
-			"id": "ocds-9t57fa-110462-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110462",
-				"title": "OLT2125671",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Purchase, collect and remove redundant furniture and equipment at GCD Medupi  Facilities  ",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "3cd3c94e-8e94-4487-9f66-1c2608444e3c",
-						"documentType": "basic",
-						"title": "Eskom_Standard_Conditions_of_Tender_-_January_2023 (2).pdf",
-						"description": "Eskom_Standard_Conditions_of_Tender_-_January_2023 (2).pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=3cd3c94e-8e94-4487-9f66-1c2608444e3c.pdf&downloadedFileName=Eskom_Standard_Conditions_of_Tender_-_January_2023%20%282%29.pdf",
-						"datePublished": "2024-12-07T06:05:29Z",
-						"dateModified": "2024-12-07T06:05:29Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2024-12-13T10:00:00Z"
-				},
-				"tenderers": [],
-				"procuringEntity": {
-					"id": "167",
-					"name": "ESKOM"
-				},
-				"procurementMethod": "open",
-				"procurementMethodDetails": "Request for Proposal"
-			},
-			"planning": {
-				"rationale": "",
-				"budget": {
-					"description": " - "
-				},
-				"documents": []
-			},
-			"parties": [],
-			"buyer": {
-				"id": "167",
-				"name": "ESKOM"
-			},
-			"language": "en-za",
-			"awards": [],
-			"contracts": []
-		},
-		{
-			"ocid": "ocds-9t57fa-110461",
-			"id": "ocds-9t57fa-110461-2024-12-07",
-			"date": "2024-12-07T00:00:00Z",
-			"tag": [
-				"compiled"
-			],
-			"initiationType": "tender",
-			"tender": {
-				"id": "110461",
-				"title": "ALMT22/2024",
-				"status": "",
-				"mainProcurementCategory": "services",
-				"additionalProcurementCategories": [
-					"services"
-				],
-				"description": "Appointment of a service provider to provide auction services for a period of 36 months.",
-				"value": {
-					"amount": 0,
-					"currency": "ZAR"
-				},
-				"documents": [
-					{
-						"id": "d4ed744c-835e-483e-8068-03125dfd4a0b",
-						"documentType": "basic",
-						"title": "ALMT22-2024 TENDER DOCUMENT.pdf",
-						"description": "ALMT22-2024 TENDER DOCUMENT.pdf",
-						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d4ed744c-835e-483e-8068-03125dfd4a0b.pdf&downloadedFileName=ALMT22-2024%20TENDER%20DOCUMENT.pdf",
-						"datePublished": "2024-12-27T00:35:09Z",
-						"dateModified": "2024-12-27T00:35:09Z",
-						"format": "pdf",
-						"language": "en"
-					}
-				],
-				"tenderPeriod": {
-					"startDate": "2024-12-07T00:00:00Z",
-					"endDate": "2025-01-10T12:00:00Z"
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-17T12:00:00Z"
 				},
 				"tenderers": [],
 				"procuringEntity": {
@@ -1496,9 +132,2179 @@
 			"language": "en-za",
 			"awards": [],
 			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110459",
+			"id": "ocds-9t57fa-110459-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110459",
+				"title": "WRSCM-2024/2025-0011",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "APPOINTMENT OF A PROPERTY OWNER/MANDATED PROPERTY MANAGEMENT COMPANY TO PROVIDE LEASED OFFICE SPACE TO HOUSE THE W&RSETA WESTERN CAPE PROVINCIAL OFFICE.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "a4ab4831-47b9-4868-b4d5-514d84893b1b",
+						"documentType": "basic",
+						"title": "WC Office Space_Terms of Reference.pdf",
+						"description": "WC Office Space_Terms of Reference.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=a4ab4831-47b9-4868-b4d5-514d84893b1b.pdf&downloadedFileName=WC%20Office%20Space_Terms%20of%20Reference.pdf",
+						"datePublished": "2024-12-06T20:04:15Z",
+						"dateModified": "2024-12-06T20:04:15Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-24T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "734",
+					"name": "Wholesale and Retail Sector Education and Training Authority"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "734",
+				"name": "Wholesale and Retail Sector Education and Training Authority"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110458",
+			"id": "ocds-9t57fa-110458-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110458",
+				"title": "NRA 2024/1326 ",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "FOR THE PERIODIC MAINTENANCE ON NATIONAL ROUTE 10 SECTION 9 FROM NAUGA (KM 36.00) TO MARYDALE (KM 72.94) & NATIONAL ROUTE 10 SECTION 10 FROM MARYDALE (KM 0.00) TO KEUKENDRAAI (KM 50.30)",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "e2bbb44b-f8d9-4c0e-9a4a-7b31158b5b91",
+						"documentType": "basic",
+						"title": "Tender Document (2).zip",
+						"description": "Tender Document (2).zip",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e2bbb44b-f8d9-4c0e-9a4a-7b31158b5b91.zip&downloadedFileName=Tender%20Document%20%282%29.zip",
+						"datePublished": "2024-12-06T19:54:37Z",
+						"dateModified": "2024-12-06T19:54:37Z",
+						"format": "zip",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "618",
+					"name": "South African National Roads Agency Soc Limited (SANRAL)"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "618",
+				"name": "South African National Roads Agency Soc Limited (SANRAL)"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110457",
+			"id": "ocds-9t57fa-110457-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110457",
+				"title": "RFQJW0018TR24 (Re-advert)",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "RFQJW0018TR24-Rodding and Unblocking",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "656bd180-2aeb-487b-97e1-37c767ba3248",
+						"documentType": "basic",
+						"title": "RFQJW0018TR24-Rodding and Unblocking (Re-advert).pdf",
+						"description": "RFQJW0018TR24-Rodding and Unblocking (Re-advert).pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=656bd180-2aeb-487b-97e1-37c767ba3248.pdf&downloadedFileName=RFQJW0018TR24-Rodding%20and%20Unblocking%20%28Re-advert%29.pdf",
+						"datePublished": "2024-12-06T19:47:02Z",
+						"dateModified": "2024-12-06T19:47:02Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2024-12-13T16:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "279",
+					"name": "Johannesburg Water"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "279",
+				"name": "Johannesburg Water"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110456",
+			"id": "ocds-9t57fa-110456-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110456",
+				"title": "DWS20 1224 WTE",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "PONGOLA RIVER GWS: PONGOLAPOORT DAM: CONSTRUCTION AND MAINTENANCE WORK TO BE DONE AT PONGOLAPOORT DAM BUILDINGS AND COMPONENTS. CIDB CONTRACTOR GRADING DESIGNATION OF CIDB 3GB OR 3CE OR HIGHER",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "3503e04c-2009-4a93-b073-153eb78e2378",
+						"documentType": "basic",
+						"title": "Advert for bid DWS20 1224WTE.pdf",
+						"description": "Advert for bid DWS20 1224WTE.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=3503e04c-2009-4a93-b073-153eb78e2378.pdf&downloadedFileName=Advert%20for%20bid%20DWS20%201224WTE.pdf",
+						"datePublished": "2024-12-06T17:57:44Z",
+						"dateModified": "2024-12-06T17:57:44Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-04T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "712",
+					"name": "Water and Sanitation"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "712",
+				"name": "Water and Sanitation"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110455",
+			"id": "ocds-9t57fa-110455-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110455",
+				"title": "KZNGFA - RFP - 2024-12",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "REISSUE OF APPOINTMENT OF SERVICE PROVIDER FOR FICA TRAINING",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "0c55a400-c28a-4e4a-bfd2-850a9a237faf",
+						"documentType": "basic",
+						"title": "Request for Quotation Reissue FICA Training.pdf",
+						"description": "Request for Quotation Reissue FICA Training.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0c55a400-c28a-4e4a-bfd2-850a9a237faf.pdf&downloadedFileName=Request%20for%20Quotation%20Reissue%20FICA%20Training.pdf",
+						"datePublished": "2024-12-06T17:54:46Z",
+						"dateModified": "2024-12-06T17:54:46Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-14T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "331",
+					"name": "KZN Growth Fund Trust"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "331",
+				"name": "KZN Growth Fund Trust"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110454",
+			"id": "ocds-9t57fa-110454-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110454",
+				"title": "MWP2917CX",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Provision of Audit Findings Assessment and Associated Advisory Consulting Services at Eskom Holdings SOC Limited.MWP2917CX",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "91549c7a-4cc3-4eaa-bc19-07beea3bc27b",
+						"documentType": "basic",
+						"title": "Annexure L2_SDLI Strategy Doc_ THE BIDDERS TEMPLATE _Provision of Audit Findings Assessment_MWP2917CX.pdf",
+						"description": "Annexure L2_SDLI Strategy Doc_ THE BIDDERS TEMPLATE _Provision of Audit Findings Assessment_MWP2917CX.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=91549c7a-4cc3-4eaa-bc19-07beea3bc27b.pdf&downloadedFileName=Annexure%20L2_SDLI%20Strategy%20Doc_%20THE%20BIDDERS%20TEMPLATE%20_Provision%20of%20Audit%20Findings%20Assessment_MWP2917CX.pdf",
+						"datePublished": "2024-12-06T16:43:23Z",
+						"dateModified": "2024-12-06T16:43:23Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-23T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110453",
+			"id": "ocds-9t57fa-110453-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110453",
+				"title": "WCDX1237SR",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "THE SUPPLY AND STAGGERED DELIVERY OF MINI SUBSTATIONS AND\r\nTRANSFORMERS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "4f6f6be9-9586-4aef-adfb-99b971e77a3a",
+						"documentType": "basic",
+						"title": "Invitation to Tender (ITT) Mini-Subs and Transformers.pdf",
+						"description": "Invitation to Tender (ITT) Mini-Subs and Transformers.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4f6f6be9-9586-4aef-adfb-99b971e77a3a.pdf&downloadedFileName=Invitation%20to%20Tender%20%28ITT%29%20Mini-Subs%20and%20Transformers.pdf",
+						"datePublished": "2024-12-06T16:42:29Z",
+						"dateModified": "2024-12-06T16:42:29Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-28T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110452",
+			"id": "ocds-9t57fa-110452-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110452",
+				"title": "30842-1R",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Hammarsdale pedestrian structures \r\n(Portion of MR 385)",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "2e5c5313-cf2f-483d-9064-472cd2fec47d",
+						"documentType": "basic",
+						"title": "HPD - GA_Bridge Over Rail_REv V1A-Substructure.pdf",
+						"description": "HPD - GA_Bridge Over Rail_REv V1A-Substructure.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2e5c5313-cf2f-483d-9064-472cd2fec47d.pdf&downloadedFileName=HPD%20-%20GA_Bridge%20Over%20Rail_REv%20V1A-Substructure.pdf",
+						"datePublished": "2024-12-06T16:00:27Z",
+						"dateModified": "2024-12-06T16:00:27Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110451",
+			"id": "ocds-9t57fa-110451-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110451",
+				"title": "FSCA2024/25-T007",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "PANEL OF FIRMS: LEGAL SERVICES",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "a695a251-ab5c-4b68-924b-fbfdd1168989",
+						"documentType": "basic",
+						"title": "TOR FSCA202425-T007 PANEL OF FIRMS-LEGAL SERVICES [PUBLISHED].pdf",
+						"description": "TOR FSCA202425-T007 PANEL OF FIRMS-LEGAL SERVICES [PUBLISHED].pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=a695a251-ab5c-4b68-924b-fbfdd1168989.pdf&downloadedFileName=TOR%20FSCA202425-T007%20PANEL%20OF%20FIRMS-LEGAL%20SERVICES%20%5BPUBLISHED%5D.pdf",
+						"datePublished": "2024-12-06T16:21:12Z",
+						"dateModified": "2024-12-06T16:21:12Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-30T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "177",
+					"name": "FINANCIAL SECTOR CONDUCT AUTHORITY (FSCA)"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "177",
+				"name": "FINANCIAL SECTOR CONDUCT AUTHORITY (FSCA)"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110450",
+			"id": "ocds-9t57fa-110450-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110450",
+				"title": "30734-1H",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Construction of 65 top structure units at \r\nBarton Place Housing Project, within Ward \r\n25\r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "27cf55c2-2c52-4ac6-b6c6-108e0166e6fa",
+						"documentType": "basic",
+						"title": "30734-1H Tender Document.pdf",
+						"description": "30734-1H Tender Document.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=27cf55c2-2c52-4ac6-b6c6-108e0166e6fa.pdf&downloadedFileName=30734-1H%20Tender%20Document.pdf",
+						"datePublished": "2024-12-06T15:55:24Z",
+						"dateModified": "2024-12-06T15:55:24Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110449",
+			"id": "ocds-9t57fa-110449-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110449",
+				"title": "RFB 3047/2024",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Provisioning Of A Countrywide Physical Audit, Verification And Valuation On All Wide Area Network (Wan), Local Area Network (Lan) And Environmental Equipment For Saps Within A Period Of Eight (8) Months",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "989dfed6-c183-4b24-b5a4-55ee6feb3eb3",
+						"documentType": "basic",
+						"title": "RFB 3047-2024 Pricing Schedule (signed).xlsx",
+						"description": "RFB 3047-2024 Pricing Schedule (signed).xlsx",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=989dfed6-c183-4b24-b5a4-55ee6feb3eb3.xlsx&downloadedFileName=RFB%203047-2024%20Pricing%20Schedule%20%28signed%29.xlsx",
+						"datePublished": "2024-12-06T15:51:30Z",
+						"dateModified": "2024-12-06T15:51:30Z",
+						"format": "xlsx",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-21T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "632",
+					"name": "State Information Technology Agency"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "632",
+				"name": "State Information Technology Agency"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110448",
+			"id": "ocds-9t57fa-110448-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110448",
+				"title": "30649-5E",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Maintenance of High and Medium Voltage \r\nunderground power cables and associated \r\nequipment during a 36-month period",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "c255451f-a434-407c-84ad-9b8edeb5e357",
+						"documentType": "basic",
+						"title": "30649-5E - Tender Document .pdf",
+						"description": "30649-5E - Tender Document .pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c255451f-a434-407c-84ad-9b8edeb5e357.pdf&downloadedFileName=30649-5E%20-%20Tender%20Document%20.pdf",
+						"datePublished": "2024-12-06T15:50:28Z",
+						"dateModified": "2024-12-06T15:50:28Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110447",
+			"id": "ocds-9t57fa-110447-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110447",
+				"title": "30554-5W",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "Gwala Farm, Tongaat: Construction of Trunk \r\nSewer Phase 1 (Ward 61)",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "d26bfeb6-3997-4a6d-bada-1b3021e444ba",
+						"documentType": "basic",
+						"title": "60550-5 Sewer Layout Plan & Longitudinal Section - Manhole GF60 to GF72. Rev A.pdf",
+						"description": "60550-5 Sewer Layout Plan & Longitudinal Section - Manhole GF60 to GF72. Rev A.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d26bfeb6-3997-4a6d-bada-1b3021e444ba.pdf&downloadedFileName=60550-5%20Sewer%20Layout%20Plan%20%26%20Longitudinal%20Section%20-%20Manhole%20GF60%20to%20GF72.%20Rev%20A.pdf",
+						"datePublished": "2024-12-09T09:52:00Z",
+						"dateModified": "2024-12-09T09:52:00Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110446",
+			"id": "ocds-9t57fa-110446-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110446",
+				"title": "30499-1R",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Gravel to asphalt upgrade of Machwane \r\nMzimela and 108706 Streets, Inanda, Ward \r\n57\r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "1c000782-0f94-45f6-9997-671868256e0e",
+						"documentType": "basic",
+						"title": "30499-1R - BOQ.xls",
+						"description": "30499-1R - BOQ.xls",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1c000782-0f94-45f6-9997-671868256e0e.xls&downloadedFileName=30499-1R%20-%20BOQ.xls",
+						"datePublished": "2024-12-06T15:39:46Z",
+						"dateModified": "2024-12-06T15:39:46Z",
+						"format": "xls",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-24T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110445",
+			"id": "ocds-9t57fa-110445-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110445",
+				"title": "H002L2512RFQ00187",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "CATERING SERVICES AT BEITBRIDGE PORT OF ENTRY",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "4269e61a-f0cb-45e9-8429-b256384bdf86",
+						"documentType": "basic",
+						"title": "RFQ-H002L2512RFQ00187-CATERING.pdf",
+						"description": "RFQ-H002L2512RFQ00187-CATERING.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4269e61a-f0cb-45e9-8429-b256384bdf86.pdf&downloadedFileName=RFQ-H002L2512RFQ00187-CATERING.pdf",
+						"datePublished": "2024-12-06T15:35:24Z",
+						"dateModified": "2024-12-06T15:35:24Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2024-12-10T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "842",
+					"name": "Border Management Authority"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "842",
+				"name": "Border Management Authority"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110444",
+			"id": "ocds-9t57fa-110444-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110444",
+				"title": "30493-1R",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Gravel to asphalt upgrade of 108807 Street, \r\nInanda, Ward 56\r\n",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "31106b40-0985-4fba-82e1-4ab7c22fb0ba",
+						"documentType": "basic",
+						"title": "BOQ Section Summary.pdf",
+						"description": "BOQ Section Summary.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=31106b40-0985-4fba-82e1-4ab7c22fb0ba.pdf&downloadedFileName=BOQ%20Section%20Summary.pdf",
+						"datePublished": "2024-12-12T09:17:22Z",
+						"dateModified": "2024-12-12T09:17:22Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-24T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110443",
+			"id": "ocds-9t57fa-110443-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110443",
+				"title": "SCMU3-24/25-0515-HO",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Supply and delivery of nurse uniform in the Eastern Cape Department of Health Offices and Institutions for a period of 36 months",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "462a9ea1-4e2b-47b0-9841-87e3c9c4bfc4",
+						"documentType": "basic",
+						"title": "SCMU3-2425-0515-HO Nuses Uniform Final Document.pdf",
+						"description": "SCMU3-2425-0515-HO Nuses Uniform Final Document.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=462a9ea1-4e2b-47b0-9841-87e3c9c4bfc4.pdf&downloadedFileName=SCMU3-2425-0515-HO%20Nuses%20Uniform%20Final%20Document.pdf",
+						"datePublished": "2024-12-20T15:40:22Z",
+						"dateModified": "2024-12-20T15:40:22Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-31T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "129",
+					"name": "Eastern Cape - Health"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "Supply and delivery of Hospital and Clinic Ward, Dorm, Theater, Kitchen and other linen. Doctors and Nurses theater clothing, patients clothing and protective clothing in ECDOH for a period of 36 months",
+				"budget": {
+					"description": "Programme 2 - Supply and delivery of Hospital and Clinic Ward, Dorm, Theater, Kitchen and other linen. Doctors and Nurses theater clothing, patients clothing and protective clothing in ECDOH for a period of 36 months"
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "129",
+				"name": "Eastern Cape - Health"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110442",
+			"id": "ocds-9t57fa-110442-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110442",
+				"title": "29595-5M",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Service, maintenance, repairs of diesel\r\ngenerators for the Stadia and Facilities Unit \r\nfor a period of 36 months",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "4c395193-8974-4654-be60-3c01c2b622c3",
+						"documentType": "basic",
+						"title": "29595-5M - Tender Document .pdf",
+						"description": "29595-5M - Tender Document .pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4c395193-8974-4654-be60-3c01c2b622c3.pdf&downloadedFileName=29595-5M%20-%20Tender%20Document%20.pdf",
+						"datePublished": "2024-12-06T15:28:55Z",
+						"dateModified": "2024-12-06T15:28:55Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110441",
+			"id": "ocds-9t57fa-110441-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110441",
+				"title": "29540-5M ",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Service, maintenance and repair of lifts and \r\ngoods hoist for the Stadia and Facilities Unit\r\nfor a period of 36 months ",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "5f759300-e539-4d0b-a8f3-22582cf8c3df",
+						"documentType": "basic",
+						"title": "29540-5M  Tender Document .pdf",
+						"description": "29540-5M  Tender Document .pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5f759300-e539-4d0b-a8f3-22582cf8c3df.pdf&downloadedFileName=29540-5M%20%20Tender%20Document%20.pdf",
+						"datePublished": "2024-12-06T15:23:55Z",
+						"dateModified": "2024-12-06T15:23:55Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "169",
+					"name": "Ethekwini Metropolitan Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "169",
+				"name": "Ethekwini Metropolitan Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110440",
+			"id": "ocds-9t57fa-110440-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110440",
+				"title": "SCMU3-24/25-0362-FRE",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Invitation to bid for supply of Doctors' accommodation rental as and when needed for a period of 36 months.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "f7423c11-397c-4c54-82f8-2b72bfd6d5c7",
+						"documentType": "basic",
+						"title": "SCMU3-2425-0362-FRE_Drs_Accommodation.pdf",
+						"description": "SCMU3-2425-0362-FRE_Drs_Accommodation.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=f7423c11-397c-4c54-82f8-2b72bfd6d5c7.pdf&downloadedFileName=SCMU3-2425-0362-FRE_Drs_Accommodation.pdf",
+						"datePublished": "2024-12-19T10:14:31Z",
+						"dateModified": "2024-12-19T10:14:31Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-31T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "129",
+					"name": "Eastern Cape - Health"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "Appointment of service providers for the provision of  Accommodation at Buffalo City Metro District Facilities, in the Eastern Cape Department of Health for a period of 36 months",
+				"budget": {
+					"description": "Programme 2 - Appointment of service providers for the provision of  Accommodation at Buffalo City Metro District Facilities, in the Eastern Cape Department of Health for a period of 36 months"
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "129",
+				"name": "Eastern Cape - Health"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110439",
+			"id": "ocds-9t57fa-110439-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110439",
+				"title": "TNPA/2024/12/0007/85116/RFP",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "INTENTION TO EXTEND THE LEASE AND TERMINAL OPERATOR LICENSE AGREEMENTS IN RESPECT OF PROPERTIES OWNED BY TRANSNET NATIONAL PORTS AUTHORITY IN THE PORT OF DURBAN LEASED TO SOUTH AFRICAN BULK TERMINALS (PTY) LTD (SABT).",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "1c1289e9-c051-457c-b135-61e2e0dc809c",
+						"documentType": "basic",
+						"title": "Notice and Comment advert SABT ISLAND VIEW_V1.pdf",
+						"description": "Notice and Comment advert SABT ISLAND VIEW_V1.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1c1289e9-c051-457c-b135-61e2e0dc809c.pdf&downloadedFileName=Notice%20and%20Comment%20advert%20SABT%20ISLAND%20VIEW_V1.pdf",
+						"datePublished": "2024-12-06T15:01:10Z",
+						"dateModified": "2024-12-06T15:01:10Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-17T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "666",
+					"name": "Transnet National Ports Authority"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Proposal"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "666",
+				"name": "Transnet National Ports Authority"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110438",
+			"id": "ocds-9t57fa-110438-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110438",
+				"title": "TPT/2024/12/0029/85115/RFQ",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "FOR THE PROVISION OF: ON-SITE MEDICAL EMERGENCY SERVICES AT \r\nTRANSNET PORT TERMINALS (TPT), RICHARDS BAY TERMINAL \r\nFOR A PERIOD OF FOUR (4) MONTHS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "300b6480-619f-4755-9f6b-9be7d1214bbc",
+						"documentType": "basic",
+						"title": "Advert 11373685.pdf",
+						"description": "Advert 11373685.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=300b6480-619f-4755-9f6b-9be7d1214bbc.pdf&downloadedFileName=Advert%2011373685.pdf",
+						"datePublished": "2024-12-06T15:00:35Z",
+						"dateModified": "2024-12-06T15:00:35Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2024-12-12T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "667",
+					"name": "Transnet SOC Ltd"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "667",
+				"name": "Transnet SOC Ltd"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110437",
+			"id": "ocds-9t57fa-110437-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110437",
+				"title": "EDET 305/2024",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "APPOINTMENT FOR PHYSICAL SECURITY SERVICES AT VARIOUS SITES (CLUSTER 4, 8, 9 AND 10) OF THE LIMPOPO ECONOMIC DEVELOPMENT ENVIRONMENT AND TOURISM FOR A PERIOD OF THIRTY-SIX (36) MONTHS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "e1515462-69d2-4013-8b8e-b597a46555e6",
+						"documentType": "basic",
+						"title": "Bid Document EDET 305-2024.pdf",
+						"description": "Bid Document EDET 305-2024.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=e1515462-69d2-4013-8b8e-b597a46555e6.pdf&downloadedFileName=Bid%20Document%20EDET%20305-2024.pdf",
+						"datePublished": "2024-12-06T14:56:38Z",
+						"dateModified": "2024-12-06T14:56:38Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-11T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "346",
+					"name": "Limpopo - Economic Development Environment & Tourism"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "Provision of  security services at LEDET's various sites for a period of 3 years",
+				"budget": {
+					"description": "Security and Investigation Services - Provision of  security services at LEDET's various sites for a period of 3 years"
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "346",
+				"name": "Limpopo - Economic Development Environment & Tourism"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110436",
+			"id": "ocds-9t57fa-110436-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110436",
+				"title": "WMM-LM 05/12/24/01 MMB",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "Upgrading of Guard House",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "4fa5a060-0d86-4b2a-ad04-4d7896aa504f",
+						"documentType": "basic",
+						"title": "GIURD HOUSE PLAN2.pdf",
+						"description": "GIURD HOUSE PLAN2.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4fa5a060-0d86-4b2a-ad04-4d7896aa504f.pdf&downloadedFileName=GIURD%20HOUSE%20PLAN2.pdf",
+						"datePublished": "2024-12-06T14:53:35Z",
+						"dateModified": "2024-12-06T14:53:35Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-07T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "390",
+					"name": "Winnie Madikizela-Mandela - EC Local Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "390",
+				"name": "Winnie Madikizela-Mandela - EC Local Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110435",
+			"id": "ocds-9t57fa-110435-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110435",
+				"title": "283/24",
+				"status": "",
+				"mainProcurementCategory": "",
+				"additionalProcurementCategories": [
+					"consultingServices"
+				],
+				"description": "360 INTEGRATED MARKETING AND COMMUNICATION AGENCY FOR BRAZIL",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "a8a7be45-6de8-4d30-975b-6962dbf810fc",
+						"documentType": "basic",
+						"title": "PART C - SAT 283_24 TENDER EVALUATION PROCESS.pdf",
+						"description": "PART C - SAT 283_24 TENDER EVALUATION PROCESS.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=a8a7be45-6de8-4d30-975b-6962dbf810fc.pdf&downloadedFileName=PART%20C%20-%20SAT%20283_24%20TENDER%20EVALUATION%20PROCESS.pdf",
+						"datePublished": "2024-12-06T14:48:41Z",
+						"dateModified": "2024-12-06T14:48:41Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-20T17:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "627",
+					"name": "South African Tourism"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Proposal"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "627",
+				"name": "South African Tourism"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110434",
+			"id": "ocds-9t57fa-110434-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110434",
+				"title": "MKRIQ46/2024",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "APPOINTMENT OF SERVICE PROVIDER THAT WILL SUPPLY AND INSTALL SOPHOS SD-RED DEVICES",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "5447534c-85d7-48e6-98bc-35f7532e6545",
+						"documentType": "basic",
+						"title": "Document SOPHOS SD-RED DEVICES.pdf",
+						"description": "Document SOPHOS SD-RED DEVICES.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=5447534c-85d7-48e6-98bc-35f7532e6545.pdf&downloadedFileName=Document%20SOPHOS%20SD-RED%20DEVICES.pdf",
+						"datePublished": "2024-12-06T14:42:17Z",
+						"dateModified": "2024-12-06T14:42:17Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2024-12-12T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "416",
+					"name": "Moses Kotane Institute"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "416",
+				"name": "Moses Kotane Institute"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110433",
+			"id": "ocds-9t57fa-110433-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110433",
+				"title": "RFQ JW 192 MS 24 ",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "ELECTRONIC COPIES OF SANS STANDARDS",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "d7a5d2bf-5256-4567-90b2-3cede8f5b664",
+						"documentType": "basic",
+						"title": "RFQ JW 192 MS 24 ELECTRONIC COPIES OF SANS STANDARDS.pdf",
+						"description": "RFQ JW 192 MS 24 ELECTRONIC COPIES OF SANS STANDARDS.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=d7a5d2bf-5256-4567-90b2-3cede8f5b664.pdf&downloadedFileName=RFQ%20JW%20192%20MS%2024%20ELECTRONIC%20COPIES%20OF%20SANS%20STANDARDS.pdf",
+						"datePublished": "2024-12-06T14:29:50Z",
+						"dateModified": "2024-12-06T14:29:50Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2024-12-13T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "279",
+					"name": "Johannesburg Water"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "279",
+				"name": "Johannesburg Water"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110432",
+			"id": "ocds-9t57fa-110432-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110432",
+				"title": "AE/VALK007/2024",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "APPOINTMENT OF A SERVICE PROVIDER for PROVISION OF 20Ha SEEDING SERVICES FOR AFRICAN EXPLORATION MINING AND FINANCE CORPORATION ('AEMFC') (SOC) LTD FOR VLAKFONTEIN MINE AS A ONCE OFF SERVICE.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "4069121a-a8a5-4d95-9a0d-3d1e3f97c003",
+						"documentType": "basic",
+						"title": "RFP Seeding Services Advert.pdf",
+						"description": "RFP Seeding Services Advert.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=4069121a-a8a5-4d95-9a0d-3d1e3f97c003.pdf&downloadedFileName=RFP%20Seeding%20Services%20Advert.pdf",
+						"datePublished": "2024-12-06T14:20:39Z",
+						"dateModified": "2024-12-06T14:20:39Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-23T12:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "4",
+					"name": "African Exploration Mining and Finance Corporation Soc Ltd"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Proposal"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "4",
+				"name": "African Exploration Mining and Finance Corporation Soc Ltd"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110431",
+			"id": "ocds-9t57fa-110431-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110431",
+				"title": "A035- 2024/25",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "REQUEST FOR PROPOSALS: APPOINTMENT OF mSCOA PROJECT MANAGER TO ADVISE AND MANAGE THE SOURCING AND IMPLEMENTATION OF mSCOA COMPLIANT ENTERPRISE RESOURCE PLANNING (ERP) SYSTEM",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "c0ec5c1e-9556-4950-84c7-798f763db14b",
+						"documentType": "basic",
+						"title": "A035 - 2024 25 RFP FOR MSCOA PROJECT MANAGER ON ERP SYSTEM.pdf",
+						"description": "A035 - 2024 25 RFP FOR MSCOA PROJECT MANAGER ON ERP SYSTEM.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c0ec5c1e-9556-4950-84c7-798f763db14b.pdf&downloadedFileName=A035%20-%202024%2025%20RFP%20FOR%20MSCOA%20PROJECT%20MANAGER%20ON%20ERP%20SYSTEM.pdf",
+						"datePublished": "2024-12-06T14:18:30Z",
+						"dateModified": "2024-12-06T14:18:30Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-07T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "481",
+					"name": "Newcastle Local Municipality"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Proposal"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "481",
+				"name": "Newcastle Local Municipality"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110430",
+			"id": "ocds-9t57fa-110430-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110430",
+				"title": "iLABS//RFQ2024//25:159",
+				"status": "",
+				"mainProcurementCategory": "",
+				"additionalProcurementCategories": [
+					"consultingServices"
+				],
+				"description": "Supply and delivery of precious metal products",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "1a041c8c-ef92-4104-a38b-bc46e7ed8fc0",
+						"documentType": "basic",
+						"title": "RFQ-Supply and Delivery of Precious Metal Products.pdf",
+						"description": "RFQ-Supply and Delivery of Precious Metal Products.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=1a041c8c-ef92-4104-a38b-bc46e7ed8fc0.pdf&downloadedFileName=RFQ-Supply%20and%20Delivery%20of%20Precious%20Metal%20Products.pdf",
+						"datePublished": "2024-12-06T14:11:42Z",
+						"dateModified": "2024-12-06T14:11:42Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2024-12-13T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "470",
+					"name": "National Research Foundation"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "470",
+				"name": "National Research Foundation"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110429",
+			"id": "ocds-9t57fa-110429-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110429",
+				"title": "GTAC 010-2024-25",
+				"status": "",
+				"mainProcurementCategory": "works",
+				"additionalProcurementCategories": [
+					"works"
+				],
+				"description": "UPGRADE OF THE OLIFANTSPOORT AND EBENEZER WATER SCHEMES: CONSTRUCTION OF EBENEZER PUMP STATION TO RUSTFONTEIN RESERVOIRS DUPLICATE RISING MAIN, EXTENSION OF GRAVITY MAIN B TO MANKWENG  RESERVOIR OFF-TAKE AND SPECON TO PUMP STATION 2 GRAVITY MAIN",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "37940f55-c251-4e16-908f-e82c918b238d",
+						"documentType": "basic",
+						"title": "GTAC 010-2024-25-Information to bidders1.pdf",
+						"description": "GTAC 010-2024-25-Information to bidders1.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=37940f55-c251-4e16-908f-e82c918b238d.pdf&downloadedFileName=GTAC%20010-2024-25-Information%20to%20bidders1.pdf",
+						"datePublished": "2024-12-06T13:59:02Z",
+						"dateModified": "2024-12-06T13:59:02Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-02-28T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "230",
+					"name": "Government Technical Advisory Centre (GTAC)"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "230",
+				"name": "Government Technical Advisory Centre (GTAC)"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110427",
+			"id": "ocds-9t57fa-110427-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110427",
+				"title": "OCJ2024/12",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Request for Proposal for Appointment of a Travel Management Company to provide Offsite Travel, Accommodation and Conference Facilities Services to the Office of the Chief Justice (OCJ) for a period of Thirty-Six (36) months",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "63468cf0-210e-43cf-b2f8-9a7560f66fc1",
+						"documentType": "basic",
+						"title": "A2 PRICING SCHEDULE.xlsx",
+						"description": "A2 PRICING SCHEDULE.xlsx",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=63468cf0-210e-43cf-b2f8-9a7560f66fc1.xlsx&downloadedFileName=A2%20PRICING%20SCHEDULE.xlsx",
+						"datePublished": "2024-12-06T13:36:58Z",
+						"dateModified": "2024-12-06T13:36:58Z",
+						"format": "xlsx",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-28T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "521",
+					"name": "Office of the Chief Justice"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "521",
+				"name": "Office of the Chief Justice"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110426",
+			"id": "ocds-9t57fa-110426-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110426",
+				"title": "CSIR RFQ :9484/14/01/2025",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "Request for Quotation (RFQ) For the provision of services for the manufacture of Camouflage Uniform Insignia for the SA Army.",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "2ab73c5e-0440-4bc2-a30d-8474992ab98e",
+						"documentType": "basic",
+						"title": "Badges and flags specifications.pdf",
+						"description": "Badges and flags specifications.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=2ab73c5e-0440-4bc2-a30d-8474992ab98e.pdf&downloadedFileName=Badges%20and%20flags%20specifications.pdf",
+						"datePublished": "2024-12-06T13:09:27Z",
+						"dateModified": "2024-12-06T13:09:27Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-14T16:30:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "83",
+					"name": "Council for Scientific and Industrial Research (CSIR)"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "83",
+				"name": "Council for Scientific and Industrial Research (CSIR)"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110425",
+			"id": "ocds-9t57fa-110425-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110425",
+				"title": "T57/12/24",
+				"status": "",
+				"mainProcurementCategory": "services",
+				"additionalProcurementCategories": [
+					"services"
+				],
+				"description": "REQUEST FOR PROPOSAL (RFP) FOR PROVISION OF INTERNET SERVICES",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "b0cc8de6-fc21-404c-8c26-211811daa4fd",
+						"documentType": "basic",
+						"title": "T57-12-24 Provision of Internet Services.pdf",
+						"description": "T57-12-24 Provision of Internet Services.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=b0cc8de6-fc21-404c-8c26-211811daa4fd.pdf&downloadedFileName=T57-12-24%20Provision%20of%20Internet%20Services.pdf",
+						"datePublished": "2024-12-06T13:00:46Z",
+						"dateModified": "2024-12-06T13:00:46Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-20T11:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "255",
+					"name": "Industrial Development Corporation of South Africa Limited"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "255",
+				"name": "Industrial Development Corporation of South Africa Limited"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		},
+		{
+			"ocid": "ocds-9t57fa-110424",
+			"id": "ocds-9t57fa-110424-2024-12-06",
+			"date": "2024-12-06T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "110424",
+				"title": "ERI/2024/TGS/24",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "THE SUPPLY OF FIVE WELDINH MACHINE(TIGX2,MIGX2 AND AUTOMATIC TIG WELDING MACHINESX1)",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "c680d648-0c73-424b-ab26-009c24c867b0",
+						"documentType": "basic",
+						"title": "SOW - Supply of Welding Machines Mechanical Services.pdf",
+						"description": "SOW - Supply of Welding Machines Mechanical Services.pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=c680d648-0c73-424b-ab26-009c24c867b0.pdf&downloadedFileName=SOW%20-%20Supply%20of%20Welding%20Machines%20Mechanical%20Services.pdf",
+						"datePublished": "2024-12-06T13:00:46Z",
+						"dateModified": "2024-12-06T13:00:46Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-06T00:00:00Z",
+					"endDate": "2025-01-16T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Quotation"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
 		}
 	],
 	"links": {
-		"prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=26&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
+		"prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=27&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
 	}
 }

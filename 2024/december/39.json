@@ -1,0 +1,68 @@
+[
+	{	
+		"TenderId":"111364",
+		"Release":		
+		{
+			"ocid": "ocds-9t57fa-111364",
+			"id": "ocds-9t57fa-111364-2024-12-31",
+			"date": "2024-12-31T00:00:00Z",
+			"tag": [
+				"compiled"
+			],
+			"initiationType": "tender",
+			"tender": {
+				"id": "111364",
+				"title": "MWP2197GX Regret letter",
+				"status": "",
+				"mainProcurementCategory": "goods",
+				"additionalProcurementCategories": [
+					"goods"
+				],
+				"description": "Regret letter for the “supply, delivery, including storage and handling, of diesel 50ppm (diesel)to Ankerlig power station (Ankerlig) and /or the supply and delivery of jet a1 /keresone / diesel to Acacia and Portrex power stations (Acacia and Portrex) for a period of five (5) years on an as and when required basis”",
+				"value": {
+					"amount": 0,
+					"currency": "ZAR"
+				},
+				"documents": [
+					{
+						"id": "65365f3c-349b-4f8a-99bb-ba5b944095e6",
+						"documentType": "basic",
+						"title": "Regret Letter for Unsuccessful Suppliers - Diesel supply (MWP2197GX).pdf",
+						"description": "Regret Letter for Unsuccessful Suppliers - Diesel supply (MWP2197GX).pdf",
+						"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=65365f3c-349b-4f8a-99bb-ba5b944095e6.pdf&downloadedFileName=Regret%20Letter%20for%20Unsuccessful%20Suppliers%20-%20Diesel%20supply%20%28MWP2197GX%29.pdf",
+						"datePublished": "2024-12-31T10:39:05Z",
+						"dateModified": "2024-12-31T10:39:05Z",
+						"format": "pdf",
+						"language": "en"
+					}
+				],
+				"tenderPeriod": {
+					"startDate": "2024-12-31T00:00:00Z",
+					"endDate": "2025-04-30T10:00:00Z"
+				},
+				"tenderers": [],
+				"procuringEntity": {
+					"id": "167",
+					"name": "ESKOM"
+				},
+				"procurementMethod": "open",
+				"procurementMethodDetails": "Request for Bid(Open-Tender)"
+			},
+			"planning": {
+				"rationale": "",
+				"budget": {
+					"description": " - "
+				},
+				"documents": []
+			},
+			"parties": [],
+			"buyer": {
+				"id": "167",
+				"name": "ESKOM"
+			},
+			"language": "en-za",
+			"awards": [],
+			"contracts": []
+		}
+	}
+]

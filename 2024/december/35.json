@@ -1,14 +1,4 @@
-{
-	"uri": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=35&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31",
-	"version": "1.1",
-	"publishedDate": "2025-01-04T10:38:47Z",
-	"publisher": {
-		"name": "National Treasury (South Africa)",
-		"uri": "https://data.etenders.gov.za/"
-	},
-	"license": "https://opendatacommons.org/licenses/pddl/1-0/111",
-	"publicationPolicy": "https://data.etenders.gov.za//Home/LearnMore",
-	"releases": [
+[
 		{
 			"ocid": "ocds-9t57fa-110126",
 			"id": "ocds-9t57fa-110126-2024-12-03",
@@ -3486,8 +3476,4 @@
 			"awards": [],
 			"contracts": []
 		}
-	],
-	"links": {
-		"prev": "https://ocds-api.etenders.gov.za/api/OCDSReleases?PageNumber=34&PageSize=100&dateFrom=2024-12-01&dateTo=2024-12-31"
-	}
-}
+	]

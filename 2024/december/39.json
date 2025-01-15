@@ -1,73 +1,9 @@
 [
 	{
-		"ocid": "ocds-9t57fa-111362",
-		"id": "ocds-9t57fa-111362-2024-12-31",
-		"date": "2024-12-31T00:00:00Z",
-		"tag": [
-			"compiled"
-		],
-		"initiationType": "tender",
-		"tender": {
-			"id": "111362",
-			"title": "Tender Validity Extension MWP2206DX-R",
-			"status": "",
-			"mainProcurementCategory": "services",
-			"additionalProcurementCategories": [
-				"services"
-			],
-			"description": "Tender Validity Extension- Tender Re-issue for the provision of MV and LV Electrification infrastructure and connections (households and LV Extensions/infills/LV extensions/Post connections) within Limlanga Cluster-\r\nMpumalanga for a period of 60 months.\r\n",
-			"value": {
-				"amount": 0,
-				"currency": "ZAR"
-			},
-			"documents": [
-				{
-					"id": "0f2bfe1c-b672-49fd-bff8-4005c7eb1de1",
-					"documentType": "basic",
-					"title": "Letter to Extend validity period of Tender 30 December 2024 Signed.pdf",
-					"description": "Letter to Extend validity period of Tender 30 December 2024 Signed.pdf",
-					"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=0f2bfe1c-b672-49fd-bff8-4005c7eb1de1.pdf&downloadedFileName=Letter%20to%20Extend%20validity%20period%20of%20Tender%2030%20December%202024%20Signed.pdf",
-					"datePublished": "2024-12-31T06:09:46Z",
-					"dateModified": "2024-12-31T06:09:46Z",
-					"format": "pdf",
-					"language": "en"
-				}
-			],
-			"tenderPeriod": {
-				"startDate": "2024-12-31T00:00:00Z",
-				"endDate": "2026-01-03T10:00:00Z"
-			},
-			"tenderers": [],
-			"procuringEntity": {
-				"id": "167",
-				"name": "ESKOM"
-			},
-			"procurementMethod": "open",
-			"procurementMethodDetails": "Request for Bid(Open-Tender)"
-		},
-		"planning": {
-			"rationale": "",
-			"budget": {
-				"description": " - "
-			},
-			"documents": []
-		},
-		"parties": [],
-		"buyer": {
-			"id": "167",
-			"name": "ESKOM"
-		},
-		"language": "en-za",
-		"awards": [],
-		"contracts": []
-	},
-	{
 		"ocid": "ocds-9t57fa-111364",
 		"id": "ocds-9t57fa-111364-2024-12-31",
 		"date": "2024-12-31T00:00:00Z",
-		"tag": [
-			"compiled"
-		],
+		"tag":"compiled",
 		"initiationType": "tender",
 		"tender": {
 			"id": "111364",
@@ -118,68 +54,6 @@
 		"buyer": {
 			"id": "167",
 			"name": "ESKOM"
-		},
-		"language": "en-za",
-		"awards": [],
-		"contracts": []
-	},
-	{
-		"ocid": "ocds-9t57fa-111363",
-		"id": "ocds-9t57fa-111363-2024-12-31",
-		"date": "2024-12-31T00:00:00Z",
-		"tag": [
-			"compiled"
-		],
-		"initiationType": "tender",
-		"tender": {
-			"id": "111363",
-			"title": "RFQ JW 207 MS 24 ",
-			"status": "",
-			"mainProcurementCategory": "works",
-			"additionalProcurementCategories": [
-				"works"
-			],
-			"description": "DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS: BRIDGE 2 SITE SECURING WORKS",
-			"value": {
-				"amount": 0,
-				"currency": "ZAR"
-			},
-			"documents": [
-				{
-					"id": "ae3bc0f4-ac6b-4a9c-9f1f-fa94aa014f36",
-					"documentType": "basic",
-					"title": "RFQ JW 207 MS 24 DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS BRIDGE 2 SITE SECURING WORKS.pdf",
-					"description": "RFQ JW 207 MS 24 DIEPSLOOT SEWER PIPELINE AND BRIDGES REPAIRS BRIDGE 2 SITE SECURING WORKS.pdf",
-					"url": "https://ocds-api.etenders.gov.za/Tenders/Download?blobName=ae3bc0f4-ac6b-4a9c-9f1f-fa94aa014f36.pdf&downloadedFileName=RFQ%20JW%20207%20MS%2024%20DIEPSLOOT%20SEWER%20PIPELINE%20AND%20BRIDGES%20REPAIRS%20BRIDGE%202%20SITE%20SECURING%20WORKS.pdf",
-					"datePublished": "2024-12-31T09:06:53Z",
-					"dateModified": "2024-12-31T09:06:53Z",
-					"format": "pdf",
-					"language": "en"
-				}
-			],
-			"tenderPeriod": {
-				"startDate": "2024-12-31T00:00:00Z",
-				"endDate": "2025-01-21T12:00:00Z"
-			},
-			"tenderers": [],
-			"procuringEntity": {
-				"id": "279",
-				"name": "Johannesburg Water"
-			},
-			"procurementMethod": "open",
-			"procurementMethodDetails": "Request for Quotation"
-		},
-		"planning": {
-			"rationale": "",
-			"budget": {
-				"description": " - "
-			},
-			"documents": []
-		},
-		"parties": [],
-		"buyer": {
-			"id": "279",
-			"name": "Johannesburg Water"
 		},
 		"language": "en-za",
 		"awards": [],
